@@ -61,11 +61,15 @@ cd Tarefex
    ```
 
 ### 3. Configurar o Frontend
-1. Na raiz do projeto, instale as dependências:
+1. Navegue até a pasta do frontend:
+   ```bash
+   cd Frontend
+   ```
+2. Instale as dependências:
    ```bash
    npm install
    ```
-2. Inicie o servidor de desenvolvimento:
+3. Inicie o servidor de desenvolvimento:
    ```bash
    npm run dev
    ```
@@ -73,6 +77,16 @@ cd Tarefex
 ---
 
 ## 📐 Arquitetura do Projeto
+
+A estrutura do projeto está organizada da seguinte forma:
+
+```text
+tarefex/
+├── Backend/system/  # API Spring Boot (Java)
+└── Frontend/        # Aplicação React (Vite)
+    ├── src/         # Componentes, Páginas e Lógica
+    └── public/      # Assets estáticos
+```
 
 O projeto segue as melhores práticas de desenvolvimento, incluindo:
 - **Separação de Preocupações**: Camadas bem definidas no Backend (Controller, Service, Repository, DTO, Model).
