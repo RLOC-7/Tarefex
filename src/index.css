@@ -1,0 +1,104 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ------------------------------
+   RESET GLOBAL E PADRÕES BÁSICOS
+------------------------------- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Fonte global e esquema de cores */
+:root {
+  --primary: #00b894;
+  /* Cor principal */
+  --primary-dark: #009e7a;
+  /* Variação mais escura */
+  --secondary: #1f1f1f;
+  /* Fundo de cartões */
+  --background: #121212;
+  /* Cor de fundo principal */
+  --border-color: #2a2a2a;
+  /* Cor padrão para bordas */
+  --text-primary: #ffffff;
+  /* Texto principal */
+  --text-secondary: #cfcfcf;
+  /* Texto secundário */
+  --text-muted: #888888;
+  /* Texto desabilitado / dicas */
+
+  --transition-fast: 0.2s ease;
+  --transition-medium: 0.3s ease;
+
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  color-scheme: dark;
+  line-height: 1.6;
+}
+
+/* ------------------------------
+   BODY GLOBAL
+------------------------------- */
+body {
+  min-height: 100vh;
+  background-color: var(--background);
+  color: var(--text-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ------------------------------
+   LINKS
+------------------------------- */
+a {
+  color: var(--primary);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+a:hover {
+  color: var(--primary-dark);
+}
+
+/* ------------------------------
+   SCROLLBAR PERSONALIZADA
+------------------------------- */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1a1a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 4px;
+  transition: background var(--transition-fast);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary);
+}
+
+/* ------------------------------
+   ANIMAÇÕES GLOBAIS
+------------------------------- */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(5px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.5s ease forwards;
+}

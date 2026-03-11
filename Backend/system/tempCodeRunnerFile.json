@@ -1,0 +1,7002 @@
+[
+  {
+    "nome": "Andressa",
+    "sobrenome": "Meireles",
+    "nascimento": "1970-02-15",
+    "cad_status": true,
+    "razao_social": "Serna e Beltr\u00e3o e Filhos"
+  },
+  {
+    "nome": "J\u00e1como",
+    "sobrenome": "Montenegro",
+    "nascimento": "2021-07-04",
+    "cad_status": true,
+    "razao_social": "das Neves e de Aguiar"
+  },
+  {
+    "nome": "Lidiane",
+    "sobrenome": "Mendon\u00e7a",
+    "nascimento": "1983-04-26",
+    "cad_status": false,
+    "razao_social": "Corona e Rios Ltda."
+  },
+  {
+    "nome": "Paloma",
+    "sobrenome": "Urias",
+    "nascimento": "1980-08-02",
+    "cad_status": true,
+    "razao_social": "Matias e Associados"
+  },
+  {
+    "nome": "Sim\u00e3o",
+    "sobrenome": "Cordeiro",
+    "nascimento": "2005-05-05",
+    "cad_status": false,
+    "razao_social": "Fidalgo Comercial Ltda."
+  },
+  {
+    "nome": "Tom\u00e1s",
+    "sobrenome": "D'\u00e1vila",
+    "nascimento": "2024-01-17",
+    "cad_status": true,
+    "razao_social": "da Cruz Comercial Ltda."
+  },
+  {
+    "nome": "F\u00e1tima",
+    "sobrenome": "das Neves",
+    "nascimento": "1982-12-24",
+    "cad_status": true,
+    "razao_social": "Padilha e Velasques"
+  },
+  {
+    "nome": "Deivid",
+    "sobrenome": "Camacho",
+    "nascimento": "1976-08-02",
+    "cad_status": true,
+    "razao_social": "Cervantes Comercial Ltda."
+  },
+  {
+    "nome": "Michael",
+    "sobrenome": "Camacho",
+    "nascimento": "1974-11-04",
+    "cad_status": false,
+    "razao_social": "Arag\u00e3o Comercial Ltda."
+  },
+  {
+    "nome": "Santiago",
+    "sobrenome": "Paes",
+    "nascimento": "1997-06-06",
+    "cad_status": false,
+    "razao_social": "Arag\u00e3o Comercial Ltda."
+  },
+  {
+    "nome": "Rafael",
+    "sobrenome": "Rivera",
+    "nascimento": "1984-12-21",
+    "cad_status": false,
+    "razao_social": "Beltr\u00e3o e Santiago"
+  },
+  {
+    "nome": "Benjamin",
+    "sobrenome": "Franco",
+    "nascimento": "1997-07-06",
+    "cad_status": true,
+    "razao_social": "Santiago e Galv\u00e3o"
+  },
+  {
+    "nome": "Gael",
+    "sobrenome": "Medina",
+    "nascimento": "1972-09-05",
+    "cad_status": true,
+    "razao_social": "Branco Comercial Ltda."
+  },
+  {
+    "nome": "Wesley",
+    "sobrenome": "Gil",
+    "nascimento": "2005-06-27",
+    "cad_status": true,
+    "razao_social": "Soto e Toledo"
+  },
+  {
+    "nome": "Samara",
+    "sobrenome": "Beltr\u00e3o",
+    "nascimento": "1975-08-16",
+    "cad_status": false,
+    "razao_social": "Pedrosa e Caldeira S.A."
+  },
+  {
+    "nome": "Camilo",
+    "sobrenome": "Lozano",
+    "nascimento": "2011-03-11",
+    "cad_status": false,
+    "razao_social": "Domingues-Bonilha"
+  },
+  {
+    "nome": "Agostinho",
+    "sobrenome": "Arag\u00e3o",
+    "nascimento": "2003-01-28",
+    "cad_status": true,
+    "razao_social": "Arag\u00e3o e Campos e Associados"
+  },
+  {
+    "nome": "Suzana",
+    "sobrenome": "Assun\u00e7\u00e3o",
+    "nascimento": "1971-08-19",
+    "cad_status": false,
+    "razao_social": "Vila Ltda."
+  },
+  {
+    "nome": "Edson",
+    "sobrenome": "Ramos",
+    "nascimento": "2016-11-27",
+    "cad_status": true,
+    "razao_social": "Arruda-Fernandes"
+  },
+  {
+    "nome": "Guilherme",
+    "sobrenome": "Garcia",
+    "nascimento": "2022-12-31",
+    "cad_status": true,
+    "razao_social": "Lozano e Bezerra"
+  },
+  {
+    "nome": "Ian",
+    "sobrenome": "Ferreira",
+    "nascimento": "1982-10-02",
+    "cad_status": true,
+    "razao_social": "Batista-Assun\u00e7\u00e3o"
+  },
+  {
+    "nome": "Saulo",
+    "sobrenome": "Lozano",
+    "nascimento": "2012-08-13",
+    "cad_status": true,
+    "razao_social": "de Aguiar Comercial Ltda."
+  },
+  {
+    "nome": "Luciano",
+    "sobrenome": "Alves",
+    "nascimento": "1987-02-03",
+    "cad_status": false,
+    "razao_social": "Matias-Verdugo"
+  },
+  {
+    "nome": "Marco",
+    "sobrenome": "Torres",
+    "nascimento": "1999-12-02",
+    "cad_status": true,
+    "razao_social": "Delvalle-Cruz"
+  },
+  {
+    "nome": "Vin\u00edcius",
+    "sobrenome": "Solano",
+    "nascimento": "1997-04-05",
+    "cad_status": false,
+    "razao_social": "Saito e Lira"
+  },
+  {
+    "nome": "Fl\u00e1via",
+    "sobrenome": "Barreto",
+    "nascimento": "2010-11-07",
+    "cad_status": false,
+    "razao_social": "Leal-Rico"
+  },
+  {
+    "nome": "Ma\u00edsa",
+    "sobrenome": "Delatorre",
+    "nascimento": "2013-03-28",
+    "cad_status": false,
+    "razao_social": "Salgado e Ortiz S.A."
+  },
+  {
+    "nome": "Dayana",
+    "sobrenome": "Valente",
+    "nascimento": "1985-10-16",
+    "cad_status": true,
+    "razao_social": "Meireles e Beltr\u00e3o S.A."
+  },
+  {
+    "nome": "Artur",
+    "sobrenome": "Roque",
+    "nascimento": "2011-03-17",
+    "cad_status": false,
+    "razao_social": "Abreu-Queir\u00f3s"
+  },
+  {
+    "nome": "Sandra",
+    "sobrenome": "de Arruda",
+    "nascimento": "2025-10-20",
+    "cad_status": false,
+    "razao_social": "Cordeiro Comercial Ltda."
+  },
+  {
+    "nome": "Emanuel",
+    "sobrenome": "Leon",
+    "nascimento": "1983-05-31",
+    "cad_status": false,
+    "razao_social": "Salas e Oliveira"
+  },
+  {
+    "nome": "Jer\u00f4nimo",
+    "sobrenome": "Paes",
+    "nascimento": "1980-03-17",
+    "cad_status": false,
+    "razao_social": "Matias-Estrada"
+  },
+  {
+    "nome": "Ohana",
+    "sobrenome": "Brito",
+    "nascimento": "1996-04-28",
+    "cad_status": false,
+    "razao_social": "Cordeiro e Vasques S.A."
+  },
+  {
+    "nome": "M\u00e1ximo",
+    "sobrenome": "da Cruz",
+    "nascimento": "2026-01-03",
+    "cad_status": true,
+    "razao_social": "Soto e Barreto e Associados"
+  },
+  {
+    "nome": "Reinaldo",
+    "sobrenome": "Brito",
+    "nascimento": "2022-02-01",
+    "cad_status": false,
+    "razao_social": "Torres Comercial Ltda."
+  },
+  {
+    "nome": "Viviane",
+    "sobrenome": "Gusm\u00e3o",
+    "nascimento": "1977-06-29",
+    "cad_status": false,
+    "razao_social": "Montenegro e Ferraz"
+  },
+  {
+    "nome": "Alice",
+    "sobrenome": "Ramires",
+    "nascimento": "2015-08-28",
+    "cad_status": true,
+    "razao_social": "Fernandes-Assun\u00e7\u00e3o"
+  },
+  {
+    "nome": "Sheila",
+    "sobrenome": "Barreto",
+    "nascimento": "1983-10-08",
+    "cad_status": false,
+    "razao_social": "Domingues Ltda."
+  },
+  {
+    "nome": "Diogo",
+    "sobrenome": "Gomes",
+    "nascimento": "1970-10-24",
+    "cad_status": true,
+    "razao_social": "Batista-Pacheco"
+  },
+  {
+    "nome": "Maur\u00edcio",
+    "sobrenome": "Velasques",
+    "nascimento": "1978-11-22",
+    "cad_status": false,
+    "razao_social": "Verdugo Comercial Ltda."
+  },
+  {
+    "nome": "Pablo",
+    "sobrenome": "Brito",
+    "nascimento": "2024-02-28",
+    "cad_status": false,
+    "razao_social": "Casanova-Batista"
+  },
+  {
+    "nome": "Demian",
+    "sobrenome": "Souza",
+    "nascimento": "2005-09-04",
+    "cad_status": false,
+    "razao_social": "Mendes e Associados"
+  },
+  {
+    "nome": "D\u00e9bora",
+    "sobrenome": "Branco",
+    "nascimento": "1999-11-17",
+    "cad_status": true,
+    "razao_social": "Galhardo e Rivera"
+  },
+  {
+    "nome": "Jonas",
+    "sobrenome": "Serna",
+    "nascimento": "1995-06-01",
+    "cad_status": true,
+    "razao_social": "Deverso S.A."
+  },
+  {
+    "nome": "Vin\u00edcius",
+    "sobrenome": "Lutero",
+    "nascimento": "2025-04-09",
+    "cad_status": false,
+    "razao_social": "Zambrano-Toledo"
+  },
+  {
+    "nome": "Wilson",
+    "sobrenome": "Bittencourt",
+    "nascimento": "1970-03-01",
+    "cad_status": false,
+    "razao_social": "Mar\u00e9s Comercial Ltda."
+  },
+  {
+    "nome": "Alexandre",
+    "sobrenome": "Lutero",
+    "nascimento": "1998-06-17",
+    "cad_status": false,
+    "razao_social": "Balestero-Rocha"
+  },
+  {
+    "nome": "Pedro",
+    "sobrenome": "Santiago",
+    "nascimento": "2003-06-14",
+    "cad_status": true,
+    "razao_social": "Bittencourt-Vila"
+  },
+  {
+    "nome": "George",
+    "sobrenome": "Soares",
+    "nascimento": "1999-09-05",
+    "cad_status": false,
+    "razao_social": "Solano Ltda."
+  },
+  {
+    "nome": "Lu\u00edsa",
+    "sobrenome": "Correia",
+    "nascimento": "2006-02-14",
+    "cad_status": true,
+    "razao_social": "Dias-Val\u00eancia"
+  },
+  {
+    "nome": "M\u00e1rcio",
+    "sobrenome": "Burgos",
+    "nascimento": "2016-08-17",
+    "cad_status": false,
+    "razao_social": "de Oliveira Comercial Ltda."
+  },
+  {
+    "nome": "Stephany",
+    "sobrenome": "Zambrano",
+    "nascimento": "1976-06-08",
+    "cad_status": false,
+    "razao_social": "da Cruz e Filhos"
+  },
+  {
+    "nome": "Alma",
+    "sobrenome": "Matos",
+    "nascimento": "1993-03-09",
+    "cad_status": false,
+    "razao_social": "Neves Comercial Ltda."
+  },
+  {
+    "nome": "Raissa",
+    "sobrenome": "Barros",
+    "nascimento": "1986-10-31",
+    "cad_status": true,
+    "razao_social": "Vega e Filhos"
+  },
+  {
+    "nome": "Mateus",
+    "sobrenome": "Velasques",
+    "nascimento": "2000-09-05",
+    "cad_status": true,
+    "razao_social": "Mascarenhas e Soto"
+  },
+  {
+    "nome": "Carla",
+    "sobrenome": "Zamana",
+    "nascimento": "2003-01-15",
+    "cad_status": false,
+    "razao_social": "Benez Comercial Ltda."
+  },
+  {
+    "nome": "Ingrid",
+    "sobrenome": "Serra",
+    "nascimento": "1988-01-07",
+    "cad_status": true,
+    "razao_social": "Padr\u00e3o e Delgado Ltda."
+  },
+  {
+    "nome": "Renato",
+    "sobrenome": "Santacruz",
+    "nascimento": "1980-11-19",
+    "cad_status": false,
+    "razao_social": "Vega Comercial Ltda."
+  },
+  {
+    "nome": "Beatriz",
+    "sobrenome": "Aguiar",
+    "nascimento": "2025-10-04",
+    "cad_status": false,
+    "razao_social": "Bezerra e Filhos"
+  },
+  {
+    "nome": "Maria",
+    "sobrenome": "Cervantes",
+    "nascimento": "2013-12-24",
+    "cad_status": false,
+    "razao_social": "Esteves e Benez e Filhos"
+  },
+  {
+    "nome": "Giovanna",
+    "sobrenome": "Marques",
+    "nascimento": "2019-04-09",
+    "cad_status": true,
+    "razao_social": "Maldonado Comercial Ltda."
+  },
+  {
+    "nome": "Mauro",
+    "sobrenome": "Chaves",
+    "nascimento": "2012-06-14",
+    "cad_status": false,
+    "razao_social": "Bittencourt S.A."
+  },
+  {
+    "nome": "Kevin",
+    "sobrenome": "Carmona",
+    "nascimento": "1996-09-15",
+    "cad_status": false,
+    "razao_social": "Lozano e Vieira e Filhos"
+  },
+  {
+    "nome": "Thalia",
+    "sobrenome": "Torres",
+    "nascimento": "1979-03-09",
+    "cad_status": true,
+    "razao_social": "Madeira e Batista"
+  },
+  {
+    "nome": "Rodolfo",
+    "sobrenome": "Zamana",
+    "nascimento": "1990-01-01",
+    "cad_status": true,
+    "razao_social": "Sandoval Comercial Ltda."
+  },
+  {
+    "nome": "Rafael",
+    "sobrenome": "Rocha",
+    "nascimento": "2012-01-14",
+    "cad_status": true,
+    "razao_social": "Domingues e Gon\u00e7alves e Associados"
+  },
+  {
+    "nome": "Alessandro",
+    "sobrenome": "Galindo",
+    "nascimento": "2008-02-08",
+    "cad_status": false,
+    "razao_social": "de Oliveira e Associados"
+  },
+  {
+    "nome": "Benedito",
+    "sobrenome": "Fonseca",
+    "nascimento": "2021-01-03",
+    "cad_status": false,
+    "razao_social": "Espinoza-Louren\u00e7o"
+  },
+  {
+    "nome": "Tom\u00e1s",
+    "sobrenome": "Ferreira",
+    "nascimento": "2023-09-16",
+    "cad_status": true,
+    "razao_social": "Valentin e Martines Ltda."
+  },
+  {
+    "nome": "Roberto",
+    "sobrenome": "Rodrigues",
+    "nascimento": "2012-03-12",
+    "cad_status": false,
+    "razao_social": "Assun\u00e7\u00e3o Comercial Ltda."
+  },
+  {
+    "nome": "Paloma",
+    "sobrenome": "Roque",
+    "nascimento": "1976-04-03",
+    "cad_status": false,
+    "razao_social": "Marinho-Padilha"
+  },
+  {
+    "nome": "George",
+    "sobrenome": "Serna",
+    "nascimento": "1972-08-13",
+    "cad_status": false,
+    "razao_social": "Louren\u00e7o Comercial Ltda."
+  },
+  {
+    "nome": "Thiago",
+    "sobrenome": "Pedrosa",
+    "nascimento": "1976-02-25",
+    "cad_status": false,
+    "razao_social": "Galindo e Verdugo"
+  },
+  {
+    "nome": "Fl\u00e1vio",
+    "sobrenome": "Saito",
+    "nascimento": "1974-05-16",
+    "cad_status": true,
+    "razao_social": "Estrada Comercial Ltda."
+  },
+  {
+    "nome": "Raissa",
+    "sobrenome": "Sales",
+    "nascimento": "2018-12-13",
+    "cad_status": true,
+    "razao_social": "Fontes Comercial Ltda."
+  },
+  {
+    "nome": "Caio",
+    "sobrenome": "Gomes",
+    "nascimento": "2000-05-04",
+    "cad_status": true,
+    "razao_social": "Santos e Alves S.A."
+  },
+  {
+    "nome": "L\u00facia",
+    "sobrenome": "Alcantara",
+    "nascimento": "1971-08-29",
+    "cad_status": false,
+    "razao_social": "Sep\u00falveda Comercial Ltda."
+  },
+  {
+    "nome": "Franco",
+    "sobrenome": "Alves",
+    "nascimento": "2016-04-23",
+    "cad_status": true,
+    "razao_social": "Casanova e Associados"
+  },
+  {
+    "nome": "T\u00e2mara",
+    "sobrenome": "Mar\u00e9s",
+    "nascimento": "1994-08-25",
+    "cad_status": true,
+    "razao_social": "Lira e Delvalle e Filhos"
+  },
+  {
+    "nome": "Tom\u00e1s",
+    "sobrenome": "Serna",
+    "nascimento": "1970-11-11",
+    "cad_status": true,
+    "razao_social": "Arruda-Padilha"
+  },
+  {
+    "nome": "Richard",
+    "sobrenome": "Valdez",
+    "nascimento": "2017-01-19",
+    "cad_status": false,
+    "razao_social": "Paes e Barros e Associados"
+  },
+  {
+    "nome": "Teobaldo",
+    "sobrenome": "Galv\u00e3o",
+    "nascimento": "2018-11-30",
+    "cad_status": true,
+    "razao_social": "Duarte e Saraiva e Filhos"
+  },
+  {
+    "nome": "Kl\u00e9ber",
+    "sobrenome": "Valentin",
+    "nascimento": "1971-07-18",
+    "cad_status": true,
+    "razao_social": "Matos e Martines"
+  },
+  {
+    "nome": "Kelly",
+    "sobrenome": "da Silva",
+    "nascimento": "1973-06-24",
+    "cad_status": true,
+    "razao_social": "Estrada Ltda."
+  },
+  {
+    "nome": "Noel",
+    "sobrenome": "Solano",
+    "nascimento": "1994-05-17",
+    "cad_status": true,
+    "razao_social": "Maldonado S.A."
+  },
+  {
+    "nome": "Laiane",
+    "sobrenome": "Casanova",
+    "nascimento": "1983-10-08",
+    "cad_status": true,
+    "razao_social": "Corona e Padilha e Filhos"
+  },
+  {
+    "nome": "Viviane",
+    "sobrenome": "Quintana",
+    "nascimento": "2012-05-14",
+    "cad_status": false,
+    "razao_social": "Grego e Pereira"
+  },
+  {
+    "nome": "Michelle",
+    "sobrenome": "Ferreira",
+    "nascimento": "1985-04-26",
+    "cad_status": true,
+    "razao_social": "Grego e Lira"
+  },
+  {
+    "nome": "Gabriel",
+    "sobrenome": "Valdez",
+    "nascimento": "1988-01-27",
+    "cad_status": false,
+    "razao_social": "Mar\u00e9s Comercial Ltda."
+  },
+  {
+    "nome": "Andr\u00e9ia",
+    "sobrenome": "Abreu",
+    "nascimento": "2011-10-11",
+    "cad_status": true,
+    "razao_social": "Gon\u00e7alves e Camacho e Filhos"
+  },
+  {
+    "nome": "Emilly",
+    "sobrenome": "Queir\u00f3s",
+    "nascimento": "2005-10-23",
+    "cad_status": false,
+    "razao_social": "Soto Comercial Ltda."
+  },
+  {
+    "nome": "Maria",
+    "sobrenome": "Maia",
+    "nascimento": "1970-04-18",
+    "cad_status": true,
+    "razao_social": "Lutero e Ferraz e Filhos"
+  },
+  {
+    "nome": "Cezar",
+    "sobrenome": "da Rosa",
+    "nascimento": "2008-02-06",
+    "cad_status": false,
+    "razao_social": "Marinho e Azevedo"
+  },
+  {
+    "nome": "Wellington",
+    "sobrenome": "Delatorre",
+    "nascimento": "1993-06-04",
+    "cad_status": true,
+    "razao_social": "Carvalho e Caldeira"
+  },
+  {
+    "nome": "Michele",
+    "sobrenome": "Cort\u00eas",
+    "nascimento": "2017-05-28",
+    "cad_status": true,
+    "razao_social": "Bittencourt e Filhos"
+  },
+  {
+    "nome": "Sheila",
+    "sobrenome": "Flores",
+    "nascimento": "2006-09-29",
+    "cad_status": false,
+    "razao_social": "Amaral Ltda."
+  },
+  {
+    "nome": "Em\u00edlia",
+    "sobrenome": "Dominato",
+    "nascimento": "1982-01-20",
+    "cad_status": true,
+    "razao_social": "Burgos Ltda."
+  },
+  {
+    "nome": "Josefina",
+    "sobrenome": "Rico",
+    "nascimento": "1978-03-12",
+    "cad_status": true,
+    "razao_social": "Gil Comercial Ltda."
+  },
+  {
+    "nome": "Natal",
+    "sobrenome": "Pontes",
+    "nascimento": "2004-08-18",
+    "cad_status": true,
+    "razao_social": "Reis e Montenegro"
+  },
+  {
+    "nome": "Renato",
+    "sobrenome": "Louren\u00e7o",
+    "nascimento": "1973-06-25",
+    "cad_status": false,
+    "razao_social": "Quintana-\u00c1vila"
+  },
+  {
+    "nome": "Victor",
+    "sobrenome": "da Cruz",
+    "nascimento": "1980-10-16",
+    "cad_status": true,
+    "razao_social": "Arruda e God\u00f3i e Filhos"
+  },
+  {
+    "nome": "Isadora",
+    "sobrenome": "Torres",
+    "nascimento": "2018-05-29",
+    "cad_status": true,
+    "razao_social": "Barros e Quintana"
+  },
+  {
+    "nome": "Marta",
+    "sobrenome": "Cervantes",
+    "nascimento": "2011-07-29",
+    "cad_status": false,
+    "razao_social": "Fernandes Comercial Ltda."
+  },
+  {
+    "nome": "Andr\u00e9",
+    "sobrenome": "Saito",
+    "nascimento": "1987-07-12",
+    "cad_status": false,
+    "razao_social": "Domingues e Dias e Associados"
+  },
+  {
+    "nome": "Sabrina",
+    "sobrenome": "Ramos",
+    "nascimento": "1970-11-01",
+    "cad_status": true,
+    "razao_social": "Saito e Pacheco"
+  },
+  {
+    "nome": "Nayara",
+    "sobrenome": "Mendon\u00e7a",
+    "nascimento": "2024-07-28",
+    "cad_status": true,
+    "razao_social": "Rodrigues e Associados"
+  },
+  {
+    "nome": "Valentin",
+    "sobrenome": "Queir\u00f3s",
+    "nascimento": "2006-07-03",
+    "cad_status": true,
+    "razao_social": "Azevedo Comercial Ltda."
+  },
+  {
+    "nome": "Alexa",
+    "sobrenome": "Assun\u00e7\u00e3o",
+    "nascimento": "2014-01-27",
+    "cad_status": true,
+    "razao_social": "Franco Ltda."
+  },
+  {
+    "nome": "Francisco",
+    "sobrenome": "Grego",
+    "nascimento": "1974-09-29",
+    "cad_status": false,
+    "razao_social": "Rodrigues e Velasques S.A."
+  },
+  {
+    "nome": "Maraisa",
+    "sobrenome": "Rivera",
+    "nascimento": "2020-07-03",
+    "cad_status": false,
+    "razao_social": "Zamana Comercial Ltda."
+  },
+  {
+    "nome": "Miguel",
+    "sobrenome": "Matias",
+    "nascimento": "2001-12-17",
+    "cad_status": true,
+    "razao_social": "Chaves Comercial Ltda."
+  },
+  {
+    "nome": "Malena",
+    "sobrenome": "Delvalle",
+    "nascimento": "1994-04-18",
+    "cad_status": false,
+    "razao_social": "Romero e Filhos"
+  },
+  {
+    "nome": "Raysa",
+    "sobrenome": "Lira",
+    "nascimento": "1997-11-12",
+    "cad_status": true,
+    "razao_social": "Assun\u00e7\u00e3o e Filhos"
+  },
+  {
+    "nome": "Marco",
+    "sobrenome": "Salazar",
+    "nascimento": "2006-04-24",
+    "cad_status": false,
+    "razao_social": "Rivera Comercial Ltda."
+  },
+  {
+    "nome": "Isis",
+    "sobrenome": "Galhardo",
+    "nascimento": "1998-10-25",
+    "cad_status": false,
+    "razao_social": "Queir\u00f3s e Santana S.A."
+  },
+  {
+    "nome": "Cl\u00e1udio",
+    "sobrenome": "Souza",
+    "nascimento": "1994-01-02",
+    "cad_status": false,
+    "razao_social": "Beltr\u00e3o S.A."
+  },
+  {
+    "nome": "Luana",
+    "sobrenome": "Ortega",
+    "nascimento": "2015-02-13",
+    "cad_status": true,
+    "razao_social": "Ramires e Molina"
+  },
+  {
+    "nome": "Adriele",
+    "sobrenome": "Sep\u00falveda",
+    "nascimento": "1978-06-20",
+    "cad_status": true,
+    "razao_social": "Fontes Ltda."
+  },
+  {
+    "nome": "Ketlin",
+    "sobrenome": "Quintana",
+    "nascimento": "1991-03-29",
+    "cad_status": true,
+    "razao_social": "Sep\u00falveda e Solano S.A."
+  },
+  {
+    "nome": "Denise",
+    "sobrenome": "Assun\u00e7\u00e3o",
+    "nascimento": "2025-07-31",
+    "cad_status": false,
+    "razao_social": "Velasques S.A."
+  },
+  {
+    "nome": "Mois\u00e9s",
+    "sobrenome": "Feliciano",
+    "nascimento": "2000-09-05",
+    "cad_status": true,
+    "razao_social": "Pontes e Meireles e Associados"
+  },
+  {
+    "nome": "Lia",
+    "sobrenome": "Balestero",
+    "nascimento": "2008-07-09",
+    "cad_status": true,
+    "razao_social": "Pena e Estrada Ltda."
+  },
+  {
+    "nome": "Joaquin",
+    "sobrenome": "Mascarenhas",
+    "nascimento": "2001-09-02",
+    "cad_status": false,
+    "razao_social": "da Rosa e Ferreira S.A."
+  },
+  {
+    "nome": "In\u00e1cio",
+    "sobrenome": "Cordeiro",
+    "nascimento": "1998-07-27",
+    "cad_status": true,
+    "razao_social": "Amaral e Leon S.A."
+  },
+  {
+    "nome": "Sebasti\u00e3o",
+    "sobrenome": "Maldonado",
+    "nascimento": "2016-04-02",
+    "cad_status": true,
+    "razao_social": "Martines e Abreu Ltda."
+  },
+  {
+    "nome": "Jorge",
+    "sobrenome": "Padr\u00e3o",
+    "nascimento": "2010-10-19",
+    "cad_status": true,
+    "razao_social": "de Oliveira e Campos S.A."
+  },
+  {
+    "nome": "T\u00e2mara",
+    "sobrenome": "Verdugo",
+    "nascimento": "1984-02-25",
+    "cad_status": true,
+    "razao_social": "Padr\u00e3o e Filhos"
+  },
+  {
+    "nome": "Eunice",
+    "sobrenome": "Abreu",
+    "nascimento": "1980-12-22",
+    "cad_status": false,
+    "razao_social": "Camacho e Associados"
+  },
+  {
+    "nome": "Gabriel",
+    "sobrenome": "Serra",
+    "nascimento": "1992-10-02",
+    "cad_status": true,
+    "razao_social": "Arag\u00e3o e Associados"
+  },
+  {
+    "nome": "Jasmin",
+    "sobrenome": "Aguiar",
+    "nascimento": "2021-01-18",
+    "cad_status": true,
+    "razao_social": "Azevedo e Soares"
+  },
+  {
+    "nome": "Andres",
+    "sobrenome": "Assun\u00e7\u00e3o",
+    "nascimento": "2024-05-29",
+    "cad_status": true,
+    "razao_social": "Cort\u00eas e Urias"
+  },
+  {
+    "nome": "Breno",
+    "sobrenome": "Vega",
+    "nascimento": "1991-03-20",
+    "cad_status": true,
+    "razao_social": "Deverso e God\u00f3i Ltda."
+  },
+  {
+    "nome": "Am\u00e9lia",
+    "sobrenome": "Queir\u00f3s",
+    "nascimento": "2011-01-07",
+    "cad_status": true,
+    "razao_social": "de Arruda S.A."
+  },
+  {
+    "nome": "Suzana",
+    "sobrenome": "Gil",
+    "nascimento": "2023-04-20",
+    "cad_status": true,
+    "razao_social": "Louren\u00e7o e Dominato e Associados"
+  },
+  {
+    "nome": "Cl\u00e1udia",
+    "sobrenome": "Vila",
+    "nascimento": "1974-10-09",
+    "cad_status": false,
+    "razao_social": "Salgado e Ferreira Ltda."
+  },
+  {
+    "nome": "Ol\u00edvia",
+    "sobrenome": "Saito",
+    "nascimento": "2006-01-12",
+    "cad_status": false,
+    "razao_social": "Ferreira e Uchoa e Associados"
+  },
+  {
+    "nome": "Liz",
+    "sobrenome": "Vale",
+    "nascimento": "2020-05-16",
+    "cad_status": true,
+    "razao_social": "Duarte Comercial Ltda."
+  },
+  {
+    "nome": "Mary",
+    "sobrenome": "Molina",
+    "nascimento": "1978-04-08",
+    "cad_status": true,
+    "razao_social": "das Neves e Salgado"
+  },
+  {
+    "nome": "S\u00f4nia",
+    "sobrenome": "Sanches",
+    "nascimento": "1989-11-02",
+    "cad_status": true,
+    "razao_social": "Vasques-Grego"
+  },
+  {
+    "nome": "Fernanda",
+    "sobrenome": "Marques",
+    "nascimento": "1985-05-08",
+    "cad_status": false,
+    "razao_social": "Verdugo e Verdara e Filhos"
+  },
+  {
+    "nome": "Amanda",
+    "sobrenome": "Maia",
+    "nascimento": "1998-07-31",
+    "cad_status": false,
+    "razao_social": "Soares-Serra"
+  },
+  {
+    "nome": "Lorenzo",
+    "sobrenome": "Zambrano",
+    "nascimento": "1992-05-13",
+    "cad_status": false,
+    "razao_social": "Cort\u00eas e Esteves S.A."
+  },
+  {
+    "nome": "Maraisa",
+    "sobrenome": "Benites",
+    "nascimento": "1977-04-21",
+    "cad_status": false,
+    "razao_social": "Guerra e Teles"
+  },
+  {
+    "nome": "Kl\u00e9ber",
+    "sobrenome": "Cola\u00e7o",
+    "nascimento": "1992-01-16",
+    "cad_status": true,
+    "razao_social": "Fontes e Delgado e Filhos"
+  },
+  {
+    "nome": "Thalissa",
+    "sobrenome": "Lovato",
+    "nascimento": "2018-01-30",
+    "cad_status": false,
+    "razao_social": "Gon\u00e7alves e Filhos"
+  },
+  {
+    "nome": "Victor",
+    "sobrenome": "Flores",
+    "nascimento": "2019-02-05",
+    "cad_status": true,
+    "razao_social": "das Dores e Lutero"
+  },
+  {
+    "nome": "Evandro",
+    "sobrenome": "de Souza",
+    "nascimento": "2004-12-25",
+    "cad_status": true,
+    "razao_social": "Valdez e da Cruz e Filhos"
+  },
+  {
+    "nome": "Sergio",
+    "sobrenome": "Arruda",
+    "nascimento": "2005-11-30",
+    "cad_status": false,
+    "razao_social": "Batista e Lovato S.A."
+  },
+  {
+    "nome": "Francisco",
+    "sobrenome": "Ferminiano",
+    "nascimento": "1982-03-01",
+    "cad_status": true,
+    "razao_social": "Pedrosa e Galv\u00e3o e Filhos"
+  },
+  {
+    "nome": "Am\u00e9lia",
+    "sobrenome": "Barros",
+    "nascimento": "2009-06-30",
+    "cad_status": false,
+    "razao_social": "Benites e Perez Ltda."
+  },
+  {
+    "nome": "Evandro",
+    "sobrenome": "Val\u00eancia",
+    "nascimento": "1986-04-05",
+    "cad_status": false,
+    "razao_social": "Garcia S.A."
+  },
+  {
+    "nome": "Tom\u00e1s",
+    "sobrenome": "das Neves",
+    "nascimento": "1982-01-22",
+    "cad_status": false,
+    "razao_social": "Galindo e Associados"
+  },
+  {
+    "nome": "Aparecida",
+    "sobrenome": "Cort\u00eas",
+    "nascimento": "2013-04-30",
+    "cad_status": true,
+    "razao_social": "de Freitas e Pereira e Filhos"
+  },
+  {
+    "nome": "Richard",
+    "sobrenome": "de Oliveira",
+    "nascimento": "1997-05-14",
+    "cad_status": true,
+    "razao_social": "Carvalho e Cort\u00eas e Filhos"
+  },
+  {
+    "nome": "Melinda",
+    "sobrenome": "Amaral",
+    "nascimento": "1980-04-20",
+    "cad_status": true,
+    "razao_social": "Cruz e Marinho e Filhos"
+  },
+  {
+    "nome": "Teobaldo",
+    "sobrenome": "Pereira",
+    "nascimento": "2020-08-03",
+    "cad_status": true,
+    "razao_social": "Faro Ltda."
+  },
+  {
+    "nome": "Carlos",
+    "sobrenome": "Rodrigues",
+    "nascimento": "1994-07-28",
+    "cad_status": false,
+    "razao_social": "Fonseca e Romero"
+  },
+  {
+    "nome": "Everton",
+    "sobrenome": "Barreto",
+    "nascimento": "1970-07-01",
+    "cad_status": true,
+    "razao_social": "Carvalho-Caldeira"
+  },
+  {
+    "nome": "Naomi",
+    "sobrenome": "Espinoza",
+    "nascimento": "2012-07-13",
+    "cad_status": true,
+    "razao_social": "Vila e Verdugo S.A."
+  },
+  {
+    "nome": "\u00cdtalo",
+    "sobrenome": "Maia",
+    "nascimento": "1992-05-22",
+    "cad_status": true,
+    "razao_social": "Marin e Flores Ltda."
+  },
+  {
+    "nome": "Evandro",
+    "sobrenome": "Val\u00eancia",
+    "nascimento": "2022-12-27",
+    "cad_status": false,
+    "razao_social": "Lozano Comercial Ltda."
+  },
+  {
+    "nome": "Caroline",
+    "sobrenome": "Arruda",
+    "nascimento": "2003-09-30",
+    "cad_status": true,
+    "razao_social": "Lovato e Marques Ltda."
+  },
+  {
+    "nome": "Andr\u00e9ia",
+    "sobrenome": "Martines",
+    "nascimento": "1999-12-10",
+    "cad_status": true,
+    "razao_social": "Bittencourt e Vasques"
+  },
+  {
+    "nome": "Emiliano",
+    "sobrenome": "Ortega",
+    "nascimento": "2009-09-23",
+    "cad_status": false,
+    "razao_social": "Rodrigues e Associados"
+  },
+  {
+    "nome": "Santiago",
+    "sobrenome": "Louren\u00e7o",
+    "nascimento": "1989-07-23",
+    "cad_status": false,
+    "razao_social": "Burgos Comercial Ltda."
+  },
+  {
+    "nome": "Mois\u00e9s",
+    "sobrenome": "Galindo",
+    "nascimento": "1976-12-27",
+    "cad_status": false,
+    "razao_social": "Saraiva S.A."
+  },
+  {
+    "nome": "Franciele",
+    "sobrenome": "Queir\u00f3s",
+    "nascimento": "1999-05-30",
+    "cad_status": false,
+    "razao_social": "Urias e Cordeiro S.A."
+  },
+  {
+    "nome": "Ruth",
+    "sobrenome": "Martines",
+    "nascimento": "1981-10-27",
+    "cad_status": true,
+    "razao_social": "Garcia Comercial Ltda."
+  },
+  {
+    "nome": "Mary",
+    "sobrenome": "Carrara",
+    "nascimento": "1979-02-19",
+    "cad_status": false,
+    "razao_social": "Santos e Ramos"
+  },
+  {
+    "nome": "Yasmin",
+    "sobrenome": "Verdara",
+    "nascimento": "1987-03-23",
+    "cad_status": false,
+    "razao_social": "Domingues Ltda."
+  },
+  {
+    "nome": "T\u00e2mara",
+    "sobrenome": "de Souza",
+    "nascimento": "2001-09-25",
+    "cad_status": false,
+    "razao_social": "Jimenes Comercial Ltda."
+  },
+  {
+    "nome": "George",
+    "sobrenome": "Quintana",
+    "nascimento": "1987-06-04",
+    "cad_status": false,
+    "razao_social": "Arruda S.A."
+  },
+  {
+    "nome": "Louise",
+    "sobrenome": "Alves",
+    "nascimento": "1994-01-03",
+    "cad_status": false,
+    "razao_social": "Santana e das Dores"
+  },
+  {
+    "nome": "Bruna",
+    "sobrenome": "Gusm\u00e3o",
+    "nascimento": "1974-01-12",
+    "cad_status": false,
+    "razao_social": "de Arruda e Associados"
+  },
+  {
+    "nome": "Mari",
+    "sobrenome": "Campos",
+    "nascimento": "2015-06-12",
+    "cad_status": true,
+    "razao_social": "de Freitas e das Neves"
+  },
+  {
+    "nome": "Kauan",
+    "sobrenome": "Matias",
+    "nascimento": "1971-02-02",
+    "cad_status": true,
+    "razao_social": "Perez Comercial Ltda."
+  },
+  {
+    "nome": "Al\u00edcia",
+    "sobrenome": "Escobar",
+    "nascimento": "1994-12-08",
+    "cad_status": true,
+    "razao_social": "Branco e Filhos"
+  },
+  {
+    "nome": "Naomi",
+    "sobrenome": "Paz",
+    "nascimento": "1974-06-22",
+    "cad_status": true,
+    "razao_social": "Garcia e Associados"
+  },
+  {
+    "nome": "Ol\u00edvia",
+    "sobrenome": "Pedrosa",
+    "nascimento": "1973-02-28",
+    "cad_status": false,
+    "razao_social": "Salas-Pedrosa"
+  },
+  {
+    "nome": "Felipe",
+    "sobrenome": "Matias",
+    "nascimento": "2004-01-27",
+    "cad_status": true,
+    "razao_social": "Faro e Esteves e Associados"
+  },
+  {
+    "nome": "Michael",
+    "sobrenome": "Benites",
+    "nascimento": "1973-10-26",
+    "cad_status": false,
+    "razao_social": "Mar\u00e9s-Montenegro"
+  },
+  {
+    "nome": "Christian",
+    "sobrenome": "Queir\u00f3s",
+    "nascimento": "2011-11-12",
+    "cad_status": true,
+    "razao_social": "Gon\u00e7alves S.A."
+  },
+  {
+    "nome": "Cl\u00e1udio",
+    "sobrenome": "Gil",
+    "nascimento": "1988-02-22",
+    "cad_status": true,
+    "razao_social": "Queir\u00f3s-Fonseca"
+  },
+  {
+    "nome": "Gabriel",
+    "sobrenome": "Val\u00eancia",
+    "nascimento": "2017-05-18",
+    "cad_status": true,
+    "razao_social": "Gil e Associados"
+  },
+  {
+    "nome": "Elias",
+    "sobrenome": "da Silva",
+    "nascimento": "1976-12-31",
+    "cad_status": true,
+    "razao_social": "Balestero e Rangel S.A."
+  },
+  {
+    "nome": "Isaac",
+    "sobrenome": "Franco",
+    "nascimento": "2015-04-02",
+    "cad_status": true,
+    "razao_social": "Soares Comercial Ltda."
+  },
+  {
+    "nome": "Valentina",
+    "sobrenome": "Assun\u00e7\u00e3o",
+    "nascimento": "1971-12-10",
+    "cad_status": true,
+    "razao_social": "Cola\u00e7o Ltda."
+  },
+  {
+    "nome": "Julieta",
+    "sobrenome": "Galhardo",
+    "nascimento": "1994-01-09",
+    "cad_status": true,
+    "razao_social": "Romero e Deverso"
+  },
+  {
+    "nome": "Alexandre",
+    "sobrenome": "Caldeira",
+    "nascimento": "1989-08-28",
+    "cad_status": false,
+    "razao_social": "Urias S.A."
+  },
+  {
+    "nome": "Marina",
+    "sobrenome": "Valdez",
+    "nascimento": "2004-09-09",
+    "cad_status": true,
+    "razao_social": "Santos e Santos"
+  },
+  {
+    "nome": "Sueli",
+    "sobrenome": "de Oliveira",
+    "nascimento": "2011-02-19",
+    "cad_status": true,
+    "razao_social": "Batista e Neves"
+  },
+  {
+    "nome": "C\u00e9sar",
+    "sobrenome": "Valdez",
+    "nascimento": "2014-07-30",
+    "cad_status": false,
+    "razao_social": "Furtado e Filhos"
+  },
+  {
+    "nome": "Saulo",
+    "sobrenome": "Pena",
+    "nascimento": "2002-09-29",
+    "cad_status": false,
+    "razao_social": "Lozano Comercial Ltda."
+  },
+  {
+    "nome": "Ivana",
+    "sobrenome": "Alcantara",
+    "nascimento": "1977-10-26",
+    "cad_status": false,
+    "razao_social": "Vieira e Leal e Filhos"
+  },
+  {
+    "nome": "Joyce",
+    "sobrenome": "Rezende",
+    "nascimento": "2024-07-05",
+    "cad_status": true,
+    "razao_social": "Padr\u00e3o e Mar\u00e9s e Associados"
+  },
+  {
+    "nome": "Vicente",
+    "sobrenome": "Vale",
+    "nascimento": "2026-03-01",
+    "cad_status": true,
+    "razao_social": "Pacheco S.A."
+  },
+  {
+    "nome": "Jorge",
+    "sobrenome": "Matias",
+    "nascimento": "2007-07-05",
+    "cad_status": true,
+    "razao_social": "Faria Comercial Ltda."
+  },
+  {
+    "nome": "Hor\u00e1cio",
+    "sobrenome": "Vieira",
+    "nascimento": "2016-09-24",
+    "cad_status": false,
+    "razao_social": "Furtado e Beltr\u00e3o S.A."
+  },
+  {
+    "nome": "Dayana",
+    "sobrenome": "Gon\u00e7alves",
+    "nascimento": "2019-01-24",
+    "cad_status": true,
+    "razao_social": "Grego-Galindo"
+  },
+  {
+    "nome": "Richard",
+    "sobrenome": "Maia",
+    "nascimento": "2020-02-03",
+    "cad_status": true,
+    "razao_social": "Arag\u00e3o e Valentin"
+  },
+  {
+    "nome": "Natal",
+    "sobrenome": "Verdugo",
+    "nascimento": "2016-11-26",
+    "cad_status": true,
+    "razao_social": "Mendes e Assun\u00e7\u00e3o e Associados"
+  },
+  {
+    "nome": "Madalena",
+    "sobrenome": "Fidalgo",
+    "nascimento": "1989-08-10",
+    "cad_status": false,
+    "razao_social": "Medina e Brito e Associados"
+  },
+  {
+    "nome": "Katherine",
+    "sobrenome": "Ortiz",
+    "nascimento": "2025-04-29",
+    "cad_status": false,
+    "razao_social": "Guerra e Filhos"
+  },
+  {
+    "nome": "M\u00e1rio",
+    "sobrenome": "\u00c1vila",
+    "nascimento": "2009-01-29",
+    "cad_status": true,
+    "razao_social": "Chaves e Filhos"
+  },
+  {
+    "nome": "Rafaela",
+    "sobrenome": "Valente",
+    "nascimento": "1979-04-20",
+    "cad_status": true,
+    "razao_social": "Domingues-das Dores"
+  },
+  {
+    "nome": "Antonella",
+    "sobrenome": "Arruda",
+    "nascimento": "1997-09-19",
+    "cad_status": false,
+    "razao_social": "Valdez Comercial Ltda."
+  },
+  {
+    "nome": "Edson",
+    "sobrenome": "Delatorre",
+    "nascimento": "2016-05-16",
+    "cad_status": false,
+    "razao_social": "Vieira Comercial Ltda."
+  },
+  {
+    "nome": "Fl\u00e1vio",
+    "sobrenome": "Cordeiro",
+    "nascimento": "2000-07-05",
+    "cad_status": false,
+    "razao_social": "Gon\u00e7alves e Aranda Ltda."
+  },
+  {
+    "nome": "Simon",
+    "sobrenome": "de Arruda",
+    "nascimento": "2003-08-29",
+    "cad_status": false,
+    "razao_social": "Maia-Alves"
+  },
+  {
+    "nome": "Thiago",
+    "sobrenome": "Carrara",
+    "nascimento": "1989-03-23",
+    "cad_status": true,
+    "razao_social": "Bonilha e Serra"
+  },
+  {
+    "nome": "Isabella",
+    "sobrenome": "Arruda",
+    "nascimento": "2009-04-25",
+    "cad_status": true,
+    "razao_social": "Serra e Lovato S.A."
+  },
+  {
+    "nome": "Cynthia",
+    "sobrenome": "Deverso",
+    "nascimento": "1990-03-28",
+    "cad_status": false,
+    "razao_social": "Reis e Jimenes e Associados"
+  },
+  {
+    "nome": "J\u00e1como",
+    "sobrenome": "Maia",
+    "nascimento": "2025-07-23",
+    "cad_status": false,
+    "razao_social": "Torres Comercial Ltda."
+  },
+  {
+    "nome": "Talita",
+    "sobrenome": "Franco",
+    "nascimento": "1990-06-22",
+    "cad_status": false,
+    "razao_social": "Amaral e Filhos"
+  },
+  {
+    "nome": "Ingrid",
+    "sobrenome": "Serna",
+    "nascimento": "1973-01-31",
+    "cad_status": true,
+    "razao_social": "Pacheco Comercial Ltda."
+  },
+  {
+    "nome": "Cristina",
+    "sobrenome": "Garcia",
+    "nascimento": "1999-07-27",
+    "cad_status": true,
+    "razao_social": "Dias-Balestero"
+  },
+  {
+    "nome": "Wilson",
+    "sobrenome": "Guerra",
+    "nascimento": "1970-06-09",
+    "cad_status": true,
+    "razao_social": "Arruda Comercial Ltda."
+  },
+  {
+    "nome": "Melissa",
+    "sobrenome": "Batista",
+    "nascimento": "2017-12-22",
+    "cad_status": false,
+    "razao_social": "Zamana e Lozano"
+  },
+  {
+    "nome": "Michele",
+    "sobrenome": "Gon\u00e7alves",
+    "nascimento": "2020-07-13",
+    "cad_status": false,
+    "razao_social": "Velasques e Delatorre e Associados"
+  },
+  {
+    "nome": "Artur",
+    "sobrenome": "Vila",
+    "nascimento": "2019-09-13",
+    "cad_status": false,
+    "razao_social": "Guerra e Soares e Filhos"
+  },
+  {
+    "nome": "Giovanna",
+    "sobrenome": "Amaral",
+    "nascimento": "1970-07-11",
+    "cad_status": true,
+    "razao_social": "Reis e Bonilha Ltda."
+  },
+  {
+    "nome": "Em\u00edlia",
+    "sobrenome": "Delvalle",
+    "nascimento": "1993-04-08",
+    "cad_status": true,
+    "razao_social": "Gil e Filhos"
+  },
+  {
+    "nome": "David",
+    "sobrenome": "Casanova",
+    "nascimento": "2018-11-18",
+    "cad_status": false,
+    "razao_social": "Louren\u00e7o Ltda."
+  },
+  {
+    "nome": "Eric",
+    "sobrenome": "Arruda",
+    "nascimento": "1987-01-05",
+    "cad_status": true,
+    "razao_social": "Lutero-Serrano"
+  },
+  {
+    "nome": "Lidiane",
+    "sobrenome": "Montenegro",
+    "nascimento": "2025-09-27",
+    "cad_status": true,
+    "razao_social": "Zarago\u00e7a-Cruz"
+  },
+  {
+    "nome": "Isaac",
+    "sobrenome": "Campos",
+    "nascimento": "1985-01-13",
+    "cad_status": false,
+    "razao_social": "Brito e Alves"
+  },
+  {
+    "nome": "Suzana",
+    "sobrenome": "Deverso",
+    "nascimento": "2009-10-22",
+    "cad_status": true,
+    "razao_social": "Cola\u00e7o-Dominato"
+  },
+  {
+    "nome": "Pietra",
+    "sobrenome": "D'\u00e1vila",
+    "nascimento": "1988-03-16",
+    "cad_status": true,
+    "razao_social": "Vasques S.A."
+  },
+  {
+    "nome": "Reinaldo",
+    "sobrenome": "Santos",
+    "nascimento": "1982-06-12",
+    "cad_status": false,
+    "razao_social": "Salas-Saraiva"
+  },
+  {
+    "nome": "Natal",
+    "sobrenome": "Aguiar",
+    "nascimento": "2018-08-04",
+    "cad_status": false,
+    "razao_social": "Leal Comercial Ltda."
+  },
+  {
+    "nome": "Ohana",
+    "sobrenome": "Zamana",
+    "nascimento": "1985-01-31",
+    "cad_status": false,
+    "razao_social": "Barreto e Soto"
+  },
+  {
+    "nome": "Anderson",
+    "sobrenome": "Roque",
+    "nascimento": "2021-12-15",
+    "cad_status": true,
+    "razao_social": "Galindo e Rivera"
+  },
+  {
+    "nome": "Josu\u00e9",
+    "sobrenome": "Lira",
+    "nascimento": "1990-10-31",
+    "cad_status": true,
+    "razao_social": "Cort\u00eas-Saraiva"
+  },
+  {
+    "nome": "Pedro",
+    "sobrenome": "Soto",
+    "nascimento": "2003-11-24",
+    "cad_status": true,
+    "razao_social": "de Arruda-Aranda"
+  },
+  {
+    "nome": "Vanessa",
+    "sobrenome": "Rocha",
+    "nascimento": "1987-12-18",
+    "cad_status": true,
+    "razao_social": "Cola\u00e7o Ltda."
+  },
+  {
+    "nome": "T\u00e9o",
+    "sobrenome": "Rico",
+    "nascimento": "2002-01-09",
+    "cad_status": true,
+    "razao_social": "Campos Comercial Ltda."
+  },
+  {
+    "nome": "Ana",
+    "sobrenome": "Assun\u00e7\u00e3o",
+    "nascimento": "2014-09-07",
+    "cad_status": false,
+    "razao_social": "Santos-Rezende"
+  },
+  {
+    "nome": "Tatiane",
+    "sobrenome": "Gil",
+    "nascimento": "2008-08-29",
+    "cad_status": true,
+    "razao_social": "Vieira e Reis Ltda."
+  },
+  {
+    "nome": "Josefina",
+    "sobrenome": "Batista",
+    "nascimento": "2020-08-03",
+    "cad_status": false,
+    "razao_social": "D'\u00e1vila e Escobar"
+  },
+  {
+    "nome": "Nicolas",
+    "sobrenome": "Tamoio",
+    "nascimento": "2022-06-25",
+    "cad_status": false,
+    "razao_social": "Paes e Filhos"
+  },
+  {
+    "nome": "Manuela",
+    "sobrenome": "Serra",
+    "nascimento": "1974-03-27",
+    "cad_status": false,
+    "razao_social": "Fidalgo e Associados"
+  },
+  {
+    "nome": "Vicente",
+    "sobrenome": "Rocha",
+    "nascimento": "1977-07-21",
+    "cad_status": false,
+    "razao_social": "Franco e Branco e Filhos"
+  },
+  {
+    "nome": "Cristian",
+    "sobrenome": "Flores",
+    "nascimento": "1988-10-27",
+    "cad_status": false,
+    "razao_social": "Furtado S.A."
+  },
+  {
+    "nome": "Kelly",
+    "sobrenome": "Ferminiano",
+    "nascimento": "1988-02-05",
+    "cad_status": true,
+    "razao_social": "Valdez Comercial Ltda."
+  },
+  {
+    "nome": "Eric",
+    "sobrenome": "Uchoa",
+    "nascimento": "1986-06-22",
+    "cad_status": false,
+    "razao_social": "Esteves e Cordeiro"
+  },
+  {
+    "nome": "Isaac",
+    "sobrenome": "Verdara",
+    "nascimento": "2009-12-09",
+    "cad_status": false,
+    "razao_social": "Valente-Soto"
+  },
+  {
+    "nome": "Victor",
+    "sobrenome": "Molina",
+    "nascimento": "1996-01-07",
+    "cad_status": true,
+    "razao_social": "Gil e Saito S.A."
+  },
+  {
+    "nome": "Edson",
+    "sobrenome": "Salgado",
+    "nascimento": "1998-12-15",
+    "cad_status": true,
+    "razao_social": "Vasques e Soto"
+  },
+  {
+    "nome": "Bia",
+    "sobrenome": "de Souza",
+    "nascimento": "2009-01-03",
+    "cad_status": false,
+    "razao_social": "Ortega e Associados"
+  },
+  {
+    "nome": "Giovana",
+    "sobrenome": "Soares",
+    "nascimento": "1970-01-14",
+    "cad_status": true,
+    "razao_social": "Montenegro-Guerra"
+  },
+  {
+    "nome": "Hor\u00e1cio",
+    "sobrenome": "Lovato",
+    "nascimento": "1972-05-08",
+    "cad_status": false,
+    "razao_social": "Salazar e Salgado Ltda."
+  },
+  {
+    "nome": "Daniel",
+    "sobrenome": "Balestero",
+    "nascimento": "1975-04-23",
+    "cad_status": false,
+    "razao_social": "Valdez e Cervantes Ltda."
+  },
+  {
+    "nome": "Isadora",
+    "sobrenome": "Verdara",
+    "nascimento": "2006-04-03",
+    "cad_status": false,
+    "razao_social": "Tamoio e Flores"
+  },
+  {
+    "nome": "Reinaldo",
+    "sobrenome": "da Cruz",
+    "nascimento": "1970-01-18",
+    "cad_status": true,
+    "razao_social": "Tamoio e Matias"
+  },
+  {
+    "nome": "Catarina",
+    "sobrenome": "Torres",
+    "nascimento": "1989-02-26",
+    "cad_status": false,
+    "razao_social": "Solano Comercial Ltda."
+  },
+  {
+    "nome": "Andres",
+    "sobrenome": "Lira",
+    "nascimento": "1986-06-19",
+    "cad_status": true,
+    "razao_social": "Faro e Prado"
+  },
+  {
+    "nome": "Allan",
+    "sobrenome": "Flores",
+    "nascimento": "2005-05-05",
+    "cad_status": false,
+    "razao_social": "Arag\u00e3o e Filhos"
+  },
+  {
+    "nome": "Erik",
+    "sobrenome": "Espinoza",
+    "nascimento": "1971-02-07",
+    "cad_status": false,
+    "razao_social": "Leon-Barros"
+  },
+  {
+    "nome": "M\u00e1rcia",
+    "sobrenome": "Santana",
+    "nascimento": "1990-05-08",
+    "cad_status": true,
+    "razao_social": "Camacho Comercial Ltda."
+  },
+  {
+    "nome": "Paulina",
+    "sobrenome": "Ramos",
+    "nascimento": "2009-07-07",
+    "cad_status": false,
+    "razao_social": "Queir\u00f3s Comercial Ltda."
+  },
+  {
+    "nome": "Lorena",
+    "sobrenome": "Correia",
+    "nascimento": "1977-03-27",
+    "cad_status": true,
+    "razao_social": "Rico-da Rosa"
+  },
+  {
+    "nome": "Jefferson",
+    "sobrenome": "Arag\u00e3o",
+    "nascimento": "1993-12-01",
+    "cad_status": true,
+    "razao_social": "Quintana Comercial Ltda."
+  },
+  {
+    "nome": "Enzo",
+    "sobrenome": "Fontes",
+    "nascimento": "1984-09-14",
+    "cad_status": false,
+    "razao_social": "Bittencourt Comercial Ltda."
+  },
+  {
+    "nome": "Samuel",
+    "sobrenome": "Barreto",
+    "nascimento": "1992-02-16",
+    "cad_status": false,
+    "razao_social": "Sandoval e Queir\u00f3s"
+  },
+  {
+    "nome": "S\u00e9rgio",
+    "sobrenome": "Rios",
+    "nascimento": "2010-03-09",
+    "cad_status": false,
+    "razao_social": "da Silva-Maia"
+  },
+  {
+    "nome": "Jonas",
+    "sobrenome": "Marques",
+    "nascimento": "2020-03-04",
+    "cad_status": true,
+    "razao_social": "Queir\u00f3s Comercial Ltda."
+  },
+  {
+    "nome": "Cristian",
+    "sobrenome": "Sanches",
+    "nascimento": "2018-11-13",
+    "cad_status": false,
+    "razao_social": "Faro e Pacheco S.A."
+  },
+  {
+    "nome": "Cristiana",
+    "sobrenome": "Gil",
+    "nascimento": "1972-06-21",
+    "cad_status": true,
+    "razao_social": "de Oliveira S.A."
+  },
+  {
+    "nome": "Jorge",
+    "sobrenome": "Galindo",
+    "nascimento": "2013-06-17",
+    "cad_status": true,
+    "razao_social": "Caldeira-Oliveira"
+  },
+  {
+    "nome": "George",
+    "sobrenome": "Valente",
+    "nascimento": "2021-05-13",
+    "cad_status": false,
+    "razao_social": "Prado-Vega"
+  },
+  {
+    "nome": "Ben\u00edcio",
+    "sobrenome": "Mar\u00e9s",
+    "nascimento": "2003-04-28",
+    "cad_status": true,
+    "razao_social": "Quintana e Esteves"
+  },
+  {
+    "nome": "Diego",
+    "sobrenome": "Ferraz",
+    "nascimento": "2025-05-05",
+    "cad_status": true,
+    "razao_social": "Matias Comercial Ltda."
+  },
+  {
+    "nome": "Artur",
+    "sobrenome": "Sanches",
+    "nascimento": "2002-03-19",
+    "cad_status": false,
+    "razao_social": "da Silva e Padilha e Associados"
+  },
+  {
+    "nome": "Alonso",
+    "sobrenome": "Duarte",
+    "nascimento": "1993-11-15",
+    "cad_status": false,
+    "razao_social": "Saraiva e Gon\u00e7alves S.A."
+  },
+  {
+    "nome": "Lorenzo",
+    "sobrenome": "Molina",
+    "nascimento": "1977-09-06",
+    "cad_status": false,
+    "razao_social": "Fontes-Abreu"
+  },
+  {
+    "nome": "M\u00e1rio",
+    "sobrenome": "Valentin",
+    "nascimento": "1984-08-16",
+    "cad_status": false,
+    "razao_social": "Serrano Comercial Ltda."
+  },
+  {
+    "nome": "Lidiane",
+    "sobrenome": "Abreu",
+    "nascimento": "2009-12-20",
+    "cad_status": false,
+    "razao_social": "Marin S.A."
+  },
+  {
+    "nome": "Samara",
+    "sobrenome": "Correia",
+    "nascimento": "1978-05-13",
+    "cad_status": false,
+    "razao_social": "Rosa e Associados"
+  },
+  {
+    "nome": "Noel\u00ed",
+    "sobrenome": "Estrada",
+    "nascimento": "1995-12-26",
+    "cad_status": false,
+    "razao_social": "Gil-Bezerra"
+  },
+  {
+    "nome": "Gabrielle",
+    "sobrenome": "Duarte",
+    "nascimento": "2012-02-12",
+    "cad_status": true,
+    "razao_social": "Casanova S.A."
+  },
+  {
+    "nome": "Christopher",
+    "sobrenome": "Quintana",
+    "nascimento": "2007-07-10",
+    "cad_status": true,
+    "razao_social": "Mendes-Maldonado"
+  },
+  {
+    "nome": "Laiane",
+    "sobrenome": "Rangel",
+    "nascimento": "2015-05-28",
+    "cad_status": false,
+    "razao_social": "Barros Comercial Ltda."
+  },
+  {
+    "nome": "Mari",
+    "sobrenome": "Lutero",
+    "nascimento": "2005-07-17",
+    "cad_status": false,
+    "razao_social": "Escobar-Lozano"
+  },
+  {
+    "nome": "Paula",
+    "sobrenome": "Benez",
+    "nascimento": "1972-11-16",
+    "cad_status": false,
+    "razao_social": "Arag\u00e3o-Teles"
+  },
+  {
+    "nome": "Janaina",
+    "sobrenome": "de Aguiar",
+    "nascimento": "2007-02-03",
+    "cad_status": true,
+    "razao_social": "Burgos Comercial Ltda."
+  },
+  {
+    "nome": "Fernanda",
+    "sobrenome": "Mendes",
+    "nascimento": "1980-09-01",
+    "cad_status": false,
+    "razao_social": "Gil-Cordeiro"
+  },
+  {
+    "nome": "Tha\u00eds",
+    "sobrenome": "Pontes",
+    "nascimento": "1976-02-03",
+    "cad_status": false,
+    "razao_social": "Amaral-Medina"
+  },
+  {
+    "nome": "Graziela",
+    "sobrenome": "Guerra",
+    "nascimento": "2023-08-05",
+    "cad_status": true,
+    "razao_social": "Salazar e Filhos"
+  },
+  {
+    "nome": "Mar\u00edlia",
+    "sobrenome": "Faria",
+    "nascimento": "1984-12-03",
+    "cad_status": true,
+    "razao_social": "Ferminiano Comercial Ltda."
+  },
+  {
+    "nome": "Andr\u00e9",
+    "sobrenome": "Barros",
+    "nascimento": "2020-02-11",
+    "cad_status": true,
+    "razao_social": "Sep\u00falveda e Zarago\u00e7a e Associados"
+  },
+  {
+    "nome": "Catarina",
+    "sobrenome": "Quintana",
+    "nascimento": "2008-07-28",
+    "cad_status": true,
+    "razao_social": "Vega e Jimenes"
+  },
+  {
+    "nome": "Melina",
+    "sobrenome": "Mendes",
+    "nascimento": "2014-03-27",
+    "cad_status": false,
+    "razao_social": "Arag\u00e3o S.A."
+  },
+  {
+    "nome": "Tess\u00e1lia",
+    "sobrenome": "Lira",
+    "nascimento": "2007-08-20",
+    "cad_status": false,
+    "razao_social": "Neves e Vale"
+  },
+  {
+    "nome": "Marcos",
+    "sobrenome": "Furtado",
+    "nascimento": "2005-08-04",
+    "cad_status": false,
+    "razao_social": "de Freitas e Solano"
+  },
+  {
+    "nome": "Suzana",
+    "sobrenome": "Mascarenhas",
+    "nascimento": "1978-03-11",
+    "cad_status": false,
+    "razao_social": "Rocha Comercial Ltda."
+  },
+  {
+    "nome": "Aaron",
+    "sobrenome": "D'\u00e1vila",
+    "nascimento": "1994-09-02",
+    "cad_status": true,
+    "razao_social": "Paes e Filhos"
+  },
+  {
+    "nome": "Yohanna",
+    "sobrenome": "Azevedo",
+    "nascimento": "1978-05-27",
+    "cad_status": true,
+    "razao_social": "Vasques e Rosa"
+  },
+  {
+    "nome": "Gabriel",
+    "sobrenome": "Molina",
+    "nascimento": "1984-06-03",
+    "cad_status": false,
+    "razao_social": "Santos-Benites"
+  },
+  {
+    "nome": "Raquel",
+    "sobrenome": "Quintana",
+    "nascimento": "2019-12-11",
+    "cad_status": false,
+    "razao_social": "Padilha Comercial Ltda."
+  },
+  {
+    "nome": "Jos\u00e9",
+    "sobrenome": "Ramos",
+    "nascimento": "1983-12-24",
+    "cad_status": true,
+    "razao_social": "Louren\u00e7o e Toledo S.A."
+  },
+  {
+    "nome": "Suelen",
+    "sobrenome": "Cervantes",
+    "nascimento": "1984-05-13",
+    "cad_status": false,
+    "razao_social": "Mendon\u00e7a Comercial Ltda."
+  },
+  {
+    "nome": "Matheus",
+    "sobrenome": "Rodrigues",
+    "nascimento": "1972-11-20",
+    "cad_status": true,
+    "razao_social": "Perez-Maia"
+  },
+  {
+    "nome": "Em\u00edlio",
+    "sobrenome": "Paz",
+    "nascimento": "2004-10-05",
+    "cad_status": false,
+    "razao_social": "Cola\u00e7o e Verdugo"
+  },
+  {
+    "nome": "Wilson",
+    "sobrenome": "Carrara",
+    "nascimento": "1985-05-08",
+    "cad_status": false,
+    "razao_social": "Escobar e Cervantes"
+  },
+  {
+    "nome": "Elis",
+    "sobrenome": "Barros",
+    "nascimento": "1976-08-10",
+    "cad_status": true,
+    "razao_social": "Garcia-Benites"
+  },
+  {
+    "nome": "Thales",
+    "sobrenome": "Matos",
+    "nascimento": "1987-08-02",
+    "cad_status": false,
+    "razao_social": "Sales e Esteves Ltda."
+  },
+  {
+    "nome": "Saulo",
+    "sobrenome": "Fernandes",
+    "nascimento": "2005-02-06",
+    "cad_status": false,
+    "razao_social": "Padilha Comercial Ltda."
+  },
+  {
+    "nome": "Anderson",
+    "sobrenome": "Alcantara",
+    "nascimento": "2019-01-20",
+    "cad_status": false,
+    "razao_social": "Rivera e Pedrosa S.A."
+  },
+  {
+    "nome": "Mar\u00edlia",
+    "sobrenome": "Verdara",
+    "nascimento": "1989-08-11",
+    "cad_status": true,
+    "razao_social": "Fonseca S.A."
+  },
+  {
+    "nome": "Karine",
+    "sobrenome": "das Neves",
+    "nascimento": "1972-06-06",
+    "cad_status": false,
+    "razao_social": "Branco e Santos e Filhos"
+  },
+  {
+    "nome": "Isadora",
+    "sobrenome": "Perez",
+    "nascimento": "1985-05-30",
+    "cad_status": false,
+    "razao_social": "Verdara-Vila"
+  },
+  {
+    "nome": "Raquel",
+    "sobrenome": "Saito",
+    "nascimento": "1980-10-27",
+    "cad_status": false,
+    "razao_social": "Lovato Comercial Ltda."
+  },
+  {
+    "nome": "Nicole",
+    "sobrenome": "Feliciano",
+    "nascimento": "1974-03-14",
+    "cad_status": false,
+    "razao_social": "das Neves e Associados"
+  },
+  {
+    "nome": "Ma\u00edsa",
+    "sobrenome": "Batista",
+    "nascimento": "1988-07-12",
+    "cad_status": false,
+    "razao_social": "Mar\u00e9s Comercial Ltda."
+  },
+  {
+    "nome": "Marcos",
+    "sobrenome": "Valdez",
+    "nascimento": "1972-08-30",
+    "cad_status": true,
+    "razao_social": "Rosa S.A."
+  },
+  {
+    "nome": "Laiane",
+    "sobrenome": "Lutero",
+    "nascimento": "1982-08-12",
+    "cad_status": true,
+    "razao_social": "Furtado Comercial Ltda."
+  },
+  {
+    "nome": "Paloma",
+    "sobrenome": "Faria",
+    "nascimento": "2020-01-12",
+    "cad_status": true,
+    "razao_social": "Vieira-Leal"
+  },
+  {
+    "nome": "Cl\u00e1udia",
+    "sobrenome": "Garcia",
+    "nascimento": "1996-11-04",
+    "cad_status": true,
+    "razao_social": "Duarte-Carvalho"
+  },
+  {
+    "nome": "Sim\u00e3o",
+    "sobrenome": "Val\u00eancia",
+    "nascimento": "1975-03-26",
+    "cad_status": true,
+    "razao_social": "Jimenes e Associados"
+  },
+  {
+    "nome": "Amanda",
+    "sobrenome": "Solano",
+    "nascimento": "1991-06-25",
+    "cad_status": true,
+    "razao_social": "Cruz e Brito"
+  },
+  {
+    "nome": "Felipe",
+    "sobrenome": "Reis",
+    "nascimento": "2011-12-29",
+    "cad_status": false,
+    "razao_social": "Queir\u00f3s e Associados"
+  },
+  {
+    "nome": "Thales",
+    "sobrenome": "Rico",
+    "nascimento": "2001-09-23",
+    "cad_status": false,
+    "razao_social": "Pontes Comercial Ltda."
+  },
+  {
+    "nome": "Camilo",
+    "sobrenome": "Valdez",
+    "nascimento": "2018-08-02",
+    "cad_status": true,
+    "razao_social": "Alcantara e Associados"
+  },
+  {
+    "nome": "Francisco",
+    "sobrenome": "Correia",
+    "nascimento": "2005-08-11",
+    "cad_status": false,
+    "razao_social": "Queir\u00f3s Comercial Ltda."
+  },
+  {
+    "nome": "Reinaldo",
+    "sobrenome": "Vega",
+    "nascimento": "1978-05-21",
+    "cad_status": false,
+    "razao_social": "Meireles S.A."
+  },
+  {
+    "nome": "Wilson",
+    "sobrenome": "Serna",
+    "nascimento": "1996-12-19",
+    "cad_status": false,
+    "razao_social": "Jimenes e Uchoa"
+  },
+  {
+    "nome": "Rodrigo",
+    "sobrenome": "da Cruz",
+    "nascimento": "1994-07-29",
+    "cad_status": true,
+    "razao_social": "Caldeira e Associados"
+  },
+  {
+    "nome": "Rodrigo",
+    "sobrenome": "Valentin",
+    "nascimento": "2025-09-12",
+    "cad_status": false,
+    "razao_social": "Lozano e Pereira e Filhos"
+  },
+  {
+    "nome": "Santiago",
+    "sobrenome": "Cort\u00eas",
+    "nascimento": "1988-08-11",
+    "cad_status": false,
+    "razao_social": "Cola\u00e7o e Chaves e Associados"
+  },
+  {
+    "nome": "Andres",
+    "sobrenome": "Serrano",
+    "nascimento": "2024-12-27",
+    "cad_status": false,
+    "razao_social": "Leon-Caldeira"
+  },
+  {
+    "nome": "Helena",
+    "sobrenome": "Gon\u00e7alves",
+    "nascimento": "2014-05-05",
+    "cad_status": true,
+    "razao_social": "Delatorre e Ferminiano e Associados"
+  },
+  {
+    "nome": "Lucio",
+    "sobrenome": "Torres",
+    "nascimento": "2001-10-30",
+    "cad_status": true,
+    "razao_social": "Lozano e Associados"
+  },
+  {
+    "nome": "Thiago",
+    "sobrenome": "Feliciano",
+    "nascimento": "2011-04-30",
+    "cad_status": true,
+    "razao_social": "Rivera e das Neves"
+  },
+  {
+    "nome": "Ant\u00f4nio",
+    "sobrenome": "Ferreira",
+    "nascimento": "1993-04-16",
+    "cad_status": false,
+    "razao_social": "Alves Comercial Ltda."
+  },
+  {
+    "nome": "Fernando",
+    "sobrenome": "Delvalle",
+    "nascimento": "1970-01-24",
+    "cad_status": false,
+    "razao_social": "Delgado-Garcia"
+  },
+  {
+    "nome": "L\u00edvia",
+    "sobrenome": "Romero",
+    "nascimento": "1982-11-29",
+    "cad_status": true,
+    "razao_social": "Vila e Filhos"
+  },
+  {
+    "nome": "Talita",
+    "sobrenome": "Santacruz",
+    "nascimento": "1984-04-20",
+    "cad_status": false,
+    "razao_social": "Lozano S.A."
+  },
+  {
+    "nome": "S\u00e9rgio",
+    "sobrenome": "Aranda",
+    "nascimento": "1996-10-24",
+    "cad_status": false,
+    "razao_social": "Leon e Esteves e Associados"
+  },
+  {
+    "nome": "Mait\u00ea",
+    "sobrenome": "Santacruz",
+    "nascimento": "2002-11-23",
+    "cad_status": true,
+    "razao_social": "Pena-Gomes"
+  },
+  {
+    "nome": "Arthur",
+    "sobrenome": "Queir\u00f3s",
+    "nascimento": "2011-06-03",
+    "cad_status": true,
+    "razao_social": "Rodrigues e Bittencourt e Filhos"
+  },
+  {
+    "nome": "Laura",
+    "sobrenome": "Soto",
+    "nascimento": "2020-05-28",
+    "cad_status": true,
+    "razao_social": "Domingues e \u00c1vila e Associados"
+  },
+  {
+    "nome": "Bella",
+    "sobrenome": "Gomes",
+    "nascimento": "2012-03-18",
+    "cad_status": true,
+    "razao_social": "Medina-Balestero"
+  },
+  {
+    "nome": "S\u00e9rgio",
+    "sobrenome": "Benez",
+    "nascimento": "2016-08-22",
+    "cad_status": true,
+    "razao_social": "Valente e Teles"
+  },
+  {
+    "nome": "Ot\u00e1vio",
+    "sobrenome": "Sales",
+    "nascimento": "1994-04-26",
+    "cad_status": false,
+    "razao_social": "Prado e Alves e Filhos"
+  },
+  {
+    "nome": "Diogo",
+    "sobrenome": "Zamana",
+    "nascimento": "2001-12-08",
+    "cad_status": false,
+    "razao_social": "Rico Comercial Ltda."
+  },
+  {
+    "nome": "Manuela",
+    "sobrenome": "Alves",
+    "nascimento": "1971-04-23",
+    "cad_status": false,
+    "razao_social": "Verdara Comercial Ltda."
+  },
+  {
+    "nome": "Wesley",
+    "sobrenome": "Espinoza",
+    "nascimento": "2019-08-15",
+    "cad_status": false,
+    "razao_social": "Ortega-Martines"
+  },
+  {
+    "nome": "Gisela",
+    "sobrenome": "Matos",
+    "nascimento": "1991-11-03",
+    "cad_status": false,
+    "razao_social": "Oliveira-Pereira"
+  },
+  {
+    "nome": "Janaina",
+    "sobrenome": "Feliciano",
+    "nascimento": "2006-07-10",
+    "cad_status": true,
+    "razao_social": "Faro e Chaves"
+  },
+  {
+    "nome": "Milene",
+    "sobrenome": "Vasques",
+    "nascimento": "2023-10-19",
+    "cad_status": true,
+    "razao_social": "Bezerra Comercial Ltda."
+  },
+  {
+    "nome": "Marcelo",
+    "sobrenome": "Leon",
+    "nascimento": "1970-02-19",
+    "cad_status": false,
+    "razao_social": "Delgado e Paes"
+  },
+  {
+    "nome": "Rodrigo",
+    "sobrenome": "Verdugo",
+    "nascimento": "2004-10-08",
+    "cad_status": false,
+    "razao_social": "Souza e das Dores"
+  },
+  {
+    "nome": "Raquel",
+    "sobrenome": "da Silva",
+    "nascimento": "2018-09-28",
+    "cad_status": false,
+    "razao_social": "Leon e Associados"
+  },
+  {
+    "nome": "Renan",
+    "sobrenome": "Marin",
+    "nascimento": "1970-12-05",
+    "cad_status": false,
+    "razao_social": "Estrada e Rocha S.A."
+  },
+  {
+    "nome": "P\u00e9rola",
+    "sobrenome": "Mendon\u00e7a",
+    "nascimento": "2014-06-17",
+    "cad_status": false,
+    "razao_social": "Caldeira e Fidalgo e Filhos"
+  },
+  {
+    "nome": "Naiara",
+    "sobrenome": "Cort\u00eas",
+    "nascimento": "1975-08-10",
+    "cad_status": false,
+    "razao_social": "Espinoza S.A."
+  },
+  {
+    "nome": "Christopher",
+    "sobrenome": "Sandoval",
+    "nascimento": "2004-12-31",
+    "cad_status": true,
+    "razao_social": "Paz e Soares"
+  },
+  {
+    "nome": "C\u00edntia",
+    "sobrenome": "das Neves",
+    "nascimento": "1982-12-10",
+    "cad_status": false,
+    "razao_social": "Carvalho-Arruda"
+  },
+  {
+    "nome": "Noel\u00ed",
+    "sobrenome": "Mendes",
+    "nascimento": "2006-06-20",
+    "cad_status": false,
+    "razao_social": "Batista e Filhos"
+  },
+  {
+    "nome": "Denise",
+    "sobrenome": "Furtado",
+    "nascimento": "2022-07-21",
+    "cad_status": false,
+    "razao_social": "Jimenes e Amaral S.A."
+  },
+  {
+    "nome": "Murilo",
+    "sobrenome": "Saraiva",
+    "nascimento": "2019-09-07",
+    "cad_status": true,
+    "razao_social": "Assun\u00e7\u00e3o e Associados"
+  },
+  {
+    "nome": "Fabiano",
+    "sobrenome": "Saraiva",
+    "nascimento": "2024-05-09",
+    "cad_status": false,
+    "razao_social": "Roque e Fernandes e Associados"
+  },
+  {
+    "nome": "Bernardo",
+    "sobrenome": "Galindo",
+    "nascimento": "2021-12-13",
+    "cad_status": true,
+    "razao_social": "da Rosa e Ramires"
+  },
+  {
+    "nome": "Jer\u00f4nimo",
+    "sobrenome": "Tamoio",
+    "nascimento": "2007-01-12",
+    "cad_status": false,
+    "razao_social": "Sanches e Delatorre"
+  },
+  {
+    "nome": "Kamila",
+    "sobrenome": "de Oliveira",
+    "nascimento": "1979-01-14",
+    "cad_status": true,
+    "razao_social": "Valdez e Santiago S.A."
+  },
+  {
+    "nome": "Henrique",
+    "sobrenome": "Branco",
+    "nascimento": "1996-12-08",
+    "cad_status": false,
+    "razao_social": "Corona e da Cruz"
+  },
+  {
+    "nome": "Alana",
+    "sobrenome": "Queir\u00f3s",
+    "nascimento": "2002-06-22",
+    "cad_status": true,
+    "razao_social": "Zambrano-Carmona"
+  },
+  {
+    "nome": "Nelson",
+    "sobrenome": "Reis",
+    "nascimento": "2017-11-09",
+    "cad_status": false,
+    "razao_social": "Delvalle Ltda."
+  },
+  {
+    "nome": "Cezar",
+    "sobrenome": "Teles",
+    "nascimento": "1987-02-18",
+    "cad_status": true,
+    "razao_social": "Queir\u00f3s e Corona S.A."
+  },
+  {
+    "nome": "Maximiano",
+    "sobrenome": "das Neves",
+    "nascimento": "2002-04-23",
+    "cad_status": true,
+    "razao_social": "Furtado Comercial Ltda."
+  },
+  {
+    "nome": "Marcos",
+    "sobrenome": "Gil",
+    "nascimento": "1976-07-06",
+    "cad_status": true,
+    "razao_social": "Lira Ltda."
+  },
+  {
+    "nome": "Giovane",
+    "sobrenome": "Rivera",
+    "nascimento": "2025-11-27",
+    "cad_status": true,
+    "razao_social": "Santana e Oliveira"
+  },
+  {
+    "nome": "Artur",
+    "sobrenome": "Rocha",
+    "nascimento": "2002-03-08",
+    "cad_status": false,
+    "razao_social": "Valdez Comercial Ltda."
+  },
+  {
+    "nome": "Suellen",
+    "sobrenome": "Carvalho",
+    "nascimento": "1971-08-29",
+    "cad_status": true,
+    "razao_social": "Salgado e Arruda e Associados"
+  },
+  {
+    "nome": "Ohana",
+    "sobrenome": "Feliciano",
+    "nascimento": "1993-07-30",
+    "cad_status": false,
+    "razao_social": "Garcia e Duarte e Associados"
+  },
+  {
+    "nome": "Agostinho",
+    "sobrenome": "Quintana",
+    "nascimento": "2012-02-12",
+    "cad_status": false,
+    "razao_social": "Fontes-Santiago"
+  },
+  {
+    "nome": "Gabi",
+    "sobrenome": "Ferraz",
+    "nascimento": "1985-05-29",
+    "cad_status": false,
+    "razao_social": "das Neves e da Cruz S.A."
+  },
+  {
+    "nome": "Ivan",
+    "sobrenome": "Marinho",
+    "nascimento": "1986-01-27",
+    "cad_status": true,
+    "razao_social": "Valdez e Ferraz Ltda."
+  },
+  {
+    "nome": "Maya",
+    "sobrenome": "Carrara",
+    "nascimento": "1990-11-26",
+    "cad_status": false,
+    "razao_social": "Valente e Arag\u00e3o Ltda."
+  },
+  {
+    "nome": "Hugo",
+    "sobrenome": "Urias",
+    "nascimento": "1982-08-02",
+    "cad_status": true,
+    "razao_social": "Assun\u00e7\u00e3o-Medina"
+  },
+  {
+    "nome": "Franciele",
+    "sobrenome": "Benites",
+    "nascimento": "1991-04-04",
+    "cad_status": true,
+    "razao_social": "Domingues e Caldeira e Filhos"
+  },
+  {
+    "nome": "Jefferson",
+    "sobrenome": "Estrada",
+    "nascimento": "1984-12-23",
+    "cad_status": false,
+    "razao_social": "Rosa Ltda."
+  },
+  {
+    "nome": "Cristiana",
+    "sobrenome": "Dias",
+    "nascimento": "1995-01-15",
+    "cad_status": true,
+    "razao_social": "Medina Comercial Ltda."
+  },
+  {
+    "nome": "Melinda",
+    "sobrenome": "Barros",
+    "nascimento": "2013-07-25",
+    "cad_status": true,
+    "razao_social": "Corona e Filhos"
+  },
+  {
+    "nome": "Thiago",
+    "sobrenome": "Valentin",
+    "nascimento": "2025-08-22",
+    "cad_status": false,
+    "razao_social": "Neves e Lozano"
+  },
+  {
+    "nome": "Raysa",
+    "sobrenome": "Sales",
+    "nascimento": "1978-01-07",
+    "cad_status": false,
+    "razao_social": "Vieira e Queir\u00f3s"
+  },
+  {
+    "nome": "Ta\u00eds",
+    "sobrenome": "Mascarenhas",
+    "nascimento": "1972-11-14",
+    "cad_status": true,
+    "razao_social": "Cola\u00e7o e Associados"
+  },
+  {
+    "nome": "S\u00e9rgio",
+    "sobrenome": "Arag\u00e3o",
+    "nascimento": "1975-01-15",
+    "cad_status": false,
+    "razao_social": "Madeira-Molina"
+  },
+  {
+    "nome": "Crist\u00f3v\u00e3o",
+    "sobrenome": "Pacheco",
+    "nascimento": "1983-10-09",
+    "cad_status": false,
+    "razao_social": "Esteves Comercial Ltda."
+  },
+  {
+    "nome": "Mary",
+    "sobrenome": "Santana",
+    "nascimento": "2003-05-09",
+    "cad_status": false,
+    "razao_social": "Cordeiro e Flores"
+  },
+  {
+    "nome": "Ricardo",
+    "sobrenome": "de Freitas",
+    "nascimento": "2016-11-29",
+    "cad_status": true,
+    "razao_social": "Esteves-Fidalgo"
+  },
+  {
+    "nome": "Mariana",
+    "sobrenome": "Madeira",
+    "nascimento": "1996-04-11",
+    "cad_status": true,
+    "razao_social": "Carvalho Ltda."
+  },
+  {
+    "nome": "Luciano",
+    "sobrenome": "Marinho",
+    "nascimento": "2003-09-08",
+    "cad_status": true,
+    "razao_social": "Lovato-Prado"
+  },
+  {
+    "nome": "Marta",
+    "sobrenome": "Ramos",
+    "nascimento": "1983-05-09",
+    "cad_status": false,
+    "razao_social": "Madeira e de Souza"
+  },
+  {
+    "nome": "Stella",
+    "sobrenome": "Rosa",
+    "nascimento": "1994-07-20",
+    "cad_status": true,
+    "razao_social": "Carmona e Bittencourt"
+  },
+  {
+    "nome": "Ornela",
+    "sobrenome": "das Neves",
+    "nascimento": "1989-10-15",
+    "cad_status": true,
+    "razao_social": "Marques Comercial Ltda."
+  },
+  {
+    "nome": "S\u00e9rgio",
+    "sobrenome": "Serrano",
+    "nascimento": "1989-12-07",
+    "cad_status": false,
+    "razao_social": "Guerra e Medina"
+  },
+  {
+    "nome": "Hernani",
+    "sobrenome": "Amaral",
+    "nascimento": "1998-11-28",
+    "cad_status": false,
+    "razao_social": "Carrara-Neves"
+  },
+  {
+    "nome": "Erik",
+    "sobrenome": "Rios",
+    "nascimento": "2022-12-18",
+    "cad_status": true,
+    "razao_social": "Furtado Comercial Ltda."
+  },
+  {
+    "nome": "Micaela",
+    "sobrenome": "Abreu",
+    "nascimento": "1977-02-12",
+    "cad_status": true,
+    "razao_social": "Gon\u00e7alves-Flores"
+  },
+  {
+    "nome": "Luara",
+    "sobrenome": "Marques",
+    "nascimento": "1984-04-01",
+    "cad_status": false,
+    "razao_social": "Maia-Lira"
+  },
+  {
+    "nome": "J\u00falio",
+    "sobrenome": "Serra",
+    "nascimento": "1984-12-14",
+    "cad_status": false,
+    "razao_social": "Urias e Carrara"
+  },
+  {
+    "nome": "Nat\u00e1lia",
+    "sobrenome": "Galv\u00e3o",
+    "nascimento": "1978-06-04",
+    "cad_status": false,
+    "razao_social": "Branco e Leon"
+  },
+  {
+    "nome": "Matias",
+    "sobrenome": "Benez",
+    "nascimento": "2022-03-26",
+    "cad_status": false,
+    "razao_social": "Fernandes e Vieira"
+  },
+  {
+    "nome": "Bruno",
+    "sobrenome": "Beltr\u00e3o",
+    "nascimento": "2013-08-26",
+    "cad_status": true,
+    "razao_social": "\u00c1vila e Filhos"
+  },
+  {
+    "nome": "Renato",
+    "sobrenome": "Grego",
+    "nascimento": "2021-04-04",
+    "cad_status": true,
+    "razao_social": "Urias-Ferreira"
+  },
+  {
+    "nome": "Franco",
+    "sobrenome": "Fidalgo",
+    "nascimento": "2005-04-07",
+    "cad_status": true,
+    "razao_social": "de Arruda-Sanches"
+  },
+  {
+    "nome": "Daiana",
+    "sobrenome": "da Rosa",
+    "nascimento": "1971-08-14",
+    "cad_status": false,
+    "razao_social": "Mendon\u00e7a e Valente"
+  },
+  {
+    "nome": "Giovanna",
+    "sobrenome": "Zamana",
+    "nascimento": "1991-11-23",
+    "cad_status": false,
+    "razao_social": "Santiago e Associados"
+  },
+  {
+    "nome": "Jennifer",
+    "sobrenome": "Grego",
+    "nascimento": "1989-06-25",
+    "cad_status": false,
+    "razao_social": "Brito e Filhos"
+  },
+  {
+    "nome": "Marta",
+    "sobrenome": "Barros",
+    "nascimento": "2017-09-05",
+    "cad_status": true,
+    "razao_social": "Saito e Guerra Ltda."
+  },
+  {
+    "nome": "Adriele",
+    "sobrenome": "Valdez",
+    "nascimento": "1972-07-26",
+    "cad_status": true,
+    "razao_social": "Gusm\u00e3o S.A."
+  },
+  {
+    "nome": "Mary",
+    "sobrenome": "Jimenes",
+    "nascimento": "1979-01-19",
+    "cad_status": true,
+    "razao_social": "Oliveira e de Oliveira"
+  },
+  {
+    "nome": "Amanda",
+    "sobrenome": "Balestero",
+    "nascimento": "1976-06-03",
+    "cad_status": false,
+    "razao_social": "Gon\u00e7alves e Filhos"
+  },
+  {
+    "nome": "Micaela",
+    "sobrenome": "Abreu",
+    "nascimento": "1980-01-15",
+    "cad_status": false,
+    "razao_social": "Salgado Comercial Ltda."
+  },
+  {
+    "nome": "M\u00e1rio",
+    "sobrenome": "Louren\u00e7o",
+    "nascimento": "1994-08-24",
+    "cad_status": true,
+    "razao_social": "Dominato e Franco"
+  },
+  {
+    "nome": "Christian",
+    "sobrenome": "Bonilha",
+    "nascimento": "2004-10-08",
+    "cad_status": true,
+    "razao_social": "Leon e da Cruz"
+  },
+  {
+    "nome": "Mirela",
+    "sobrenome": "de Arruda",
+    "nascimento": "2018-07-18",
+    "cad_status": false,
+    "razao_social": "Perez Comercial Ltda."
+  },
+  {
+    "nome": "Paulo",
+    "sobrenome": "Tamoio",
+    "nascimento": "1987-02-12",
+    "cad_status": true,
+    "razao_social": "Campos e Flores S.A."
+  },
+  {
+    "nome": "Vicente",
+    "sobrenome": "Ramires",
+    "nascimento": "1989-09-22",
+    "cad_status": true,
+    "razao_social": "Corona S.A."
+  },
+  {
+    "nome": "Cynthia",
+    "sobrenome": "Arag\u00e3o",
+    "nascimento": "1977-04-19",
+    "cad_status": true,
+    "razao_social": "Abreu Comercial Ltda."
+  },
+  {
+    "nome": "Bruna",
+    "sobrenome": "Meireles",
+    "nascimento": "2003-12-30",
+    "cad_status": true,
+    "razao_social": "Alves e Fidalgo"
+  },
+  {
+    "nome": "Vicente",
+    "sobrenome": "Espinoza",
+    "nascimento": "1986-02-27",
+    "cad_status": false,
+    "razao_social": "Padr\u00e3o-Rezende"
+  },
+  {
+    "nome": "Benjamin",
+    "sobrenome": "Dias",
+    "nascimento": "2008-12-08",
+    "cad_status": false,
+    "razao_social": "Sandoval e Romero"
+  },
+  {
+    "nome": "Nero",
+    "sobrenome": "Duarte",
+    "nascimento": "2015-07-12",
+    "cad_status": false,
+    "razao_social": "Franco S.A."
+  },
+  {
+    "nome": "Lucio",
+    "sobrenome": "Abreu",
+    "nascimento": "2007-02-12",
+    "cad_status": true,
+    "razao_social": "Neves Comercial Ltda."
+  },
+  {
+    "nome": "Felipe",
+    "sobrenome": "Faria",
+    "nascimento": "2004-08-10",
+    "cad_status": true,
+    "razao_social": "Vieira e Jimenes"
+  },
+  {
+    "nome": "Walter",
+    "sobrenome": "de Freitas",
+    "nascimento": "2007-06-10",
+    "cad_status": true,
+    "razao_social": "Soares e Casanova"
+  },
+  {
+    "nome": "Fernando",
+    "sobrenome": "Rios",
+    "nascimento": "1991-12-31",
+    "cad_status": false,
+    "razao_social": "Saito e Cordeiro"
+  },
+  {
+    "nome": "Allan",
+    "sobrenome": "Fidalgo",
+    "nascimento": "1981-03-23",
+    "cad_status": true,
+    "razao_social": "God\u00f3i e Brito"
+  },
+  {
+    "nome": "Paulina",
+    "sobrenome": "Sales",
+    "nascimento": "1996-09-23",
+    "cad_status": false,
+    "razao_social": "Serrano Comercial Ltda."
+  },
+  {
+    "nome": "Graziela",
+    "sobrenome": "Marques",
+    "nascimento": "2002-02-13",
+    "cad_status": false,
+    "razao_social": "Molina e Rangel e Associados"
+  },
+  {
+    "nome": "Tainara",
+    "sobrenome": "Domingues",
+    "nascimento": "2009-09-04",
+    "cad_status": false,
+    "razao_social": "Romero Comercial Ltda."
+  },
+  {
+    "nome": "Abgail",
+    "sobrenome": "Carvalho",
+    "nascimento": "2007-09-21",
+    "cad_status": false,
+    "razao_social": "Leon-Ramires"
+  },
+  {
+    "nome": "Ian",
+    "sobrenome": "Gusm\u00e3o",
+    "nascimento": "2012-11-16",
+    "cad_status": true,
+    "razao_social": "Mendes e Associados"
+  },
+  {
+    "nome": "Irene",
+    "sobrenome": "Fontes",
+    "nascimento": "2006-06-02",
+    "cad_status": true,
+    "razao_social": "Beltr\u00e3o-Galv\u00e3o"
+  },
+  {
+    "nome": "Santiago",
+    "sobrenome": "Montenegro",
+    "nascimento": "1976-11-10",
+    "cad_status": false,
+    "razao_social": "Salgado-Fonseca"
+  },
+  {
+    "nome": "Suzana",
+    "sobrenome": "Delvalle",
+    "nascimento": "2008-06-27",
+    "cad_status": false,
+    "razao_social": "Fonseca S.A."
+  },
+  {
+    "nome": "Suelen",
+    "sobrenome": "de Freitas",
+    "nascimento": "2022-03-07",
+    "cad_status": false,
+    "razao_social": "Vasques e Filhos"
+  },
+  {
+    "nome": "In\u00e1cio",
+    "sobrenome": "Martines",
+    "nascimento": "1994-03-20",
+    "cad_status": false,
+    "razao_social": "das Dores-de Arruda"
+  },
+  {
+    "nome": "Isaac",
+    "sobrenome": "Ramires",
+    "nascimento": "2019-05-27",
+    "cad_status": true,
+    "razao_social": "Fernandes e Escobar"
+  },
+  {
+    "nome": "Denis",
+    "sobrenome": "Campos",
+    "nascimento": "2022-12-04",
+    "cad_status": false,
+    "razao_social": "God\u00f3i e Soto e Filhos"
+  },
+  {
+    "nome": "L\u00edvia",
+    "sobrenome": "Aranda",
+    "nascimento": "1974-11-06",
+    "cad_status": true,
+    "razao_social": "Madeira-Carrara"
+  },
+  {
+    "nome": "C\u00edntia",
+    "sobrenome": "Ferreira",
+    "nascimento": "1974-11-18",
+    "cad_status": true,
+    "razao_social": "Delatorre Ltda."
+  },
+  {
+    "nome": "Andr\u00e9a",
+    "sobrenome": "Urias",
+    "nascimento": "1976-08-20",
+    "cad_status": false,
+    "razao_social": "Neves Ltda."
+  },
+  {
+    "nome": "Ketlin",
+    "sobrenome": "Marinho",
+    "nascimento": "1971-07-09",
+    "cad_status": true,
+    "razao_social": "Galhardo e Associados"
+  },
+  {
+    "nome": "Heitor",
+    "sobrenome": "Leon",
+    "nascimento": "1991-01-01",
+    "cad_status": true,
+    "razao_social": "Mendes-Amaral"
+  },
+  {
+    "nome": "Allan",
+    "sobrenome": "Branco",
+    "nascimento": "2000-01-16",
+    "cad_status": false,
+    "razao_social": "Gon\u00e7alves e Filhos"
+  },
+  {
+    "nome": "Augusto",
+    "sobrenome": "Perez",
+    "nascimento": "1990-03-22",
+    "cad_status": false,
+    "razao_social": "Aranda e Souza"
+  },
+  {
+    "nome": "Marisa",
+    "sobrenome": "Estrada",
+    "nascimento": "1991-10-03",
+    "cad_status": true,
+    "razao_social": "Aguiar Comercial Ltda."
+  },
+  {
+    "nome": "Vin\u00edcius",
+    "sobrenome": "Galhardo",
+    "nascimento": "1999-05-28",
+    "cad_status": false,
+    "razao_social": "Perez e Cervantes Ltda."
+  },
+  {
+    "nome": "Wilson",
+    "sobrenome": "Rios",
+    "nascimento": "1979-12-05",
+    "cad_status": false,
+    "razao_social": "Santos-Franco"
+  },
+  {
+    "nome": "Ang\u00e9lica",
+    "sobrenome": "Carmona",
+    "nascimento": "2015-10-22",
+    "cad_status": false,
+    "razao_social": "Matias e Salazar S.A."
+  },
+  {
+    "nome": "Michael",
+    "sobrenome": "Carrara",
+    "nascimento": "2001-11-20",
+    "cad_status": true,
+    "razao_social": "Sandoval Comercial Ltda."
+  },
+  {
+    "nome": "N\u00e1dia",
+    "sobrenome": "de Arruda",
+    "nascimento": "1974-07-12",
+    "cad_status": true,
+    "razao_social": "Bonilha Comercial Ltda."
+  },
+  {
+    "nome": "Roberto",
+    "sobrenome": "Santana",
+    "nascimento": "2012-07-10",
+    "cad_status": true,
+    "razao_social": "Benez e Medina"
+  },
+  {
+    "nome": "Alice",
+    "sobrenome": "Padr\u00e3o",
+    "nascimento": "2002-11-04",
+    "cad_status": false,
+    "razao_social": "Flores Ltda."
+  },
+  {
+    "nome": "Janaina",
+    "sobrenome": "Quintana",
+    "nascimento": "2005-11-17",
+    "cad_status": false,
+    "razao_social": "Espinoza-Chaves"
+  },
+  {
+    "nome": "Cl\u00e1udio",
+    "sobrenome": "Abreu",
+    "nascimento": "1993-02-01",
+    "cad_status": false,
+    "razao_social": "Faro Comercial Ltda."
+  },
+  {
+    "nome": "Teobaldo",
+    "sobrenome": "Galhardo",
+    "nascimento": "1981-10-31",
+    "cad_status": false,
+    "razao_social": "Queir\u00f3s-Rezende"
+  },
+  {
+    "nome": "Val\u00e9ria",
+    "sobrenome": "de Arruda",
+    "nascimento": "2010-08-17",
+    "cad_status": true,
+    "razao_social": "Corona e Cort\u00eas S.A."
+  },
+  {
+    "nome": "Kevin",
+    "sobrenome": "Barreto",
+    "nascimento": "1988-02-04",
+    "cad_status": false,
+    "razao_social": "Paz-Jimenes"
+  },
+  {
+    "nome": "Iasmin",
+    "sobrenome": "Lira",
+    "nascimento": "1978-10-21",
+    "cad_status": false,
+    "razao_social": "Ortiz e das Neves"
+  },
+  {
+    "nome": "Robson",
+    "sobrenome": "Maldonado",
+    "nascimento": "1996-08-12",
+    "cad_status": true,
+    "razao_social": "Valdez Comercial Ltda."
+  },
+  {
+    "nome": "Murilo",
+    "sobrenome": "Correia",
+    "nascimento": "1979-01-06",
+    "cad_status": true,
+    "razao_social": "Leon e Madeira"
+  },
+  {
+    "nome": "P\u00e9rola",
+    "sobrenome": "Barros",
+    "nascimento": "1975-03-24",
+    "cad_status": false,
+    "razao_social": "Campos-Lutero"
+  },
+  {
+    "nome": "Gabrielle",
+    "sobrenome": "de Arruda",
+    "nascimento": "2005-12-29",
+    "cad_status": false,
+    "razao_social": "Zambrano e Brito"
+  },
+  {
+    "nome": "Cl\u00e1udio",
+    "sobrenome": "Serna",
+    "nascimento": "2017-08-02",
+    "cad_status": false,
+    "razao_social": "Ortiz Comercial Ltda."
+  },
+  {
+    "nome": "Jaqueline",
+    "sobrenome": "Delvalle",
+    "nascimento": "1994-07-24",
+    "cad_status": true,
+    "razao_social": "Padr\u00e3o e da Rosa"
+  },
+  {
+    "nome": "Natan",
+    "sobrenome": "Alves",
+    "nascimento": "1992-12-15",
+    "cad_status": true,
+    "razao_social": "Camacho e Vasques"
+  },
+  {
+    "nome": "Maximiano",
+    "sobrenome": "Bezerra",
+    "nascimento": "1970-03-17",
+    "cad_status": true,
+    "razao_social": "Pontes e Marinho S.A."
+  },
+  {
+    "nome": "Guilherme",
+    "sobrenome": "Casanova",
+    "nascimento": "2007-03-05",
+    "cad_status": false,
+    "razao_social": "de Souza Comercial Ltda."
+  },
+  {
+    "nome": "Fernando",
+    "sobrenome": "Cruz",
+    "nascimento": "2012-11-27",
+    "cad_status": true,
+    "razao_social": "Uchoa S.A."
+  },
+  {
+    "nome": "Ant\u00f4nio",
+    "sobrenome": "Beltr\u00e3o",
+    "nascimento": "1975-12-11",
+    "cad_status": false,
+    "razao_social": "Esteves e Pena"
+  },
+  {
+    "nome": "Em\u00edlia",
+    "sobrenome": "Serrano",
+    "nascimento": "1984-02-17",
+    "cad_status": false,
+    "razao_social": "Quintana e Gomes Ltda."
+  },
+  {
+    "nome": "Everton",
+    "sobrenome": "Leon",
+    "nascimento": "2011-07-18",
+    "cad_status": false,
+    "razao_social": "Faro e Balestero"
+  },
+  {
+    "nome": "Pablo",
+    "sobrenome": "Beltr\u00e3o",
+    "nascimento": "2000-07-24",
+    "cad_status": true,
+    "razao_social": "Molina Ltda."
+  },
+  {
+    "nome": "Gabrielle",
+    "sobrenome": "de Arruda",
+    "nascimento": "1989-07-22",
+    "cad_status": true,
+    "razao_social": "Salas e Maldonado Ltda."
+  },
+  {
+    "nome": "Dante",
+    "sobrenome": "Carmona",
+    "nascimento": "1974-05-31",
+    "cad_status": true,
+    "razao_social": "Gomes e Lutero e Filhos"
+  },
+  {
+    "nome": "Gustavo",
+    "sobrenome": "Casanova",
+    "nascimento": "2000-09-07",
+    "cad_status": true,
+    "razao_social": "Saraiva e Vega"
+  },
+  {
+    "nome": "Adriana",
+    "sobrenome": "Roque",
+    "nascimento": "1979-01-06",
+    "cad_status": false,
+    "razao_social": "Maia Ltda."
+  },
+  {
+    "nome": "F\u00e1tima",
+    "sobrenome": "Martines",
+    "nascimento": "1985-11-08",
+    "cad_status": true,
+    "razao_social": "Franco e Abreu"
+  },
+  {
+    "nome": "Agatha",
+    "sobrenome": "Ortiz",
+    "nascimento": "1990-10-27",
+    "cad_status": true,
+    "razao_social": "Campos e Louren\u00e7o"
+  },
+  {
+    "nome": "Adriana",
+    "sobrenome": "Ortega",
+    "nascimento": "2017-04-16",
+    "cad_status": false,
+    "razao_social": "Garcia-Valentin"
+  },
+  {
+    "nome": "Roberto",
+    "sobrenome": "Rios",
+    "nascimento": "1997-04-17",
+    "cad_status": true,
+    "razao_social": "Neves-Pena"
+  },
+  {
+    "nome": "Jos\u00e9",
+    "sobrenome": "Delgado",
+    "nascimento": "1991-08-03",
+    "cad_status": true,
+    "razao_social": "de Arruda Comercial Ltda."
+  },
+  {
+    "nome": "Benedito",
+    "sobrenome": "Reis",
+    "nascimento": "1974-03-21",
+    "cad_status": false,
+    "razao_social": "da Silva Comercial Ltda."
+  },
+  {
+    "nome": "Em\u00edlio",
+    "sobrenome": "Alcantara",
+    "nascimento": "2012-10-30",
+    "cad_status": true,
+    "razao_social": "Gon\u00e7alves e Associados"
+  },
+  {
+    "nome": "Mari",
+    "sobrenome": "de Freitas",
+    "nascimento": "2008-02-02",
+    "cad_status": false,
+    "razao_social": "Grego e Filhos"
+  },
+  {
+    "nome": "Stefany",
+    "sobrenome": "Guerra",
+    "nascimento": "2001-12-24",
+    "cad_status": false,
+    "razao_social": "Zamana-Ramires"
+  },
+  {
+    "nome": "William",
+    "sobrenome": "Maldonado",
+    "nascimento": "1993-12-20",
+    "cad_status": false,
+    "razao_social": "Zarago\u00e7a S.A."
+  },
+  {
+    "nome": "Flor",
+    "sobrenome": "Batista",
+    "nascimento": "1997-02-10",
+    "cad_status": false,
+    "razao_social": "Leon e Gil"
+  },
+  {
+    "nome": "Natal",
+    "sobrenome": "Valdez",
+    "nascimento": "1995-04-09",
+    "cad_status": false,
+    "razao_social": "Alcantara Comercial Ltda."
+  },
+  {
+    "nome": "Artur",
+    "sobrenome": "Rosa",
+    "nascimento": "2016-03-12",
+    "cad_status": true,
+    "razao_social": "Santacruz e Associados"
+  },
+  {
+    "nome": "Mar\u00edlia",
+    "sobrenome": "Arag\u00e3o",
+    "nascimento": "2011-05-02",
+    "cad_status": true,
+    "razao_social": "Matos-Sales"
+  },
+  {
+    "nome": "Ester",
+    "sobrenome": "Santiago",
+    "nascimento": "2015-05-13",
+    "cad_status": false,
+    "razao_social": "Padr\u00e3o Comercial Ltda."
+  },
+  {
+    "nome": "Lorenzo",
+    "sobrenome": "Tamoio",
+    "nascimento": "1984-12-09",
+    "cad_status": false,
+    "razao_social": "Pedrosa-Soares"
+  },
+  {
+    "nome": "Poliana",
+    "sobrenome": "Rico",
+    "nascimento": "1982-03-16",
+    "cad_status": true,
+    "razao_social": "Marinho-Domingues"
+  },
+  {
+    "nome": "Ana",
+    "sobrenome": "Lovato",
+    "nascimento": "2002-04-23",
+    "cad_status": false,
+    "razao_social": "Valentin S.A."
+  },
+  {
+    "nome": "Richard",
+    "sobrenome": "Aranda",
+    "nascimento": "1985-04-07",
+    "cad_status": false,
+    "razao_social": "Molina e Cola\u00e7o"
+  },
+  {
+    "nome": "Daniella",
+    "sobrenome": "Saraiva",
+    "nascimento": "2024-08-16",
+    "cad_status": false,
+    "razao_social": "Leon-Gil"
+  },
+  {
+    "nome": "Robson",
+    "sobrenome": "Perez",
+    "nascimento": "2024-11-16",
+    "cad_status": true,
+    "razao_social": "Cervantes Comercial Ltda."
+  },
+  {
+    "nome": "Josu\u00e9",
+    "sobrenome": "Burgos",
+    "nascimento": "1983-12-17",
+    "cad_status": false,
+    "razao_social": "Ferreira e Rosa e Filhos"
+  },
+  {
+    "nome": "Bianca",
+    "sobrenome": "Bittencourt",
+    "nascimento": "1971-05-06",
+    "cad_status": true,
+    "razao_social": "Grego S.A."
+  },
+  {
+    "nome": "Teobaldo",
+    "sobrenome": "Camacho",
+    "nascimento": "2018-07-04",
+    "cad_status": true,
+    "razao_social": "Romero Comercial Ltda."
+  },
+  {
+    "nome": "M\u00e1rio",
+    "sobrenome": "Vieira",
+    "nascimento": "2010-04-19",
+    "cad_status": true,
+    "razao_social": "de Arruda e Tamoio"
+  },
+  {
+    "nome": "Sabrina",
+    "sobrenome": "Garcia",
+    "nascimento": "1977-01-01",
+    "cad_status": false,
+    "razao_social": "Caldeira-Fernandes"
+  },
+  {
+    "nome": "Victor",
+    "sobrenome": "Prado",
+    "nascimento": "2013-04-05",
+    "cad_status": false,
+    "razao_social": "Dias-Urias"
+  },
+  {
+    "nome": "Elaine",
+    "sobrenome": "Verdara",
+    "nascimento": "2005-02-19",
+    "cad_status": false,
+    "razao_social": "Cola\u00e7o e Perez e Associados"
+  },
+  {
+    "nome": "Olga",
+    "sobrenome": "Guerra",
+    "nascimento": "1987-02-10",
+    "cad_status": true,
+    "razao_social": "Domingues Comercial Ltda."
+  },
+  {
+    "nome": "Hugo",
+    "sobrenome": "Delatorre",
+    "nascimento": "2009-02-06",
+    "cad_status": true,
+    "razao_social": "\u00c1vila S.A."
+  },
+  {
+    "nome": "Jer\u00f4nimo",
+    "sobrenome": "Sep\u00falveda",
+    "nascimento": "2013-03-05",
+    "cad_status": false,
+    "razao_social": "Duarte e Martines e Associados"
+  },
+  {
+    "nome": "Victor",
+    "sobrenome": "Marques",
+    "nascimento": "2022-01-21",
+    "cad_status": true,
+    "razao_social": "Marques-Mar\u00e9s"
+  },
+  {
+    "nome": "Guilherme",
+    "sobrenome": "Fonseca",
+    "nascimento": "2003-10-26",
+    "cad_status": true,
+    "razao_social": "Delgado e Ramires e Filhos"
+  },
+  {
+    "nome": "Danilo",
+    "sobrenome": "Torres",
+    "nascimento": "2002-03-23",
+    "cad_status": false,
+    "razao_social": "Caldeira Comercial Ltda."
+  },
+  {
+    "nome": "Mois\u00e9s",
+    "sobrenome": "Valente",
+    "nascimento": "1988-06-10",
+    "cad_status": true,
+    "razao_social": "Bonilha S.A."
+  },
+  {
+    "nome": "\u00cdtalo",
+    "sobrenome": "Barreto",
+    "nascimento": "2006-09-19",
+    "cad_status": false,
+    "razao_social": "Salas e Santiago S.A."
+  },
+  {
+    "nome": "Bia",
+    "sobrenome": "Delgado",
+    "nascimento": "1984-06-07",
+    "cad_status": false,
+    "razao_social": "Pedrosa Comercial Ltda."
+  },
+  {
+    "nome": "Gabi",
+    "sobrenome": "Soto",
+    "nascimento": "1985-10-15",
+    "cad_status": false,
+    "razao_social": "Lovato e Quintana Ltda."
+  },
+  {
+    "nome": "Vitor",
+    "sobrenome": "Oliveira",
+    "nascimento": "1975-11-24",
+    "cad_status": false,
+    "razao_social": "Cordeiro-Vasques"
+  },
+  {
+    "nome": "Alma",
+    "sobrenome": "Toledo",
+    "nascimento": "2012-10-18",
+    "cad_status": false,
+    "razao_social": "Martines S.A."
+  },
+  {
+    "nome": "Benjamin",
+    "sobrenome": "Verdugo",
+    "nascimento": "1992-05-16",
+    "cad_status": false,
+    "razao_social": "Sandoval Comercial Ltda."
+  },
+  {
+    "nome": "Jean",
+    "sobrenome": "Maia",
+    "nascimento": "1995-07-22",
+    "cad_status": false,
+    "razao_social": "Madeira e Santana e Associados"
+  },
+  {
+    "nome": "Miriam",
+    "sobrenome": "Souza",
+    "nascimento": "1985-07-31",
+    "cad_status": true,
+    "razao_social": "Burgos e Soares e Associados"
+  },
+  {
+    "nome": "Viviane",
+    "sobrenome": "da Silva",
+    "nascimento": "2024-04-27",
+    "cad_status": false,
+    "razao_social": "Madeira-Esteves"
+  },
+  {
+    "nome": "C\u00edntia",
+    "sobrenome": "Rios",
+    "nascimento": "1985-05-09",
+    "cad_status": true,
+    "razao_social": "Franco Comercial Ltda."
+  },
+  {
+    "nome": "Suelen",
+    "sobrenome": "God\u00f3i",
+    "nascimento": "2013-01-22",
+    "cad_status": true,
+    "razao_social": "Bezerra-Prado"
+  },
+  {
+    "nome": "Noa",
+    "sobrenome": "de Aguiar",
+    "nascimento": "1989-10-30",
+    "cad_status": true,
+    "razao_social": "Serrano e Associados"
+  },
+  {
+    "nome": "Jer\u00f4nimo",
+    "sobrenome": "Ortega",
+    "nascimento": "1980-09-07",
+    "cad_status": false,
+    "razao_social": "Barros S.A."
+  },
+  {
+    "nome": "Emerson",
+    "sobrenome": "Meireles",
+    "nascimento": "1989-10-02",
+    "cad_status": false,
+    "razao_social": "Estrada e Barros"
+  },
+  {
+    "nome": "Bruna",
+    "sobrenome": "Paes",
+    "nascimento": "1979-09-07",
+    "cad_status": true,
+    "razao_social": "Branco e Alves"
+  },
+  {
+    "nome": "Christian",
+    "sobrenome": "God\u00f3i",
+    "nascimento": "1983-04-02",
+    "cad_status": true,
+    "razao_social": "Brito e Associados"
+  },
+  {
+    "nome": "Yohanna",
+    "sobrenome": "Fontes",
+    "nascimento": "1994-10-26",
+    "cad_status": true,
+    "razao_social": "Corona Comercial Ltda."
+  },
+  {
+    "nome": "Andres",
+    "sobrenome": "Faria",
+    "nascimento": "2021-03-07",
+    "cad_status": false,
+    "razao_social": "Benez e Fernandes"
+  },
+  {
+    "nome": "Hor\u00e1cio",
+    "sobrenome": "\u00c1vila",
+    "nascimento": "1970-01-08",
+    "cad_status": true,
+    "razao_social": "Vasques e Deverso e Filhos"
+  },
+  {
+    "nome": "Luis",
+    "sobrenome": "Medina",
+    "nascimento": "1993-02-04",
+    "cad_status": true,
+    "razao_social": "das Dores-Casanova"
+  },
+  {
+    "nome": "Cristina",
+    "sobrenome": "Ramires",
+    "nascimento": "1999-12-17",
+    "cad_status": true,
+    "razao_social": "Escobar-Duarte"
+  },
+  {
+    "nome": "Ta\u00eds",
+    "sobrenome": "Salgado",
+    "nascimento": "1998-05-27",
+    "cad_status": false,
+    "razao_social": "Urias-Mendes"
+  },
+  {
+    "nome": "Tatiana",
+    "sobrenome": "Sandoval",
+    "nascimento": "2023-11-02",
+    "cad_status": false,
+    "razao_social": "D'\u00e1vila Comercial Ltda."
+  },
+  {
+    "nome": "Crist\u00f3v\u00e3o",
+    "sobrenome": "Cola\u00e7o",
+    "nascimento": "1971-08-31",
+    "cad_status": false,
+    "razao_social": "Barros-Flores"
+  },
+  {
+    "nome": "Guilherme",
+    "sobrenome": "Ortiz",
+    "nascimento": "1971-10-21",
+    "cad_status": true,
+    "razao_social": "Cola\u00e7o S.A."
+  },
+  {
+    "nome": "Camila",
+    "sobrenome": "Santiago",
+    "nascimento": "1988-09-07",
+    "cad_status": true,
+    "razao_social": "Furtado e da Cruz S.A."
+  },
+  {
+    "nome": "Nero",
+    "sobrenome": "Ramos",
+    "nascimento": "2016-07-29",
+    "cad_status": false,
+    "razao_social": "Salazar e Sanches S.A."
+  },
+  {
+    "nome": "George",
+    "sobrenome": "Padilha",
+    "nascimento": "1974-02-12",
+    "cad_status": false,
+    "razao_social": "Cort\u00eas-Brito"
+  },
+  {
+    "nome": "L\u00facia",
+    "sobrenome": "Mendon\u00e7a",
+    "nascimento": "2023-06-07",
+    "cad_status": true,
+    "razao_social": "Padilha Comercial Ltda."
+  },
+  {
+    "nome": "Suellen",
+    "sobrenome": "Casanova",
+    "nascimento": "1987-02-23",
+    "cad_status": false,
+    "razao_social": "Beltr\u00e3o Comercial Ltda."
+  },
+  {
+    "nome": "Simon",
+    "sobrenome": "Soto",
+    "nascimento": "2004-05-17",
+    "cad_status": true,
+    "razao_social": "Marques e Salgado"
+  },
+  {
+    "nome": "Luna",
+    "sobrenome": "Soares",
+    "nascimento": "2018-01-30",
+    "cad_status": false,
+    "razao_social": "Uchoa Comercial Ltda."
+  },
+  {
+    "nome": "Mary",
+    "sobrenome": "Delgado",
+    "nascimento": "2014-03-27",
+    "cad_status": false,
+    "razao_social": "Ferreira Ltda."
+  },
+  {
+    "nome": "Isabelly",
+    "sobrenome": "Leal",
+    "nascimento": "2022-09-28",
+    "cad_status": false,
+    "razao_social": "Fontes-das Neves"
+  },
+  {
+    "nome": "Juliane",
+    "sobrenome": "das Neves",
+    "nascimento": "2005-10-02",
+    "cad_status": true,
+    "razao_social": "Mar\u00e9s Comercial Ltda."
+  },
+  {
+    "nome": "Fabr\u00edcio",
+    "sobrenome": "Benez",
+    "nascimento": "2010-11-15",
+    "cad_status": true,
+    "razao_social": "Gil Ltda."
+  },
+  {
+    "nome": "Vanessa",
+    "sobrenome": "Grego",
+    "nascimento": "1978-04-25",
+    "cad_status": true,
+    "razao_social": "Maldonado-Flores"
+  },
+  {
+    "nome": "Helo\u00edsa",
+    "sobrenome": "Duarte",
+    "nascimento": "2004-08-13",
+    "cad_status": false,
+    "razao_social": "Souza-Branco"
+  },
+  {
+    "nome": "Cec\u00edlia",
+    "sobrenome": "Lira",
+    "nascimento": "1985-11-16",
+    "cad_status": true,
+    "razao_social": "Souza Comercial Ltda."
+  },
+  {
+    "nome": "Miranda",
+    "sobrenome": "Serrano",
+    "nascimento": "1995-07-27",
+    "cad_status": false,
+    "razao_social": "Pereira e Padr\u00e3o Ltda."
+  },
+  {
+    "nome": "S\u00f4nia",
+    "sobrenome": "Caldeira",
+    "nascimento": "2006-12-03",
+    "cad_status": false,
+    "razao_social": "de Aguiar e Associados"
+  },
+  {
+    "nome": "Wagner",
+    "sobrenome": "Torres",
+    "nascimento": "2019-09-28",
+    "cad_status": true,
+    "razao_social": "Romero-Pacheco"
+  },
+  {
+    "nome": "Sara",
+    "sobrenome": "Bittencourt",
+    "nascimento": "1991-06-20",
+    "cad_status": true,
+    "razao_social": "Esteves Ltda."
+  },
+  {
+    "nome": "Nat\u00e1lia",
+    "sobrenome": "Ortiz",
+    "nascimento": "2026-01-15",
+    "cad_status": true,
+    "razao_social": "Padr\u00e3o e Medina e Filhos"
+  },
+  {
+    "nome": "Sabrina",
+    "sobrenome": "Serna",
+    "nascimento": "2010-08-23",
+    "cad_status": true,
+    "razao_social": "Vega e Sales S.A."
+  },
+  {
+    "nome": "Guilherme",
+    "sobrenome": "Verdara",
+    "nascimento": "2006-06-09",
+    "cad_status": true,
+    "razao_social": "Sandoval e Associados"
+  },
+  {
+    "nome": "Maur\u00edcio",
+    "sobrenome": "Aguiar",
+    "nascimento": "2005-03-10",
+    "cad_status": true,
+    "razao_social": "Rosa e Associados"
+  },
+  {
+    "nome": "Karina",
+    "sobrenome": "Flores",
+    "nascimento": "2025-06-04",
+    "cad_status": false,
+    "razao_social": "Burgos e Saito"
+  },
+  {
+    "nome": "Laiane",
+    "sobrenome": "Serrano",
+    "nascimento": "1972-11-18",
+    "cad_status": false,
+    "razao_social": "Molina Comercial Ltda."
+  },
+  {
+    "nome": "Adriel",
+    "sobrenome": "Rocha",
+    "nascimento": "1981-08-28",
+    "cad_status": true,
+    "razao_social": "Faria e Valente"
+  },
+  {
+    "nome": "Ivan",
+    "sobrenome": "Zarago\u00e7a",
+    "nascimento": "1998-08-19",
+    "cad_status": false,
+    "razao_social": "Vila S.A."
+  },
+  {
+    "nome": "Fl\u00e1vio",
+    "sobrenome": "Batista",
+    "nascimento": "2011-06-28",
+    "cad_status": true,
+    "razao_social": "Dias e Vasques"
+  },
+  {
+    "nome": "Victor",
+    "sobrenome": "\u00c1vila",
+    "nascimento": "2011-05-26",
+    "cad_status": true,
+    "razao_social": "Romero e Associados"
+  },
+  {
+    "nome": "Isadora",
+    "sobrenome": "Padilha",
+    "nascimento": "2010-07-16",
+    "cad_status": true,
+    "razao_social": "Dominato e Filhos"
+  },
+  {
+    "nome": "La\u00eds",
+    "sobrenome": "de Arruda",
+    "nascimento": "1993-11-13",
+    "cad_status": false,
+    "razao_social": "Serrano Comercial Ltda."
+  },
+  {
+    "nome": "Larissa",
+    "sobrenome": "Sandoval",
+    "nascimento": "1989-05-08",
+    "cad_status": true,
+    "razao_social": "Tamoio Comercial Ltda."
+  },
+  {
+    "nome": "Davi",
+    "sobrenome": "Santos",
+    "nascimento": "1975-09-18",
+    "cad_status": true,
+    "razao_social": "Teles e da Silva"
+  },
+  {
+    "nome": "Cristian",
+    "sobrenome": "Rivera",
+    "nascimento": "1978-07-25",
+    "cad_status": true,
+    "razao_social": "de Aguiar-Aranda"
+  },
+  {
+    "nome": "Rodrigo",
+    "sobrenome": "das Dores",
+    "nascimento": "2010-04-25",
+    "cad_status": false,
+    "razao_social": "Gil e Saraiva"
+  },
+  {
+    "nome": "Raquel",
+    "sobrenome": "Solano",
+    "nascimento": "2025-06-05",
+    "cad_status": false,
+    "razao_social": "Campos-Matias"
+  },
+  {
+    "nome": "Wagner",
+    "sobrenome": "Quintana",
+    "nascimento": "2024-04-26",
+    "cad_status": false,
+    "razao_social": "Padilha e Santiago S.A."
+  },
+  {
+    "nome": "Anita",
+    "sobrenome": "Brito",
+    "nascimento": "2018-03-01",
+    "cad_status": true,
+    "razao_social": "Mendon\u00e7a-Uchoa"
+  },
+  {
+    "nome": "Tiago",
+    "sobrenome": "Dias",
+    "nascimento": "2013-06-02",
+    "cad_status": false,
+    "razao_social": "Louren\u00e7o-Fernandes"
+  },
+  {
+    "nome": "Nicole",
+    "sobrenome": "Santacruz",
+    "nascimento": "1976-07-30",
+    "cad_status": true,
+    "razao_social": "da Silva e Associados"
+  },
+  {
+    "nome": "Daniela",
+    "sobrenome": "Sep\u00falveda",
+    "nascimento": "1985-09-21",
+    "cad_status": true,
+    "razao_social": "God\u00f3i e Associados"
+  },
+  {
+    "nome": "Aline",
+    "sobrenome": "Uchoa",
+    "nascimento": "2010-05-09",
+    "cad_status": false,
+    "razao_social": "Azevedo e Fernandes e Filhos"
+  },
+  {
+    "nome": "Marisa",
+    "sobrenome": "Carmona",
+    "nascimento": "2017-09-16",
+    "cad_status": false,
+    "razao_social": "Pontes-\u00c1vila"
+  },
+  {
+    "nome": "Miguel",
+    "sobrenome": "Assun\u00e7\u00e3o",
+    "nascimento": "1976-05-24",
+    "cad_status": true,
+    "razao_social": "Valente S.A."
+  },
+  {
+    "nome": "Isabella",
+    "sobrenome": "de Oliveira",
+    "nascimento": "1986-12-26",
+    "cad_status": false,
+    "razao_social": "Alves e Furtado S.A."
+  },
+  {
+    "nome": "Luan",
+    "sobrenome": "Assun\u00e7\u00e3o",
+    "nascimento": "2026-02-04",
+    "cad_status": true,
+    "razao_social": "Santos e Filhos"
+  },
+  {
+    "nome": "Matheus",
+    "sobrenome": "Jimenes",
+    "nascimento": "1984-11-11",
+    "cad_status": false,
+    "razao_social": "Lozano-Maldonado"
+  },
+  {
+    "nome": "Anderson",
+    "sobrenome": "Marinho",
+    "nascimento": "1997-11-03",
+    "cad_status": true,
+    "razao_social": "Fonseca e Sandoval Ltda."
+  },
+  {
+    "nome": "Sandro",
+    "sobrenome": "Tamoio",
+    "nascimento": "2000-03-24",
+    "cad_status": true,
+    "razao_social": "Ferraz e Marin"
+  },
+  {
+    "nome": "Beatriz",
+    "sobrenome": "Ferreira",
+    "nascimento": "1987-12-03",
+    "cad_status": false,
+    "razao_social": "Soares e Santiago"
+  },
+  {
+    "nome": "Walter",
+    "sobrenome": "Roque",
+    "nascimento": "1970-10-14",
+    "cad_status": true,
+    "razao_social": "Camacho e Associados"
+  },
+  {
+    "nome": "Adriele",
+    "sobrenome": "Leon",
+    "nascimento": "1978-02-19",
+    "cad_status": true,
+    "razao_social": "Santiago e Tamoio e Filhos"
+  },
+  {
+    "nome": "Paloma",
+    "sobrenome": "Gusm\u00e3o",
+    "nascimento": "2004-03-22",
+    "cad_status": true,
+    "razao_social": "Rivera-Benites"
+  },
+  {
+    "nome": "Roberto",
+    "sobrenome": "Prado",
+    "nascimento": "1981-01-27",
+    "cad_status": true,
+    "razao_social": "Queir\u00f3s Comercial Ltda."
+  },
+  {
+    "nome": "Andr\u00e9ia",
+    "sobrenome": "Garcia",
+    "nascimento": "2012-02-05",
+    "cad_status": false,
+    "razao_social": "Ramires e Solano e Associados"
+  },
+  {
+    "nome": "Victor",
+    "sobrenome": "Queir\u00f3s",
+    "nascimento": "2019-09-04",
+    "cad_status": true,
+    "razao_social": "das Dores e Marinho e Associados"
+  },
+  {
+    "nome": "Gilberto",
+    "sobrenome": "Franco",
+    "nascimento": "1991-09-13",
+    "cad_status": false,
+    "razao_social": "Roque-Arruda"
+  },
+  {
+    "nome": "Noel",
+    "sobrenome": "Casanova",
+    "nascimento": "2009-10-13",
+    "cad_status": false,
+    "razao_social": "Bonilha e Associados"
+  },
+  {
+    "nome": "Raissa",
+    "sobrenome": "Ferraz",
+    "nascimento": "1975-03-11",
+    "cad_status": false,
+    "razao_social": "Vieira e Filhos"
+  },
+  {
+    "nome": "Luna",
+    "sobrenome": "Cola\u00e7o",
+    "nascimento": "1972-03-28",
+    "cad_status": true,
+    "razao_social": "Gusm\u00e3o e Padilha S.A."
+  },
+  {
+    "nome": "Cynthia",
+    "sobrenome": "Paz",
+    "nascimento": "1999-03-13",
+    "cad_status": false,
+    "razao_social": "Rezende Comercial Ltda."
+  },
+  {
+    "nome": "Em\u00edlio",
+    "sobrenome": "Padr\u00e3o",
+    "nascimento": "2011-01-04",
+    "cad_status": true,
+    "razao_social": "Cervantes-Delgado"
+  },
+  {
+    "nome": "Noel\u00ed",
+    "sobrenome": "Salgado",
+    "nascimento": "2012-04-28",
+    "cad_status": false,
+    "razao_social": "Delvalle Comercial Ltda."
+  },
+  {
+    "nome": "M\u00e1rio",
+    "sobrenome": "Domingues",
+    "nascimento": "2015-03-30",
+    "cad_status": true,
+    "razao_social": "Gil e Associados"
+  },
+  {
+    "nome": "Wilson",
+    "sobrenome": "Padilha",
+    "nascimento": "2004-04-16",
+    "cad_status": true,
+    "razao_social": "Saraiva Comercial Ltda."
+  },
+  {
+    "nome": "Thalita",
+    "sobrenome": "God\u00f3i",
+    "nascimento": "1973-10-30",
+    "cad_status": true,
+    "razao_social": "Bonilha Comercial Ltda."
+  },
+  {
+    "nome": "Hort\u00eancia",
+    "sobrenome": "Serna",
+    "nascimento": "1994-09-12",
+    "cad_status": true,
+    "razao_social": "Louren\u00e7o-Romero"
+  },
+  {
+    "nome": "Mila",
+    "sobrenome": "Perez",
+    "nascimento": "2001-09-07",
+    "cad_status": true,
+    "razao_social": "Grego Comercial Ltda."
+  },
+  {
+    "nome": "Catarina",
+    "sobrenome": "Amaral",
+    "nascimento": "1971-09-26",
+    "cad_status": false,
+    "razao_social": "Reis-Romero"
+  },
+  {
+    "nome": "Vitor",
+    "sobrenome": "Sep\u00falveda",
+    "nascimento": "1999-12-24",
+    "cad_status": true,
+    "razao_social": "Fernandes Comercial Ltda."
+  },
+  {
+    "nome": "Kelly",
+    "sobrenome": "Guerra",
+    "nascimento": "1994-08-23",
+    "cad_status": true,
+    "razao_social": "Saraiva Ltda."
+  },
+  {
+    "nome": "Mirella",
+    "sobrenome": "Leal",
+    "nascimento": "2006-08-22",
+    "cad_status": false,
+    "razao_social": "Ferminiano-Duarte"
+  },
+  {
+    "nome": "Malena",
+    "sobrenome": "Faria",
+    "nascimento": "1992-03-02",
+    "cad_status": true,
+    "razao_social": "Estrada-Serna"
+  },
+  {
+    "nome": "Abgail",
+    "sobrenome": "Madeira",
+    "nascimento": "2014-01-09",
+    "cad_status": false,
+    "razao_social": "Molina e Feliciano e Associados"
+  },
+  {
+    "nome": "Fabiana",
+    "sobrenome": "das Neves",
+    "nascimento": "2021-08-06",
+    "cad_status": false,
+    "razao_social": "Leon e Balestero"
+  },
+  {
+    "nome": "Ben\u00edcio",
+    "sobrenome": "Pontes",
+    "nascimento": "2000-01-18",
+    "cad_status": true,
+    "razao_social": "Ferreira-Chaves"
+  },
+  {
+    "nome": "Ant\u00f4nio",
+    "sobrenome": "Lozano",
+    "nascimento": "2011-10-24",
+    "cad_status": true,
+    "razao_social": "Queir\u00f3s e Marques"
+  },
+  {
+    "nome": "Melissa",
+    "sobrenome": "Camacho",
+    "nascimento": "1987-05-03",
+    "cad_status": true,
+    "razao_social": "Mar\u00e9s e Oliveira"
+  },
+  {
+    "nome": "Renato",
+    "sobrenome": "Queir\u00f3s",
+    "nascimento": "2022-02-14",
+    "cad_status": false,
+    "razao_social": "Sandoval Comercial Ltda."
+  },
+  {
+    "nome": "Franco",
+    "sobrenome": "Teles",
+    "nascimento": "1983-01-11",
+    "cad_status": true,
+    "razao_social": "Bittencourt e Martines e Associados"
+  },
+  {
+    "nome": "T\u00e2mara",
+    "sobrenome": "Espinoza",
+    "nascimento": "1977-01-14",
+    "cad_status": false,
+    "razao_social": "Sep\u00falveda e Mar\u00e9s e Filhos"
+  },
+  {
+    "nome": "Alexa",
+    "sobrenome": "Cola\u00e7o",
+    "nascimento": "2022-01-30",
+    "cad_status": true,
+    "razao_social": "Salas e Associados"
+  },
+  {
+    "nome": "Denis",
+    "sobrenome": "Rico",
+    "nascimento": "2016-04-18",
+    "cad_status": false,
+    "razao_social": "Arruda Comercial Ltda."
+  },
+  {
+    "nome": "Marta",
+    "sobrenome": "Louren\u00e7o",
+    "nascimento": "2014-09-19",
+    "cad_status": true,
+    "razao_social": "Mendon\u00e7a e Filhos"
+  },
+  {
+    "nome": "Nicole",
+    "sobrenome": "Estrada",
+    "nascimento": "1999-08-20",
+    "cad_status": true,
+    "razao_social": "Leon Ltda."
+  },
+  {
+    "nome": "Ohana",
+    "sobrenome": "Dias",
+    "nascimento": "1971-02-04",
+    "cad_status": true,
+    "razao_social": "Valente Comercial Ltda."
+  },
+  {
+    "nome": "Jaqueline",
+    "sobrenome": "Sandoval",
+    "nascimento": "1984-07-03",
+    "cad_status": true,
+    "razao_social": "Roque Comercial Ltda."
+  },
+  {
+    "nome": "Mois\u00e9s",
+    "sobrenome": "de Freitas",
+    "nascimento": "1989-10-21",
+    "cad_status": false,
+    "razao_social": "Quintana e Galindo"
+  },
+  {
+    "nome": "Kauan",
+    "sobrenome": "Tamoio",
+    "nascimento": "2011-10-16",
+    "cad_status": false,
+    "razao_social": "Padr\u00e3o-Gon\u00e7alves"
+  },
+  {
+    "nome": "Jean",
+    "sobrenome": "de Arruda",
+    "nascimento": "1981-07-24",
+    "cad_status": true,
+    "razao_social": "Soto Comercial Ltda."
+  },
+  {
+    "nome": "Felipe",
+    "sobrenome": "Duarte",
+    "nascimento": "1981-05-11",
+    "cad_status": false,
+    "razao_social": "Pontes e Jimenes e Associados"
+  },
+  {
+    "nome": "Ana",
+    "sobrenome": "Lira",
+    "nascimento": "2008-12-19",
+    "cad_status": false,
+    "razao_social": "Carrara-Ferminiano"
+  },
+  {
+    "nome": "Jefferson",
+    "sobrenome": "Escobar",
+    "nascimento": "2000-10-10",
+    "cad_status": true,
+    "razao_social": "das Dores e Saito e Associados"
+  },
+  {
+    "nome": "Larissa",
+    "sobrenome": "Delgado",
+    "nascimento": "2019-09-28",
+    "cad_status": false,
+    "razao_social": "Souza Comercial Ltda."
+  },
+  {
+    "nome": "Ana",
+    "sobrenome": "Guerra",
+    "nascimento": "1982-12-17",
+    "cad_status": false,
+    "razao_social": "Ramos Comercial Ltda."
+  },
+  {
+    "nome": "Paula",
+    "sobrenome": "Barreto",
+    "nascimento": "1978-02-24",
+    "cad_status": true,
+    "razao_social": "Dias e Salgado"
+  },
+  {
+    "nome": "Walter",
+    "sobrenome": "de Freitas",
+    "nascimento": "1987-03-22",
+    "cad_status": false,
+    "razao_social": "Serrano-Faria"
+  },
+  {
+    "nome": "Sabrina",
+    "sobrenome": "Paes",
+    "nascimento": "2009-07-10",
+    "cad_status": false,
+    "razao_social": "Delatorre Ltda."
+  },
+  {
+    "nome": "Laiane",
+    "sobrenome": "Cola\u00e7o",
+    "nascimento": "2019-06-22",
+    "cad_status": false,
+    "razao_social": "Bonilha-Velasques"
+  },
+  {
+    "nome": "Teobaldo",
+    "sobrenome": "de Oliveira",
+    "nascimento": "1985-01-24",
+    "cad_status": false,
+    "razao_social": "Escobar Comercial Ltda."
+  },
+  {
+    "nome": "Elisa",
+    "sobrenome": "Solano",
+    "nascimento": "1970-03-06",
+    "cad_status": false,
+    "razao_social": "de Aguiar S.A."
+  },
+  {
+    "nome": "Denis",
+    "sobrenome": "Salazar",
+    "nascimento": "1983-09-19",
+    "cad_status": false,
+    "razao_social": "Madeira Comercial Ltda."
+  },
+  {
+    "nome": "Priscila",
+    "sobrenome": "Solano",
+    "nascimento": "1997-12-28",
+    "cad_status": true,
+    "razao_social": "Ferreira e Associados"
+  },
+  {
+    "nome": "Maicon",
+    "sobrenome": "Lira",
+    "nascimento": "1985-07-10",
+    "cad_status": false,
+    "razao_social": "Velasques-Pereira"
+  },
+  {
+    "nome": "Santiago",
+    "sobrenome": "Maia",
+    "nascimento": "1991-10-01",
+    "cad_status": true,
+    "razao_social": "Dias Comercial Ltda."
+  },
+  {
+    "nome": "Mel",
+    "sobrenome": "Dias",
+    "nascimento": "1980-03-17",
+    "cad_status": false,
+    "razao_social": "da Rosa e Sales S.A."
+  },
+  {
+    "nome": "Gean",
+    "sobrenome": "Caldeira",
+    "nascimento": "2025-12-05",
+    "cad_status": false,
+    "razao_social": "Vieira e Filhos"
+  },
+  {
+    "nome": "Ot\u00e1vio",
+    "sobrenome": "Vila",
+    "nascimento": "1980-01-13",
+    "cad_status": true,
+    "razao_social": "Franco e Associados"
+  },
+  {
+    "nome": "Adriel",
+    "sobrenome": "Gusm\u00e3o",
+    "nascimento": "2014-06-14",
+    "cad_status": true,
+    "razao_social": "Padr\u00e3o Comercial Ltda."
+  },
+  {
+    "nome": "Gilberto",
+    "sobrenome": "God\u00f3i",
+    "nascimento": "1984-03-08",
+    "cad_status": true,
+    "razao_social": "Vieira Ltda."
+  },
+  {
+    "nome": "Daiane",
+    "sobrenome": "Medina",
+    "nascimento": "1979-08-30",
+    "cad_status": false,
+    "razao_social": "Aranda-Verdara"
+  },
+  {
+    "nome": "Natal",
+    "sobrenome": "Cordeiro",
+    "nascimento": "1973-09-27",
+    "cad_status": true,
+    "razao_social": "Serrano e da Cruz e Associados"
+  },
+  {
+    "nome": "Josu\u00e9",
+    "sobrenome": "Deverso",
+    "nascimento": "1986-10-31",
+    "cad_status": true,
+    "razao_social": "Estrada e de Aguiar S.A."
+  },
+  {
+    "nome": "Sheila",
+    "sobrenome": "Ferreira",
+    "nascimento": "2012-08-24",
+    "cad_status": true,
+    "razao_social": "Guerra e Toledo e Associados"
+  },
+  {
+    "nome": "Guilherme",
+    "sobrenome": "Paz",
+    "nascimento": "1971-01-02",
+    "cad_status": false,
+    "razao_social": "Camacho e Medina e Associados"
+  },
+  {
+    "nome": "Sarah",
+    "sobrenome": "Galhardo",
+    "nascimento": "2013-12-12",
+    "cad_status": false,
+    "razao_social": "Queir\u00f3s e Salas"
+  },
+  {
+    "nome": "Willian",
+    "sobrenome": "Verdara",
+    "nascimento": "2025-02-08",
+    "cad_status": true,
+    "razao_social": "Chaves e Aguiar"
+  },
+  {
+    "nome": "Lara",
+    "sobrenome": "Gomes",
+    "nascimento": "2019-04-25",
+    "cad_status": true,
+    "razao_social": "Marinho Comercial Ltda."
+  },
+  {
+    "nome": "Allison",
+    "sobrenome": "Sandoval",
+    "nascimento": "1971-04-16",
+    "cad_status": true,
+    "razao_social": "Zamana e Uchoa"
+  },
+  {
+    "nome": "Sandra",
+    "sobrenome": "de Freitas",
+    "nascimento": "2004-09-03",
+    "cad_status": false,
+    "razao_social": "da Silva-Oliveira"
+  },
+  {
+    "nome": "Marisa",
+    "sobrenome": "Padr\u00e3o",
+    "nascimento": "1986-02-28",
+    "cad_status": true,
+    "razao_social": "Gusm\u00e3o-da Cruz"
+  },
+  {
+    "nome": "Ellen",
+    "sobrenome": "Galindo",
+    "nascimento": "2022-03-18",
+    "cad_status": false,
+    "razao_social": "Santana-Maldonado"
+  },
+  {
+    "nome": "Val\u00e9ria",
+    "sobrenome": "Espinoza",
+    "nascimento": "1972-10-22",
+    "cad_status": true,
+    "razao_social": "Jimenes Comercial Ltda."
+  },
+  {
+    "nome": "Luciano",
+    "sobrenome": "Barros",
+    "nascimento": "1978-11-06",
+    "cad_status": true,
+    "razao_social": "Soares e das Neves e Associados"
+  },
+  {
+    "nome": "Carolina",
+    "sobrenome": "Zarago\u00e7a",
+    "nascimento": "1991-04-08",
+    "cad_status": false,
+    "razao_social": "Batista e Jimenes e Associados"
+  },
+  {
+    "nome": "Iasmin",
+    "sobrenome": "Carvalho",
+    "nascimento": "2002-02-21",
+    "cad_status": false,
+    "razao_social": "de Souza e Galhardo"
+  },
+  {
+    "nome": "Rafael",
+    "sobrenome": "Paz",
+    "nascimento": "2022-09-12",
+    "cad_status": true,
+    "razao_social": "Gusm\u00e3o-D'\u00e1vila"
+  },
+  {
+    "nome": "Gabriel",
+    "sobrenome": "Fonseca",
+    "nascimento": "1987-10-02",
+    "cad_status": true,
+    "razao_social": "Corona e Serrano S.A."
+  },
+  {
+    "nome": "Natal",
+    "sobrenome": "Ferminiano",
+    "nascimento": "1974-11-09",
+    "cad_status": true,
+    "razao_social": "Duarte e Val\u00eancia"
+  },
+  {
+    "nome": "Sabrina",
+    "sobrenome": "Assun\u00e7\u00e3o",
+    "nascimento": "2019-11-17",
+    "cad_status": false,
+    "razao_social": "Ferreira e Fidalgo"
+  },
+  {
+    "nome": "Thales",
+    "sobrenome": "Cort\u00eas",
+    "nascimento": "1983-03-09",
+    "cad_status": false,
+    "razao_social": "Delgado e Bonilha Ltda."
+  },
+  {
+    "nome": "Kamila",
+    "sobrenome": "Grego",
+    "nascimento": "2018-12-28",
+    "cad_status": true,
+    "razao_social": "Arruda-Guerra"
+  },
+  {
+    "nome": "Crist\u00f3v\u00e3o",
+    "sobrenome": "Brito",
+    "nascimento": "1987-10-10",
+    "cad_status": false,
+    "razao_social": "Azevedo Comercial Ltda."
+  },
+  {
+    "nome": "T\u00e9o",
+    "sobrenome": "Faro",
+    "nascimento": "2007-07-22",
+    "cad_status": false,
+    "razao_social": "Mendon\u00e7a e Salazar Ltda."
+  },
+  {
+    "nome": "Renata",
+    "sobrenome": "Rosa",
+    "nascimento": "2004-07-25",
+    "cad_status": false,
+    "razao_social": "Queir\u00f3s Comercial Ltda."
+  },
+  {
+    "nome": "Nicolas",
+    "sobrenome": "Azevedo",
+    "nascimento": "1973-05-21",
+    "cad_status": false,
+    "razao_social": "Furtado Ltda."
+  },
+  {
+    "nome": "S\u00f4nia",
+    "sobrenome": "de Freitas",
+    "nascimento": "1971-11-04",
+    "cad_status": true,
+    "razao_social": "Beltr\u00e3o-Fonseca"
+  },
+  {
+    "nome": "Dener",
+    "sobrenome": "Flores",
+    "nascimento": "2017-10-31",
+    "cad_status": true,
+    "razao_social": "Grego e Associados"
+  },
+  {
+    "nome": "Maraisa",
+    "sobrenome": "Leon",
+    "nascimento": "1970-05-09",
+    "cad_status": true,
+    "razao_social": "Benites-Campos"
+  },
+  {
+    "nome": "Karen",
+    "sobrenome": "Pacheco",
+    "nascimento": "2025-02-19",
+    "cad_status": false,
+    "razao_social": "Serra e Associados"
+  },
+  {
+    "nome": "Paula",
+    "sobrenome": "das Neves",
+    "nascimento": "1981-12-01",
+    "cad_status": false,
+    "razao_social": "Rico e Filhos"
+  },
+  {
+    "nome": "Priscila",
+    "sobrenome": "Verdara",
+    "nascimento": "2014-07-07",
+    "cad_status": true,
+    "razao_social": "Oliveira-Toledo"
+  },
+  {
+    "nome": "Vitor",
+    "sobrenome": "Mendon\u00e7a",
+    "nascimento": "2026-01-14",
+    "cad_status": false,
+    "razao_social": "Lozano e Mendes Ltda."
+  },
+  {
+    "nome": "Camila",
+    "sobrenome": "Lira",
+    "nascimento": "1979-11-19",
+    "cad_status": false,
+    "razao_social": "Gusm\u00e3o e Molina"
+  },
+  {
+    "nome": "Natan",
+    "sobrenome": "Pacheco",
+    "nascimento": "1999-11-11",
+    "cad_status": true,
+    "razao_social": "Ramos-de Aguiar"
+  },
+  {
+    "nome": "William",
+    "sobrenome": "Bezerra",
+    "nascimento": "1999-10-28",
+    "cad_status": true,
+    "razao_social": "Verdara-da Rosa"
+  },
+  {
+    "nome": "Franco",
+    "sobrenome": "Domingues",
+    "nascimento": "1979-08-08",
+    "cad_status": true,
+    "razao_social": "Reis e Cordeiro S.A."
+  },
+  {
+    "nome": "Madalena",
+    "sobrenome": "Leon",
+    "nascimento": "1999-09-07",
+    "cad_status": false,
+    "razao_social": "Torres e Montenegro Ltda."
+  },
+  {
+    "nome": "Marina",
+    "sobrenome": "Martines",
+    "nascimento": "2025-12-18",
+    "cad_status": true,
+    "razao_social": "Lovato e Leon"
+  },
+  {
+    "nome": "Murilo",
+    "sobrenome": "Gon\u00e7alves",
+    "nascimento": "1999-05-01",
+    "cad_status": false,
+    "razao_social": "Ramires e Associados"
+  },
+  {
+    "nome": "Afonso",
+    "sobrenome": "Serrano",
+    "nascimento": "2010-08-02",
+    "cad_status": true,
+    "razao_social": "Carrara e Prado e Filhos"
+  },
+  {
+    "nome": "Alice",
+    "sobrenome": "Dias",
+    "nascimento": "1996-11-26",
+    "cad_status": false,
+    "razao_social": "Sep\u00falveda e Filhos"
+  },
+  {
+    "nome": "Henrique",
+    "sobrenome": "Grego",
+    "nascimento": "1980-08-12",
+    "cad_status": false,
+    "razao_social": "de Aguiar e Cola\u00e7o e Associados"
+  },
+  {
+    "nome": "Bianca",
+    "sobrenome": "Maia",
+    "nascimento": "1983-10-27",
+    "cad_status": true,
+    "razao_social": "Camacho Comercial Ltda."
+  },
+  {
+    "nome": "Isaac",
+    "sobrenome": "Abreu",
+    "nascimento": "2012-12-21",
+    "cad_status": true,
+    "razao_social": "Salgado e Filhos"
+  },
+  {
+    "nome": "Thalita",
+    "sobrenome": "Serna",
+    "nascimento": "2021-09-30",
+    "cad_status": false,
+    "razao_social": "D'\u00e1vila e Sandoval"
+  },
+  {
+    "nome": "Juliane",
+    "sobrenome": "Galindo",
+    "nascimento": "1990-10-16",
+    "cad_status": false,
+    "razao_social": "Marinho e Tamoio e Associados"
+  },
+  {
+    "nome": "Erik",
+    "sobrenome": "Burgos",
+    "nascimento": "1987-03-12",
+    "cad_status": false,
+    "razao_social": "Madeira-Madeira"
+  },
+  {
+    "nome": "Gabriel",
+    "sobrenome": "Branco",
+    "nascimento": "2002-03-29",
+    "cad_status": true,
+    "razao_social": "Salas e Dominato e Filhos"
+  },
+  {
+    "nome": "Wilson",
+    "sobrenome": "Pedrosa",
+    "nascimento": "2003-04-15",
+    "cad_status": false,
+    "razao_social": "Saraiva-Rosa"
+  },
+  {
+    "nome": "Walter",
+    "sobrenome": "Santiago",
+    "nascimento": "1985-07-01",
+    "cad_status": false,
+    "razao_social": "Correia e Mendes"
+  },
+  {
+    "nome": "Beatriz",
+    "sobrenome": "Neves",
+    "nascimento": "2012-01-19",
+    "cad_status": true,
+    "razao_social": "Padilha Comercial Ltda."
+  },
+  {
+    "nome": "Ronaldo",
+    "sobrenome": "Guerra",
+    "nascimento": "1972-07-23",
+    "cad_status": false,
+    "razao_social": "Vale Ltda."
+  },
+  {
+    "nome": "Ester",
+    "sobrenome": "Alves",
+    "nascimento": "2004-01-20",
+    "cad_status": true,
+    "razao_social": "Verdugo e Vega S.A."
+  },
+  {
+    "nome": "Sim\u00e3o",
+    "sobrenome": "Ortega",
+    "nascimento": "1996-01-10",
+    "cad_status": true,
+    "razao_social": "Molina-Gomes"
+  },
+  {
+    "nome": "Cezar",
+    "sobrenome": "Rangel",
+    "nascimento": "2004-07-05",
+    "cad_status": true,
+    "razao_social": "Garcia Ltda."
+  },
+  {
+    "nome": "Sebasti\u00e3o",
+    "sobrenome": "Feliciano",
+    "nascimento": "1979-06-13",
+    "cad_status": true,
+    "razao_social": "Romero Comercial Ltda."
+  },
+  {
+    "nome": "Rodrigo",
+    "sobrenome": "das Neves",
+    "nascimento": "1989-05-26",
+    "cad_status": true,
+    "razao_social": "Mar\u00e9s e Faro e Associados"
+  },
+  {
+    "nome": "Manuela",
+    "sobrenome": "Abreu",
+    "nascimento": "1976-05-07",
+    "cad_status": true,
+    "razao_social": "Dias e Associados"
+  },
+  {
+    "nome": "Ver\u00f4nica",
+    "sobrenome": "Camacho",
+    "nascimento": "1995-08-07",
+    "cad_status": true,
+    "razao_social": "Santiago-Carvalho"
+  },
+  {
+    "nome": "In\u00e1cio",
+    "sobrenome": "Franco",
+    "nascimento": "2019-12-21",
+    "cad_status": false,
+    "razao_social": "Lira Comercial Ltda."
+  },
+  {
+    "nome": "Giovane",
+    "sobrenome": "Delgado",
+    "nascimento": "1972-04-26",
+    "cad_status": false,
+    "razao_social": "Queir\u00f3s e da Silva"
+  },
+  {
+    "nome": "Pablo",
+    "sobrenome": "Garcia",
+    "nascimento": "1979-12-14",
+    "cad_status": false,
+    "razao_social": "Maia e Fonseca"
+  },
+  {
+    "nome": "Let\u00edcia",
+    "sobrenome": "Santacruz",
+    "nascimento": "2019-10-23",
+    "cad_status": false,
+    "razao_social": "Fontes Ltda."
+  },
+  {
+    "nome": "Francisco",
+    "sobrenome": "Uchoa",
+    "nascimento": "2019-11-25",
+    "cad_status": true,
+    "razao_social": "Arag\u00e3o e Dias e Associados"
+  },
+  {
+    "nome": "Juan",
+    "sobrenome": "Cola\u00e7o",
+    "nascimento": "1991-05-20",
+    "cad_status": true,
+    "razao_social": "Vega e Zarago\u00e7a"
+  },
+  {
+    "nome": "Milena",
+    "sobrenome": "Pena",
+    "nascimento": "1991-05-18",
+    "cad_status": true,
+    "razao_social": "Madeira Comercial Ltda."
+  },
+  {
+    "nome": "Paula",
+    "sobrenome": "Deverso",
+    "nascimento": "1996-10-14",
+    "cad_status": false,
+    "razao_social": "Pedrosa Comercial Ltda."
+  },
+  {
+    "nome": "F\u00e1tima",
+    "sobrenome": "Santana",
+    "nascimento": "1991-06-02",
+    "cad_status": false,
+    "razao_social": "da Silva Ltda."
+  },
+  {
+    "nome": "Wagner",
+    "sobrenome": "Galv\u00e3o",
+    "nascimento": "2006-04-08",
+    "cad_status": true,
+    "razao_social": "Saraiva e Torres"
+  },
+  {
+    "nome": "Thalita",
+    "sobrenome": "Quintana",
+    "nascimento": "1999-08-14",
+    "cad_status": false,
+    "razao_social": "Roque-Espinoza"
+  },
+  {
+    "nome": "Roberta",
+    "sobrenome": "de Arruda",
+    "nascimento": "1978-11-09",
+    "cad_status": false,
+    "razao_social": "Rico-Lira"
+  },
+  {
+    "nome": "Jennifer",
+    "sobrenome": "Gomes",
+    "nascimento": "1993-04-12",
+    "cad_status": true,
+    "razao_social": "Balestero e Queir\u00f3s e Filhos"
+  },
+  {
+    "nome": "Laura",
+    "sobrenome": "Ferraz",
+    "nascimento": "1970-04-24",
+    "cad_status": true,
+    "razao_social": "Aguiar-Espinoza"
+  },
+  {
+    "nome": "Aline",
+    "sobrenome": "Cervantes",
+    "nascimento": "2005-05-12",
+    "cad_status": false,
+    "razao_social": "Dominato-Cort\u00eas"
+  },
+  {
+    "nome": "Malu",
+    "sobrenome": "Santana",
+    "nascimento": "1984-08-10",
+    "cad_status": true,
+    "razao_social": "Madeira-Torres"
+  },
+  {
+    "nome": "Isabel",
+    "sobrenome": "Garcia",
+    "nascimento": "2006-01-22",
+    "cad_status": false,
+    "razao_social": "de Aguiar-Mendon\u00e7a"
+  },
+  {
+    "nome": "Evandro",
+    "sobrenome": "Barreto",
+    "nascimento": "1993-05-10",
+    "cad_status": false,
+    "razao_social": "Jimenes e Filhos"
+  },
+  {
+    "nome": "Francisco",
+    "sobrenome": "Fontes",
+    "nascimento": "1982-03-13",
+    "cad_status": false,
+    "razao_social": "da Silva-Valdez"
+  },
+  {
+    "nome": "Robson",
+    "sobrenome": "Mendon\u00e7a",
+    "nascimento": "2009-09-30",
+    "cad_status": false,
+    "razao_social": "Saraiva e Leal e Associados"
+  },
+  {
+    "nome": "Walter",
+    "sobrenome": "Delvalle",
+    "nascimento": "1981-04-09",
+    "cad_status": true,
+    "razao_social": "Dias e Medina"
+  },
+  {
+    "nome": "Alessandra",
+    "sobrenome": "Fonseca",
+    "nascimento": "1971-08-20",
+    "cad_status": true,
+    "razao_social": "Cervantes e Espinoza"
+  },
+  {
+    "nome": "Joaquin",
+    "sobrenome": "Rocha",
+    "nascimento": "2005-12-06",
+    "cad_status": true,
+    "razao_social": "Gomes e Fonseca"
+  },
+  {
+    "nome": "Ant\u00f4nio",
+    "sobrenome": "Benez",
+    "nascimento": "1977-12-08",
+    "cad_status": true,
+    "razao_social": "da Silva e Cola\u00e7o e Associados"
+  },
+  {
+    "nome": "Murilo",
+    "sobrenome": "Cervantes",
+    "nascimento": "1986-09-08",
+    "cad_status": false,
+    "razao_social": "Torres S.A."
+  },
+  {
+    "nome": "Adriano",
+    "sobrenome": "Rico",
+    "nascimento": "2007-03-07",
+    "cad_status": true,
+    "razao_social": "Bezerra e Leon e Associados"
+  },
+  {
+    "nome": "Mois\u00e9s",
+    "sobrenome": "Branco",
+    "nascimento": "2008-08-08",
+    "cad_status": false,
+    "razao_social": "Uchoa-Roque"
+  },
+  {
+    "nome": "Raphael",
+    "sobrenome": "Franco",
+    "nascimento": "1970-12-18",
+    "cad_status": true,
+    "razao_social": "Camacho e Saito e Filhos"
+  },
+  {
+    "nome": "Est\u00eav\u00e3o",
+    "sobrenome": "Mendon\u00e7a",
+    "nascimento": "2001-10-31",
+    "cad_status": false,
+    "razao_social": "Feliciano e Aguiar"
+  },
+  {
+    "nome": "Benedito",
+    "sobrenome": "Padilha",
+    "nascimento": "1973-08-06",
+    "cad_status": true,
+    "razao_social": "Matos e das Dores"
+  },
+  {
+    "nome": "Gustavo",
+    "sobrenome": "Medina",
+    "nascimento": "1992-01-23",
+    "cad_status": false,
+    "razao_social": "Molina-Salgado"
+  },
+  {
+    "nome": "Cynthia",
+    "sobrenome": "Brito",
+    "nascimento": "2009-07-26",
+    "cad_status": false,
+    "razao_social": "de Arruda-Cordeiro"
+  },
+  {
+    "nome": "Helo\u00edsa",
+    "sobrenome": "Queir\u00f3s",
+    "nascimento": "1993-03-06",
+    "cad_status": true,
+    "razao_social": "Guerra e Associados"
+  },
+  {
+    "nome": "Yuri",
+    "sobrenome": "Aguiar",
+    "nascimento": "1987-09-04",
+    "cad_status": true,
+    "razao_social": "Rico Comercial Ltda."
+  },
+  {
+    "nome": "Lorena",
+    "sobrenome": "Val\u00eancia",
+    "nascimento": "2025-09-11",
+    "cad_status": false,
+    "razao_social": "Paz S.A."
+  },
+  {
+    "nome": "Luna",
+    "sobrenome": "Sales",
+    "nascimento": "2012-11-14",
+    "cad_status": false,
+    "razao_social": "Maldonado e Filhos"
+  },
+  {
+    "nome": "Eduardo",
+    "sobrenome": "Meireles",
+    "nascimento": "1986-01-31",
+    "cad_status": true,
+    "razao_social": "Quintana Ltda."
+  },
+  {
+    "nome": "Felipe",
+    "sobrenome": "Balestero",
+    "nascimento": "1986-01-04",
+    "cad_status": true,
+    "razao_social": "Rodrigues Comercial Ltda."
+  },
+  {
+    "nome": "Yuri",
+    "sobrenome": "Ferraz",
+    "nascimento": "1985-08-29",
+    "cad_status": false,
+    "razao_social": "Vieira Comercial Ltda."
+  },
+  {
+    "nome": "Ivan",
+    "sobrenome": "Arruda",
+    "nascimento": "2002-06-28",
+    "cad_status": true,
+    "razao_social": "Esteves e Associados"
+  },
+  {
+    "nome": "F\u00e1tima",
+    "sobrenome": "Romero",
+    "nascimento": "1987-03-27",
+    "cad_status": false,
+    "razao_social": "Rios e Associados"
+  },
+  {
+    "nome": "Ayla",
+    "sobrenome": "Esteves",
+    "nascimento": "1986-01-21",
+    "cad_status": false,
+    "razao_social": "Velasques e Deverso"
+  },
+  {
+    "nome": "Violeta",
+    "sobrenome": "Sandoval",
+    "nascimento": "2020-01-26",
+    "cad_status": true,
+    "razao_social": "Matos e Padr\u00e3o"
+  },
+  {
+    "nome": "Karen",
+    "sobrenome": "Valdez",
+    "nascimento": "2004-04-29",
+    "cad_status": true,
+    "razao_social": "Pereira e Faria Ltda."
+  },
+  {
+    "nome": "S\u00e9rgio",
+    "sobrenome": "Arruda",
+    "nascimento": "2023-08-16",
+    "cad_status": false,
+    "razao_social": "Casanova Comercial Ltda."
+  },
+  {
+    "nome": "B\u00e1rbara",
+    "sobrenome": "Mar\u00e9s",
+    "nascimento": "1971-06-20",
+    "cad_status": false,
+    "razao_social": "Meireles e Carmona e Filhos"
+  },
+  {
+    "nome": "Alana",
+    "sobrenome": "Leon",
+    "nascimento": "2020-10-06",
+    "cad_status": false,
+    "razao_social": "Torres S.A."
+  },
+  {
+    "nome": "Dayana",
+    "sobrenome": "Saito",
+    "nascimento": "2001-02-18",
+    "cad_status": true,
+    "razao_social": "Mascarenhas e Carrara"
+  },
+  {
+    "nome": "Vit\u00f3ria",
+    "sobrenome": "Beltr\u00e3o",
+    "nascimento": "2024-01-19",
+    "cad_status": true,
+    "razao_social": "Jimenes e Correia e Associados"
+  },
+  {
+    "nome": "Mayara",
+    "sobrenome": "Zarago\u00e7a",
+    "nascimento": "1974-02-23",
+    "cad_status": true,
+    "razao_social": "Espinoza e Associados"
+  },
+  {
+    "nome": "Thalita",
+    "sobrenome": "Saraiva",
+    "nascimento": "1970-07-07",
+    "cad_status": true,
+    "razao_social": "Valente Comercial Ltda."
+  },
+  {
+    "nome": "Beatriz",
+    "sobrenome": "Saito",
+    "nascimento": "2019-07-29",
+    "cad_status": false,
+    "razao_social": "Salgado Comercial Ltda."
+  },
+  {
+    "nome": "Erik",
+    "sobrenome": "Cola\u00e7o",
+    "nascimento": "1979-10-16",
+    "cad_status": false,
+    "razao_social": "Urias Comercial Ltda."
+  },
+  {
+    "nome": "Adriano",
+    "sobrenome": "Faria",
+    "nascimento": "2013-10-16",
+    "cad_status": false,
+    "razao_social": "Padr\u00e3o e Martines Ltda."
+  },
+  {
+    "nome": "Leandro",
+    "sobrenome": "Rangel",
+    "nascimento": "1993-11-12",
+    "cad_status": false,
+    "razao_social": "Gomes e Verdara S.A."
+  },
+  {
+    "nome": "Lara",
+    "sobrenome": "de Freitas",
+    "nascimento": "1990-04-08",
+    "cad_status": false,
+    "razao_social": "Teles-Louren\u00e7o"
+  },
+  {
+    "nome": "Franco",
+    "sobrenome": "Matias",
+    "nascimento": "1999-12-30",
+    "cad_status": true,
+    "razao_social": "Amaral e Filhos"
+  },
+  {
+    "nome": "Christopher",
+    "sobrenome": "Vasques",
+    "nascimento": "2007-02-13",
+    "cad_status": false,
+    "razao_social": "das Neves e Associados"
+  },
+  {
+    "nome": "Laiane",
+    "sobrenome": "Lovato",
+    "nascimento": "1992-06-04",
+    "cad_status": false,
+    "razao_social": "Esteves Ltda."
+  },
+  {
+    "nome": "Suelen",
+    "sobrenome": "Valdez",
+    "nascimento": "1992-02-09",
+    "cad_status": true,
+    "razao_social": "Saraiva e Salas"
+  },
+  {
+    "nome": "Raphael",
+    "sobrenome": "Louren\u00e7o",
+    "nascimento": "2020-06-12",
+    "cad_status": false,
+    "razao_social": "de Souza e Matos S.A."
+  },
+  {
+    "nome": "Jonas",
+    "sobrenome": "Santana",
+    "nascimento": "2013-04-03",
+    "cad_status": false,
+    "razao_social": "Lozano e Barros"
+  },
+  {
+    "nome": "Martinho",
+    "sobrenome": "Santiago",
+    "nascimento": "1993-01-05",
+    "cad_status": true,
+    "razao_social": "Benites Comercial Ltda."
+  },
+  {
+    "nome": "Natal",
+    "sobrenome": "Fontes",
+    "nascimento": "1975-06-23",
+    "cad_status": false,
+    "razao_social": "Marinho e Queir\u00f3s Ltda."
+  },
+  {
+    "nome": "Ot\u00e1vio",
+    "sobrenome": "Val\u00eancia",
+    "nascimento": "2013-10-28",
+    "cad_status": true,
+    "razao_social": "Branco-Pontes"
+  },
+  {
+    "nome": "Daniel",
+    "sobrenome": "Rios",
+    "nascimento": "2010-07-27",
+    "cad_status": false,
+    "razao_social": "Aguiar Comercial Ltda."
+  },
+  {
+    "nome": "Francisco",
+    "sobrenome": "Medina",
+    "nascimento": "1980-01-21",
+    "cad_status": false,
+    "razao_social": "Rios Comercial Ltda."
+  },
+  {
+    "nome": "Robson",
+    "sobrenome": "Lovato",
+    "nascimento": "1993-03-01",
+    "cad_status": false,
+    "razao_social": "Sanches-Serna"
+  },
+  {
+    "nome": "Jo\u00e3o",
+    "sobrenome": "Souza",
+    "nascimento": "2016-01-26",
+    "cad_status": false,
+    "razao_social": "Marinho e Reis Ltda."
+  },
+  {
+    "nome": "Noel\u00ed",
+    "sobrenome": "Carvalho",
+    "nascimento": "1992-12-27",
+    "cad_status": true,
+    "razao_social": "Mendes e D'\u00e1vila"
+  },
+  {
+    "nome": "Noel",
+    "sobrenome": "Sales",
+    "nascimento": "1991-10-04",
+    "cad_status": false,
+    "razao_social": "Gon\u00e7alves e Galhardo"
+  },
+  {
+    "nome": "Rog\u00e9rio",
+    "sobrenome": "Prado",
+    "nascimento": "2002-01-19",
+    "cad_status": false,
+    "razao_social": "Cordeiro e Benez e Filhos"
+  },
+  {
+    "nome": "Benjamin",
+    "sobrenome": "Mar\u00e9s",
+    "nascimento": "2021-06-15",
+    "cad_status": false,
+    "razao_social": "Lira-Barreto"
+  },
+  {
+    "nome": "Wagner",
+    "sobrenome": "Santacruz",
+    "nascimento": "2015-04-08",
+    "cad_status": true,
+    "razao_social": "Medina-das Dores"
+  },
+  {
+    "nome": "Eduarda",
+    "sobrenome": "Valente",
+    "nascimento": "1989-09-11",
+    "cad_status": true,
+    "razao_social": "da Rosa-God\u00f3i"
+  },
+  {
+    "nome": "Rog\u00e9rio",
+    "sobrenome": "Pacheco",
+    "nascimento": "2011-08-29",
+    "cad_status": false,
+    "razao_social": "Salazar Comercial Ltda."
+  },
+  {
+    "nome": "Nayara",
+    "sobrenome": "Sep\u00falveda",
+    "nascimento": "2019-07-26",
+    "cad_status": false,
+    "razao_social": "Vega e Pontes"
+  },
+  {
+    "nome": "Mariah",
+    "sobrenome": "Saito",
+    "nascimento": "1987-06-04",
+    "cad_status": false,
+    "razao_social": "Louren\u00e7o e Filhos"
+  },
+  {
+    "nome": "Raphael",
+    "sobrenome": "Gon\u00e7alves",
+    "nascimento": "2011-12-24",
+    "cad_status": true,
+    "razao_social": "de Souza e Burgos"
+  },
+  {
+    "nome": "Marco",
+    "sobrenome": "Soto",
+    "nascimento": "1970-10-30",
+    "cad_status": false,
+    "razao_social": "Pereira e Gomes e Associados"
+  },
+  {
+    "nome": "M\u00e1rcia",
+    "sobrenome": "Escobar",
+    "nascimento": "1979-02-18",
+    "cad_status": false,
+    "razao_social": "Benites e Cola\u00e7o Ltda."
+  },
+  {
+    "nome": "Mois\u00e9s",
+    "sobrenome": "Vieira",
+    "nascimento": "1983-09-30",
+    "cad_status": true,
+    "razao_social": "Madeira Comercial Ltda."
+  },
+  {
+    "nome": "Patr\u00edcia",
+    "sobrenome": "Maldonado",
+    "nascimento": "1975-02-24",
+    "cad_status": true,
+    "razao_social": "Madeira Comercial Ltda."
+  },
+  {
+    "nome": "T\u00e2mara",
+    "sobrenome": "Duarte",
+    "nascimento": "2015-07-08",
+    "cad_status": false,
+    "razao_social": "Valentin-Saito"
+  },
+  {
+    "nome": "Luara",
+    "sobrenome": "de Arruda",
+    "nascimento": "2016-12-19",
+    "cad_status": true,
+    "razao_social": "Reis e Barros Ltda."
+  },
+  {
+    "nome": "C\u00edntia",
+    "sobrenome": "Guerra",
+    "nascimento": "1999-10-17",
+    "cad_status": true,
+    "razao_social": "Mendes e Bezerra Ltda."
+  },
+  {
+    "nome": "Davi",
+    "sobrenome": "Pereira",
+    "nascimento": "2005-10-13",
+    "cad_status": false,
+    "razao_social": "Lovato-Roque"
+  },
+  {
+    "nome": "T\u00e2mara",
+    "sobrenome": "Padr\u00e3o",
+    "nascimento": "1984-05-14",
+    "cad_status": false,
+    "razao_social": "Santacruz e Assun\u00e7\u00e3o"
+  },
+  {
+    "nome": "S\u00e9rgio",
+    "sobrenome": "Carvalho",
+    "nascimento": "2007-10-23",
+    "cad_status": false,
+    "razao_social": "Rios Comercial Ltda."
+  },
+  {
+    "nome": "Noa",
+    "sobrenome": "Faro",
+    "nascimento": "2015-10-02",
+    "cad_status": true,
+    "razao_social": "Molina e Quintana"
+  },
+  {
+    "nome": "Samuel",
+    "sobrenome": "Rico",
+    "nascimento": "1998-05-24",
+    "cad_status": true,
+    "razao_social": "Cruz e Ortiz"
+  },
+  {
+    "nome": "Vin\u00edcius",
+    "sobrenome": "Benites",
+    "nascimento": "2003-04-04",
+    "cad_status": false,
+    "razao_social": "Carmona S.A."
+  },
+  {
+    "nome": "Thalissa",
+    "sobrenome": "Pedrosa",
+    "nascimento": "2003-12-17",
+    "cad_status": true,
+    "razao_social": "Salas e Filhos"
+  },
+  {
+    "nome": "Cezar",
+    "sobrenome": "de Aguiar",
+    "nascimento": "1993-09-26",
+    "cad_status": true,
+    "razao_social": "Gil S.A."
+  },
+  {
+    "nome": "Wellington",
+    "sobrenome": "Marin",
+    "nascimento": "2008-12-06",
+    "cad_status": false,
+    "razao_social": "Espinoza e Ferminiano"
+  },
+  {
+    "nome": "Cristiana",
+    "sobrenome": "Paz",
+    "nascimento": "2001-03-18",
+    "cad_status": true,
+    "razao_social": "Ferminiano Ltda."
+  },
+  {
+    "nome": "Diogo",
+    "sobrenome": "Galindo",
+    "nascimento": "2001-06-23",
+    "cad_status": true,
+    "razao_social": "Saraiva e Beltr\u00e3o S.A."
+  },
+  {
+    "nome": "Filipe",
+    "sobrenome": "Amaral",
+    "nascimento": "2000-01-22",
+    "cad_status": true,
+    "razao_social": "Santos-Cola\u00e7o"
+  },
+  {
+    "nome": "Vitor",
+    "sobrenome": "Uchoa",
+    "nascimento": "2019-02-05",
+    "cad_status": false,
+    "razao_social": "Cola\u00e7o Comercial Ltda."
+  },
+  {
+    "nome": "Dirce",
+    "sobrenome": "Maia",
+    "nascimento": "1997-08-01",
+    "cad_status": false,
+    "razao_social": "Leon e Bonilha"
+  },
+  {
+    "nome": "Josu\u00e9",
+    "sobrenome": "Estrada",
+    "nascimento": "1983-10-23",
+    "cad_status": false,
+    "razao_social": "Vila-da Rosa"
+  },
+  {
+    "nome": "Clara",
+    "sobrenome": "Santiago",
+    "nascimento": "1971-02-08",
+    "cad_status": false,
+    "razao_social": "Domingues Comercial Ltda."
+  },
+  {
+    "nome": "Maiara",
+    "sobrenome": "Valdez",
+    "nascimento": "2011-07-17",
+    "cad_status": false,
+    "razao_social": "Serrano e Meireles Ltda."
+  },
+  {
+    "nome": "Thalia",
+    "sobrenome": "Martines",
+    "nascimento": "2019-02-24",
+    "cad_status": true,
+    "razao_social": "Medina e Marin Ltda."
+  },
+  {
+    "nome": "Juliana",
+    "sobrenome": "Neves",
+    "nascimento": "2019-03-08",
+    "cad_status": false,
+    "razao_social": "Ferraz-Prado"
+  },
+  {
+    "nome": "Adriano",
+    "sobrenome": "Gomes",
+    "nascimento": "2001-09-16",
+    "cad_status": false,
+    "razao_social": "Carrara Ltda."
+  },
+  {
+    "nome": "Isadora",
+    "sobrenome": "Ortega",
+    "nascimento": "1977-08-16",
+    "cad_status": true,
+    "razao_social": "Ferraz-Urias"
+  },
+  {
+    "nome": "Mait\u00ea",
+    "sobrenome": "Benez",
+    "nascimento": "2021-10-25",
+    "cad_status": false,
+    "razao_social": "Medina e Associados"
+  },
+  {
+    "nome": "Davi",
+    "sobrenome": "Mendon\u00e7a",
+    "nascimento": "1992-07-30",
+    "cad_status": false,
+    "razao_social": "Vila e Galv\u00e3o e Filhos"
+  },
+  {
+    "nome": "James",
+    "sobrenome": "Queir\u00f3s",
+    "nascimento": "1987-01-29",
+    "cad_status": true,
+    "razao_social": "God\u00f3i Comercial Ltda."
+  },
+  {
+    "nome": "Sim\u00e3o",
+    "sobrenome": "Mendon\u00e7a",
+    "nascimento": "1994-07-27",
+    "cad_status": true,
+    "razao_social": "Assun\u00e7\u00e3o S.A."
+  },
+  {
+    "nome": "Thalissa",
+    "sobrenome": "Estrada",
+    "nascimento": "1977-03-24",
+    "cad_status": true,
+    "razao_social": "Galv\u00e3o e Rivera Ltda."
+  },
+  {
+    "nome": "Est\u00eav\u00e3o",
+    "sobrenome": "Casanova",
+    "nascimento": "1986-07-14",
+    "cad_status": false,
+    "razao_social": "Prado Comercial Ltda."
+  },
+  {
+    "nome": "Gael",
+    "sobrenome": "Rocha",
+    "nascimento": "1994-12-16",
+    "cad_status": false,
+    "razao_social": "Vieira e Verdugo Ltda."
+  },
+  {
+    "nome": "Diana",
+    "sobrenome": "Queir\u00f3s",
+    "nascimento": "2006-11-12",
+    "cad_status": true,
+    "razao_social": "Fidalgo-Benez"
+  },
+  {
+    "nome": "Giovanna",
+    "sobrenome": "Carmona",
+    "nascimento": "2002-10-15",
+    "cad_status": true,
+    "razao_social": "Domingues e Filhos"
+  },
+  {
+    "nome": "Robson",
+    "sobrenome": "das Dores",
+    "nascimento": "1992-12-25",
+    "cad_status": false,
+    "razao_social": "Cort\u00eas e Amaral S.A."
+  },
+  {
+    "nome": "Nat\u00e1lia",
+    "sobrenome": "Leon",
+    "nascimento": "1995-06-29",
+    "cad_status": false,
+    "razao_social": "Carmona e Cruz S.A."
+  },
+  {
+    "nome": "Andres",
+    "sobrenome": "Sandoval",
+    "nascimento": "2021-06-20",
+    "cad_status": false,
+    "razao_social": "Assun\u00e7\u00e3o e Gon\u00e7alves e Filhos"
+  },
+  {
+    "nome": "Adriele",
+    "sobrenome": "Bittencourt",
+    "nascimento": "2000-09-22",
+    "cad_status": true,
+    "razao_social": "Tamoio e Arruda"
+  },
+  {
+    "nome": "J\u00falio",
+    "sobrenome": "Marin",
+    "nascimento": "1975-11-27",
+    "cad_status": true,
+    "razao_social": "Sandoval e Zamana e Associados"
+  },
+  {
+    "nome": "Diego",
+    "sobrenome": "Galv\u00e3o",
+    "nascimento": "2017-11-14",
+    "cad_status": false,
+    "razao_social": "Corona-Paes"
+  },
+  {
+    "nome": "Raysa",
+    "sobrenome": "Salas",
+    "nascimento": "1973-01-29",
+    "cad_status": true,
+    "razao_social": "Queir\u00f3s Comercial Ltda."
+  },
+  {
+    "nome": "Luiz",
+    "sobrenome": "Beltr\u00e3o",
+    "nascimento": "1983-06-16",
+    "cad_status": false,
+    "razao_social": "Balestero e Queir\u00f3s"
+  },
+  {
+    "nome": "Maur\u00edcio",
+    "sobrenome": "Rico",
+    "nascimento": "2022-03-06",
+    "cad_status": true,
+    "razao_social": "Galindo-Ferreira"
+  },
+  {
+    "nome": "Alessandro",
+    "sobrenome": "Dias",
+    "nascimento": "2020-09-09",
+    "cad_status": false,
+    "razao_social": "Padr\u00e3o-Amaral"
+  },
+  {
+    "nome": "Roberta",
+    "sobrenome": "Benites",
+    "nascimento": "1997-02-27",
+    "cad_status": false,
+    "razao_social": "Rodrigues Ltda."
+  },
+  {
+    "nome": "Michelle",
+    "sobrenome": "Matias",
+    "nascimento": "2017-05-26",
+    "cad_status": true,
+    "razao_social": "Carvalho Comercial Ltda."
+  },
+  {
+    "nome": "Leo",
+    "sobrenome": "Rangel",
+    "nascimento": "1971-10-30",
+    "cad_status": true,
+    "razao_social": "Cordeiro Comercial Ltda."
+  },
+  {
+    "nome": "Lav\u00ednia",
+    "sobrenome": "Lovato",
+    "nascimento": "1993-03-28",
+    "cad_status": true,
+    "razao_social": "de Aguiar Comercial Ltda."
+  },
+  {
+    "nome": "Talita",
+    "sobrenome": "Gon\u00e7alves",
+    "nascimento": "2007-10-04",
+    "cad_status": false,
+    "razao_social": "de Souza e Dias"
+  },
+  {
+    "nome": "Gabriel",
+    "sobrenome": "Estrada",
+    "nascimento": "1995-10-23",
+    "cad_status": false,
+    "razao_social": "Assun\u00e7\u00e3o-Deverso"
+  },
+  {
+    "nome": "Robson",
+    "sobrenome": "Souza",
+    "nascimento": "1982-11-17",
+    "cad_status": true,
+    "razao_social": "Dominato e Fontes Ltda."
+  },
+  {
+    "nome": "Isabella",
+    "sobrenome": "Verdugo",
+    "nascimento": "2026-02-27",
+    "cad_status": true,
+    "razao_social": "Medina Ltda."
+  },
+  {
+    "nome": "Regina",
+    "sobrenome": "Vieira",
+    "nascimento": "1992-01-13",
+    "cad_status": true,
+    "razao_social": "Barreto e Galhardo"
+  },
+  {
+    "nome": "Arthur",
+    "sobrenome": "Marin",
+    "nascimento": "2007-10-24",
+    "cad_status": true,
+    "razao_social": "Torres Comercial Ltda."
+  },
+  {
+    "nome": "Luan",
+    "sobrenome": "Balestero",
+    "nascimento": "1999-09-28",
+    "cad_status": false,
+    "razao_social": "Ferreira-Lira"
+  },
+  {
+    "nome": "Arthur",
+    "sobrenome": "Roque",
+    "nascimento": "2002-05-20",
+    "cad_status": true,
+    "razao_social": "Souza e Fidalgo S.A."
+  },
+  {
+    "nome": "Ellen",
+    "sobrenome": "de Arruda",
+    "nascimento": "1980-11-16",
+    "cad_status": true,
+    "razao_social": "God\u00f3i-Solano"
+  },
+  {
+    "nome": "Gisele",
+    "sobrenome": "Cervantes",
+    "nascimento": "2002-12-27",
+    "cad_status": false,
+    "razao_social": "Rivera-Burgos"
+  },
+  {
+    "nome": "Marco",
+    "sobrenome": "Soares",
+    "nascimento": "2007-06-03",
+    "cad_status": true,
+    "razao_social": "Lutero e Associados"
+  },
+  {
+    "nome": "Wesley",
+    "sobrenome": "Espinoza",
+    "nascimento": "1990-03-05",
+    "cad_status": true,
+    "razao_social": "Espinoza-Matias"
+  },
+  {
+    "nome": "Milene",
+    "sobrenome": "Saito",
+    "nascimento": "2002-08-04",
+    "cad_status": false,
+    "razao_social": "Amaral Comercial Ltda."
+  },
+  {
+    "nome": "Janaina",
+    "sobrenome": "Marin",
+    "nascimento": "1983-01-21",
+    "cad_status": false,
+    "razao_social": "Barros e Associados"
+  },
+  {
+    "nome": "Manuela",
+    "sobrenome": "Lovato",
+    "nascimento": "1971-02-25",
+    "cad_status": false,
+    "razao_social": "Casanova e Valentin"
+  },
+  {
+    "nome": "Raquel",
+    "sobrenome": "Saito",
+    "nascimento": "1998-02-06",
+    "cad_status": false,
+    "razao_social": "Sales-de Oliveira"
+  },
+  {
+    "nome": "Diogo",
+    "sobrenome": "Tamoio",
+    "nascimento": "1970-12-23",
+    "cad_status": true,
+    "razao_social": "Cola\u00e7o Comercial Ltda."
+  },
+  {
+    "nome": "Everton",
+    "sobrenome": "Tamoio",
+    "nascimento": "2018-10-16",
+    "cad_status": false,
+    "razao_social": "Fidalgo e Ferreira S.A."
+  },
+  {
+    "nome": "Antonella",
+    "sobrenome": "Matias",
+    "nascimento": "1992-04-01",
+    "cad_status": true,
+    "razao_social": "Gomes e Queir\u00f3s"
+  },
+  {
+    "nome": "Leandro",
+    "sobrenome": "Delvalle",
+    "nascimento": "2014-08-10",
+    "cad_status": true,
+    "razao_social": "Santos S.A."
+  },
+  {
+    "nome": "Clara",
+    "sobrenome": "Rodrigues",
+    "nascimento": "2008-02-05",
+    "cad_status": true,
+    "razao_social": "Domingues e Delgado"
+  },
+  {
+    "nome": "Alessandra",
+    "sobrenome": "Madeira",
+    "nascimento": "2003-01-15",
+    "cad_status": true,
+    "razao_social": "Furtado Comercial Ltda."
+  },
+  {
+    "nome": "Regina",
+    "sobrenome": "Uchoa",
+    "nascimento": "1994-01-18",
+    "cad_status": true,
+    "razao_social": "Jimenes Ltda."
+  },
+  {
+    "nome": "Afonso",
+    "sobrenome": "Marinho",
+    "nascimento": "2014-12-27",
+    "cad_status": true,
+    "razao_social": "Ferraz e das Neves e Filhos"
+  },
+  {
+    "nome": "Karina",
+    "sobrenome": "Medina",
+    "nascimento": "1991-09-13",
+    "cad_status": true,
+    "razao_social": "Benites Comercial Ltda."
+  },
+  {
+    "nome": "Milene",
+    "sobrenome": "Vieira",
+    "nascimento": "1980-02-27",
+    "cad_status": true,
+    "razao_social": "Uchoa Comercial Ltda."
+  },
+  {
+    "nome": "Miranda",
+    "sobrenome": "Franco",
+    "nascimento": "1988-09-18",
+    "cad_status": true,
+    "razao_social": "Matos e Sandoval"
+  },
+  {
+    "nome": "Andres",
+    "sobrenome": "de Oliveira",
+    "nascimento": "2004-03-26",
+    "cad_status": true,
+    "razao_social": "Valdez e Bezerra"
+  },
+  {
+    "nome": "Ricardo",
+    "sobrenome": "de Souza",
+    "nascimento": "2004-04-16",
+    "cad_status": true,
+    "razao_social": "Balestero-Queir\u00f3s"
+  },
+  {
+    "nome": "Alice",
+    "sobrenome": "Galhardo",
+    "nascimento": "1975-10-12",
+    "cad_status": false,
+    "razao_social": "Ramos e Neves"
+  },
+  {
+    "nome": "Luis",
+    "sobrenome": "Batista",
+    "nascimento": "2002-04-19",
+    "cad_status": false,
+    "razao_social": "Torres e Batista"
+  },
+  {
+    "nome": "Louise",
+    "sobrenome": "Vieira",
+    "nascimento": "1991-06-15",
+    "cad_status": true,
+    "razao_social": "Rivera e Carmona e Associados"
+  },
+  {
+    "nome": "Sara",
+    "sobrenome": "Cervantes",
+    "nascimento": "1983-12-21",
+    "cad_status": false,
+    "razao_social": "Padr\u00e3o e Faro e Filhos"
+  },
+  {
+    "nome": "Sebasti\u00e3o",
+    "sobrenome": "Franco",
+    "nascimento": "2024-02-07",
+    "cad_status": true,
+    "razao_social": "Garcia Comercial Ltda."
+  },
+  {
+    "nome": "Raissa",
+    "sobrenome": "Furtado",
+    "nascimento": "1983-05-10",
+    "cad_status": true,
+    "razao_social": "Rios Comercial Ltda."
+  },
+  {
+    "nome": "Mar\u00edlia",
+    "sobrenome": "Maia",
+    "nascimento": "1998-09-26",
+    "cad_status": false,
+    "razao_social": "Meireles Comercial Ltda."
+  },
+  {
+    "nome": "Vicente",
+    "sobrenome": "de Aguiar",
+    "nascimento": "1974-03-04",
+    "cad_status": false,
+    "razao_social": "Maia S.A."
+  },
+  {
+    "nome": "Malu",
+    "sobrenome": "Rivera",
+    "nascimento": "1996-05-10",
+    "cad_status": true,
+    "razao_social": "Domingues e Associados"
+  },
+  {
+    "nome": "Karen",
+    "sobrenome": "Chaves",
+    "nascimento": "2010-11-01",
+    "cad_status": true,
+    "razao_social": "Serrano-Galv\u00e3o"
+  },
+  {
+    "nome": "Mar\u00edlia",
+    "sobrenome": "Paes",
+    "nascimento": "2024-06-02",
+    "cad_status": false,
+    "razao_social": "Cort\u00eas Comercial Ltda."
+  },
+  {
+    "nome": "Mariah",
+    "sobrenome": "Lira",
+    "nascimento": "2011-02-16",
+    "cad_status": false,
+    "razao_social": "Mar\u00e9s e Mar\u00e9s Ltda."
+  },
+  {
+    "nome": "Davi",
+    "sobrenome": "Neves",
+    "nascimento": "1984-12-21",
+    "cad_status": false,
+    "razao_social": "Abreu e Filhos"
+  },
+  {
+    "nome": "Isabel",
+    "sobrenome": "Montenegro",
+    "nascimento": "2000-10-09",
+    "cad_status": true,
+    "razao_social": "Delatorre e Associados"
+  },
+  {
+    "nome": "Heitor",
+    "sobrenome": "Brito",
+    "nascimento": "1995-10-17",
+    "cad_status": true,
+    "razao_social": "Queir\u00f3s e Filhos"
+  },
+  {
+    "nome": "Vitor",
+    "sobrenome": "Molina",
+    "nascimento": "2002-09-08",
+    "cad_status": true,
+    "razao_social": "Santos e Mendes e Associados"
+  },
+  {
+    "nome": "Walter",
+    "sobrenome": "Fonseca",
+    "nascimento": "2007-11-19",
+    "cad_status": true,
+    "razao_social": "Abreu e Delatorre e Filhos"
+  },
+  {
+    "nome": "Kauan",
+    "sobrenome": "Serra",
+    "nascimento": "1979-01-21",
+    "cad_status": true,
+    "razao_social": "Cruz e Espinoza"
+  },
+  {
+    "nome": "\u00cdcaro",
+    "sobrenome": "God\u00f3i",
+    "nascimento": "2006-07-22",
+    "cad_status": false,
+    "razao_social": "Jimenes e Tamoio"
+  },
+  {
+    "nome": "Fabiano",
+    "sobrenome": "Campos",
+    "nascimento": "1977-08-27",
+    "cad_status": true,
+    "razao_social": "Reis Comercial Ltda."
+  },
+  {
+    "nome": "Adriana",
+    "sobrenome": "Santos",
+    "nascimento": "2023-12-22",
+    "cad_status": true,
+    "razao_social": "Gomes e Ferreira S.A."
+  },
+  {
+    "nome": "Renato",
+    "sobrenome": "Branco",
+    "nascimento": "2001-03-04",
+    "cad_status": true,
+    "razao_social": "Gon\u00e7alves Comercial Ltda."
+  },
+  {
+    "nome": "Antonella",
+    "sobrenome": "Alcantara",
+    "nascimento": "1973-05-19",
+    "cad_status": true,
+    "razao_social": "Furtado Comercial Ltda."
+  },
+  {
+    "nome": "Patr\u00edcia",
+    "sobrenome": "Uchoa",
+    "nascimento": "1997-04-17",
+    "cad_status": true,
+    "razao_social": "Ferreira Ltda."
+  },
+  {
+    "nome": "Lorenzo",
+    "sobrenome": "Rivera",
+    "nascimento": "1984-06-26",
+    "cad_status": true,
+    "razao_social": "Dias e Pedrosa e Filhos"
+  },
+  {
+    "nome": "Ruth",
+    "sobrenome": "Delatorre",
+    "nascimento": "1976-07-07",
+    "cad_status": true,
+    "razao_social": "Velasques Comercial Ltda."
+  },
+  {
+    "nome": "Clarice",
+    "sobrenome": "Zambrano",
+    "nascimento": "1981-03-07",
+    "cad_status": true,
+    "razao_social": "Arruda e Brito"
+  },
+  {
+    "nome": "Caio",
+    "sobrenome": "Burgos",
+    "nascimento": "1970-07-20",
+    "cad_status": false,
+    "razao_social": "Lovato-Caldeira"
+  },
+  {
+    "nome": "Anderson",
+    "sobrenome": "Valdez",
+    "nascimento": "2012-06-12",
+    "cad_status": false,
+    "razao_social": "Rios e Zarago\u00e7a Ltda."
+  },
+  {
+    "nome": "Anita",
+    "sobrenome": "Ortega",
+    "nascimento": "2012-12-14",
+    "cad_status": false,
+    "razao_social": "Esteves e Saraiva"
+  },
+  {
+    "nome": "Heitor",
+    "sobrenome": "Galindo",
+    "nascimento": "1973-03-18",
+    "cad_status": false,
+    "razao_social": "Mascarenhas Comercial Ltda."
+  },
+  {
+    "nome": "Paola",
+    "sobrenome": "de Arruda",
+    "nascimento": "2018-10-04",
+    "cad_status": true,
+    "razao_social": "Zarago\u00e7a Comercial Ltda."
+  },
+  {
+    "nome": "Talita",
+    "sobrenome": "Rodrigues",
+    "nascimento": "1977-04-27",
+    "cad_status": true,
+    "razao_social": "Chaves e Soares"
+  },
+  {
+    "nome": "Samanta",
+    "sobrenome": "Galv\u00e3o",
+    "nascimento": "2005-09-06",
+    "cad_status": false,
+    "razao_social": "Rezende S.A."
+  },
+  {
+    "nome": "P\u00e9rola",
+    "sobrenome": "Zambrano",
+    "nascimento": "1973-04-16",
+    "cad_status": false,
+    "razao_social": "Benez Ltda."
+  },
+  {
+    "nome": "Augusto",
+    "sobrenome": "Franco",
+    "nascimento": "2011-10-21",
+    "cad_status": false,
+    "razao_social": "de Oliveira e Esteves"
+  },
+  {
+    "nome": "Pablo",
+    "sobrenome": "de Aguiar",
+    "nascimento": "2017-08-10",
+    "cad_status": false,
+    "razao_social": "Carvalho e Cola\u00e7o"
+  },
+  {
+    "nome": "Dante",
+    "sobrenome": "Serna",
+    "nascimento": "1992-09-28",
+    "cad_status": true,
+    "razao_social": "de Oliveira e Associados"
+  },
+  {
+    "nome": "Adriel",
+    "sobrenome": "Maia",
+    "nascimento": "2009-05-10",
+    "cad_status": true,
+    "razao_social": "Correia S.A."
+  },
+  {
+    "nome": "Elias",
+    "sobrenome": "Dominato",
+    "nascimento": "2015-04-25",
+    "cad_status": false,
+    "razao_social": "Fidalgo-Gil"
+  },
+  {
+    "nome": "Thiago",
+    "sobrenome": "Fontes",
+    "nascimento": "1983-05-11",
+    "cad_status": false,
+    "razao_social": "Burgos Comercial Ltda."
+  },
+  {
+    "nome": "Paola",
+    "sobrenome": "Neves",
+    "nascimento": "1991-10-22",
+    "cad_status": true,
+    "razao_social": "Leal e Fontes e Associados"
+  },
+  {
+    "nome": "Willian",
+    "sobrenome": "Vale",
+    "nascimento": "2020-09-25",
+    "cad_status": true,
+    "razao_social": "Salgado Comercial Ltda."
+  },
+  {
+    "nome": "Manoela",
+    "sobrenome": "Maia",
+    "nascimento": "2009-05-28",
+    "cad_status": false,
+    "razao_social": "Dominato e Gomes S.A."
+  },
+  {
+    "nome": "Tom\u00e1s",
+    "sobrenome": "Soares",
+    "nascimento": "2001-04-28",
+    "cad_status": true,
+    "razao_social": "Quintana e Delgado Ltda."
+  },
+  {
+    "nome": "Simon",
+    "sobrenome": "Pacheco",
+    "nascimento": "1979-02-16",
+    "cad_status": true,
+    "razao_social": "Vila e Marin e Filhos"
+  },
+  {
+    "nome": "Dante",
+    "sobrenome": "Galhardo",
+    "nascimento": "2001-02-25",
+    "cad_status": false,
+    "razao_social": "Deverso e Matos"
+  },
+  {
+    "nome": "Alan",
+    "sobrenome": "Corona",
+    "nascimento": "2019-03-19",
+    "cad_status": false,
+    "razao_social": "Garcia S.A."
+  },
+  {
+    "nome": "Wellington",
+    "sobrenome": "Queir\u00f3s",
+    "nascimento": "1994-11-06",
+    "cad_status": false,
+    "razao_social": "Carvalho e Delatorre e Associados"
+  },
+  {
+    "nome": "Alessandro",
+    "sobrenome": "Ferreira",
+    "nascimento": "1992-11-07",
+    "cad_status": true,
+    "razao_social": "Camacho e Benites"
+  },
+  {
+    "nome": "N\u00e1dia",
+    "sobrenome": "Duarte",
+    "nascimento": "1975-12-15",
+    "cad_status": false,
+    "razao_social": "Cordeiro e Associados"
+  },
+  {
+    "nome": "Bernardo",
+    "sobrenome": "Fontes",
+    "nascimento": "1996-12-31",
+    "cad_status": false,
+    "razao_social": "Pereira e Valente e Associados"
+  },
+  {
+    "nome": "Ester",
+    "sobrenome": "Amaral",
+    "nascimento": "1995-02-08",
+    "cad_status": true,
+    "razao_social": "Marinho Comercial Ltda."
+  },
+  {
+    "nome": "Gael",
+    "sobrenome": "Quintana",
+    "nascimento": "2019-07-01",
+    "cad_status": true,
+    "razao_social": "Sandoval Comercial Ltda."
+  },
+  {
+    "nome": "Alexa",
+    "sobrenome": "Casanova",
+    "nascimento": "1980-09-29",
+    "cad_status": false,
+    "razao_social": "Gil-da Cruz"
+  },
+  {
+    "nome": "Talita",
+    "sobrenome": "Vieira",
+    "nascimento": "1988-05-17",
+    "cad_status": true,
+    "razao_social": "Valentin Comercial Ltda."
+  },
+  {
+    "nome": "Ronaldo",
+    "sobrenome": "Franco",
+    "nascimento": "2012-07-26",
+    "cad_status": false,
+    "razao_social": "Souza Comercial Ltda."
+  },
+  {
+    "nome": "Gabrielly",
+    "sobrenome": "Molina",
+    "nascimento": "2002-05-02",
+    "cad_status": false,
+    "razao_social": "Gil e Ferraz"
+  },
+  {
+    "nome": "Leandro",
+    "sobrenome": "Pacheco",
+    "nascimento": "2009-04-19",
+    "cad_status": true,
+    "razao_social": "da Cruz e Gil Ltda."
+  },
+  {
+    "nome": "Deivid",
+    "sobrenome": "Paz",
+    "nascimento": "2005-02-18",
+    "cad_status": true,
+    "razao_social": "Montenegro Comercial Ltda."
+  },
+  {
+    "nome": "Alonso",
+    "sobrenome": "Pedrosa",
+    "nascimento": "2006-11-05",
+    "cad_status": true,
+    "razao_social": "Beltr\u00e3o Comercial Ltda."
+  },
+  {
+    "nome": "Aparecida",
+    "sobrenome": "Gon\u00e7alves",
+    "nascimento": "2003-11-14",
+    "cad_status": true,
+    "razao_social": "Lozano e Filhos"
+  },
+  {
+    "nome": "Ta\u00eds",
+    "sobrenome": "Matias",
+    "nascimento": "2002-07-08",
+    "cad_status": false,
+    "razao_social": "Sales e Filhos"
+  },
+  {
+    "nome": "Saulo",
+    "sobrenome": "Roque",
+    "nascimento": "2024-11-13",
+    "cad_status": true,
+    "razao_social": "Ferreira Comercial Ltda."
+  },
+  {
+    "nome": "Andr\u00e9a",
+    "sobrenome": "Verdugo",
+    "nascimento": "1993-11-26",
+    "cad_status": true,
+    "razao_social": "Pacheco-Saito"
+  },
+  {
+    "nome": "Guilherme",
+    "sobrenome": "Leal",
+    "nascimento": "2013-10-06",
+    "cad_status": true,
+    "razao_social": "Roque e de Freitas"
+  },
+  {
+    "nome": "J\u00e1como",
+    "sobrenome": "Jimenes",
+    "nascimento": "2023-12-18",
+    "cad_status": true,
+    "razao_social": "Solano-Santos"
+  },
+  {
+    "nome": "\u00cdcaro",
+    "sobrenome": "Serrano",
+    "nascimento": "1981-10-09",
+    "cad_status": true,
+    "razao_social": "Uchoa Comercial Ltda."
+  },
+  {
+    "nome": "Marco",
+    "sobrenome": "Branco",
+    "nascimento": "1981-01-11",
+    "cad_status": true,
+    "razao_social": "Pedrosa Comercial Ltda."
+  },
+  {
+    "nome": "Ivana",
+    "sobrenome": "Barros",
+    "nascimento": "2006-07-17",
+    "cad_status": true,
+    "razao_social": "Bezerra-Soares"
+  },
+  {
+    "nome": "P\u00e9rola",
+    "sobrenome": "Marques",
+    "nascimento": "1972-01-01",
+    "cad_status": true,
+    "razao_social": "Faro e Maia"
+  },
+  {
+    "nome": "Cl\u00e1udio",
+    "sobrenome": "Marinho",
+    "nascimento": "2016-02-27",
+    "cad_status": false,
+    "razao_social": "Quintana e Prado"
+  },
+  {
+    "nome": "Lucio",
+    "sobrenome": "Dominato",
+    "nascimento": "2022-03-21",
+    "cad_status": true,
+    "razao_social": "Ortega e Bittencourt"
+  },
+  {
+    "nome": "Sueli",
+    "sobrenome": "Branco",
+    "nascimento": "1982-01-30",
+    "cad_status": true,
+    "razao_social": "Alcantara-Cordeiro"
+  },
+  {
+    "nome": "Kamila",
+    "sobrenome": "Romero",
+    "nascimento": "2013-04-02",
+    "cad_status": true,
+    "razao_social": "Benites Comercial Ltda."
+  },
+  {
+    "nome": "Giovana",
+    "sobrenome": "de Aguiar",
+    "nascimento": "2024-11-01",
+    "cad_status": false,
+    "razao_social": "Barros Comercial Ltda."
+  },
+  {
+    "nome": "Louise",
+    "sobrenome": "Ramires",
+    "nascimento": "1978-12-20",
+    "cad_status": true,
+    "razao_social": "Sanches-Delvalle"
+  },
+  {
+    "nome": "Afonso",
+    "sobrenome": "Barros",
+    "nascimento": "1997-08-07",
+    "cad_status": false,
+    "razao_social": "Mendes e Corona"
+  },
+  {
+    "nome": "Davi",
+    "sobrenome": "Arruda",
+    "nascimento": "1990-04-15",
+    "cad_status": false,
+    "razao_social": "Quintana Ltda."
+  },
+  {
+    "nome": "Isabella",
+    "sobrenome": "Balestero",
+    "nascimento": "1987-11-17",
+    "cad_status": false,
+    "razao_social": "Mendon\u00e7a e Filhos"
+  },
+  {
+    "nome": "F\u00e1bio",
+    "sobrenome": "Esteves",
+    "nascimento": "2004-06-27",
+    "cad_status": false,
+    "razao_social": "Casanova S.A."
+  },
+  {
+    "nome": "Sergio",
+    "sobrenome": "Saito",
+    "nascimento": "2019-12-22",
+    "cad_status": true,
+    "razao_social": "Serra-Beltr\u00e3o"
+  },
+  {
+    "nome": "Norma",
+    "sobrenome": "Cola\u00e7o",
+    "nascimento": "2023-10-20",
+    "cad_status": false,
+    "razao_social": "Urias e Santos"
+  },
+  {
+    "nome": "Saulo",
+    "sobrenome": "Santiago",
+    "nascimento": "2013-08-10",
+    "cad_status": true,
+    "razao_social": "Flores Comercial Ltda."
+  },
+  {
+    "nome": "Danielle",
+    "sobrenome": "Cort\u00eas",
+    "nascimento": "2012-07-25",
+    "cad_status": false,
+    "razao_social": "das Dores-Vieira"
+  },
+  {
+    "nome": "Renata",
+    "sobrenome": "Valdez",
+    "nascimento": "2000-05-19",
+    "cad_status": false,
+    "razao_social": "Gon\u00e7alves Comercial Ltda."
+  },
+  {
+    "nome": "Jaqueline",
+    "sobrenome": "Rocha",
+    "nascimento": "1996-11-29",
+    "cad_status": true,
+    "razao_social": "Corona Comercial Ltda."
+  },
+  {
+    "nome": "Marcos",
+    "sobrenome": "Galhardo",
+    "nascimento": "1985-01-01",
+    "cad_status": true,
+    "razao_social": "Dias-Vasques"
+  },
+  {
+    "nome": "Mois\u00e9s",
+    "sobrenome": "Ferreira",
+    "nascimento": "2024-12-20",
+    "cad_status": true,
+    "razao_social": "Maia e Escobar"
+  },
+  {
+    "nome": "Elias",
+    "sobrenome": "Duarte",
+    "nascimento": "1971-06-27",
+    "cad_status": false,
+    "razao_social": "Rivera e Associados"
+  },
+  {
+    "nome": "Isaac",
+    "sobrenome": "Romero",
+    "nascimento": "1998-04-20",
+    "cad_status": true,
+    "razao_social": "Lira e Filhos"
+  },
+  {
+    "nome": "Ricardo",
+    "sobrenome": "Velasques",
+    "nascimento": "1990-03-18",
+    "cad_status": true,
+    "razao_social": "Burgos e Zamana e Associados"
+  },
+  {
+    "nome": "Diego",
+    "sobrenome": "Carrara",
+    "nascimento": "2009-04-06",
+    "cad_status": false,
+    "razao_social": "Vasques-Ramires"
+  },
+  {
+    "nome": "Leonardo",
+    "sobrenome": "Uchoa",
+    "nascimento": "2025-10-26",
+    "cad_status": true,
+    "razao_social": "de Oliveira e Associados"
+  },
+  {
+    "nome": "Mateus",
+    "sobrenome": "Pena",
+    "nascimento": "2024-08-06",
+    "cad_status": true,
+    "razao_social": "Molina-Gil"
+  },
+  {
+    "nome": "Maraisa",
+    "sobrenome": "Rico",
+    "nascimento": "1970-02-06",
+    "cad_status": true,
+    "razao_social": "Assun\u00e7\u00e3o-Escobar"
+  },
+  {
+    "nome": "Isaac",
+    "sobrenome": "Barros",
+    "nascimento": "2008-01-28",
+    "cad_status": true,
+    "razao_social": "Correia-Franco"
+  },
+  {
+    "nome": "Hort\u00eancia",
+    "sobrenome": "Bittencourt",
+    "nascimento": "1989-06-05",
+    "cad_status": false,
+    "razao_social": "Correia e Verdara e Associados"
+  },
+  {
+    "nome": "C\u00e9sar",
+    "sobrenome": "de Aguiar",
+    "nascimento": "1993-03-11",
+    "cad_status": false,
+    "razao_social": "Louren\u00e7o e Associados"
+  },
+  {
+    "nome": "Milena",
+    "sobrenome": "Faria",
+    "nascimento": "1990-04-04",
+    "cad_status": false,
+    "razao_social": "Campos Comercial Ltda."
+  },
+  {
+    "nome": "Ketlin",
+    "sobrenome": "Casanova",
+    "nascimento": "2011-02-23",
+    "cad_status": true,
+    "razao_social": "Vieira Comercial Ltda."
+  },
+  {
+    "nome": "Fl\u00e1vio",
+    "sobrenome": "Mendon\u00e7a",
+    "nascimento": "2008-10-01",
+    "cad_status": true,
+    "razao_social": "Abreu-Velasques"
+  },
+  {
+    "nome": "L\u00facia",
+    "sobrenome": "Aguiar",
+    "nascimento": "2007-11-24",
+    "cad_status": true,
+    "razao_social": "Verdara e Assun\u00e7\u00e3o e Associados"
+  },
+  {
+    "nome": "Rodolfo",
+    "sobrenome": "Mascarenhas",
+    "nascimento": "2011-09-15",
+    "cad_status": true,
+    "razao_social": "da Rosa e Branco e Associados"
+  },
+  {
+    "nome": "Ang\u00e9lica",
+    "sobrenome": "Serrano",
+    "nascimento": "1982-06-12",
+    "cad_status": true,
+    "razao_social": "Rodrigues e Cola\u00e7o"
+  },
+  {
+    "nome": "Cl\u00e1udio",
+    "sobrenome": "Furtado",
+    "nascimento": "1993-02-07",
+    "cad_status": false,
+    "razao_social": "Santacruz e Galhardo S.A."
+  },
+  {
+    "nome": "C\u00e9sar",
+    "sobrenome": "Queir\u00f3s",
+    "nascimento": "1980-03-02",
+    "cad_status": true,
+    "razao_social": "Cort\u00eas-Queir\u00f3s"
+  },
+  {
+    "nome": "Abgail",
+    "sobrenome": "Espinoza",
+    "nascimento": "1976-05-18",
+    "cad_status": false,
+    "razao_social": "Santana-Casanova"
+  },
+  {
+    "nome": "Raquel",
+    "sobrenome": "Vega",
+    "nascimento": "2018-07-18",
+    "cad_status": true,
+    "razao_social": "Fontes-Bittencourt"
+  },
+  {
+    "nome": "Vin\u00edcius",
+    "sobrenome": "Cervantes",
+    "nascimento": "1997-06-22",
+    "cad_status": false,
+    "razao_social": "Carvalho e Rosa"
+  },
+  {
+    "nome": "Nayara",
+    "sobrenome": "Prado",
+    "nascimento": "1977-04-11",
+    "cad_status": false,
+    "razao_social": "Fontes e Flores S.A."
+  },
+  {
+    "nome": "Dener",
+    "sobrenome": "Mar\u00e9s",
+    "nascimento": "1992-05-24",
+    "cad_status": true,
+    "razao_social": "Matias Comercial Ltda."
+  },
+  {
+    "nome": "Heitor",
+    "sobrenome": "Chaves",
+    "nascimento": "1989-05-25",
+    "cad_status": false,
+    "razao_social": "Benites-Arruda"
+  },
+  {
+    "nome": "T\u00e2mara",
+    "sobrenome": "Rios",
+    "nascimento": "2000-11-09",
+    "cad_status": true,
+    "razao_social": "Delvalle Comercial Ltda."
+  },
+  {
+    "nome": "Afonso",
+    "sobrenome": "Ramos",
+    "nascimento": "2000-08-02",
+    "cad_status": true,
+    "razao_social": "Brito e Feliciano"
+  },
+  {
+    "nome": "Mari",
+    "sobrenome": "das Neves",
+    "nascimento": "1992-10-03",
+    "cad_status": true,
+    "razao_social": "Queir\u00f3s e Zamana"
+  },
+  {
+    "nome": "Cristian",
+    "sobrenome": "Rezende",
+    "nascimento": "1980-06-10",
+    "cad_status": true,
+    "razao_social": "Sep\u00falveda Comercial Ltda."
+  },
+  {
+    "nome": "Bernardo",
+    "sobrenome": "Salas",
+    "nascimento": "1981-03-27",
+    "cad_status": false,
+    "razao_social": "Rivera e Vale S.A."
+  },
+  {
+    "nome": "F\u00e1bio",
+    "sobrenome": "Ortiz",
+    "nascimento": "2025-02-10",
+    "cad_status": false,
+    "razao_social": "Fernandes Comercial Ltda."
+  },
+  {
+    "nome": "Aparecida",
+    "sobrenome": "Brito",
+    "nascimento": "2007-10-22",
+    "cad_status": false,
+    "razao_social": "Mendes e Filhos"
+  },
+  {
+    "nome": "Wilson",
+    "sobrenome": "Burgos",
+    "nascimento": "1982-11-20",
+    "cad_status": true,
+    "razao_social": "Salgado Comercial Ltda."
+  },
+  {
+    "nome": "J\u00e9ssica",
+    "sobrenome": "de Oliveira",
+    "nascimento": "2003-11-24",
+    "cad_status": false,
+    "razao_social": "Marin-Domingues"
+  },
+  {
+    "nome": "Lucas",
+    "sobrenome": "Vale",
+    "nascimento": "1982-06-27",
+    "cad_status": true,
+    "razao_social": "Sep\u00falveda Comercial Ltda."
+  },
+  {
+    "nome": "Joana",
+    "sobrenome": "Fonseca",
+    "nascimento": "2015-07-27",
+    "cad_status": true,
+    "razao_social": "Dominato Comercial Ltda."
+  },
+  {
+    "nome": "Cauan",
+    "sobrenome": "Santacruz",
+    "nascimento": "2023-12-11",
+    "cad_status": true,
+    "razao_social": "Pontes Ltda."
+  },
+  {
+    "nome": "Mar\u00edlia",
+    "sobrenome": "Grego",
+    "nascimento": "1997-03-15",
+    "cad_status": true,
+    "razao_social": "Matias e Grego Ltda."
+  },
+  {
+    "nome": "Michele",
+    "sobrenome": "Prado",
+    "nascimento": "1976-03-19",
+    "cad_status": true,
+    "razao_social": "Alves e Verdara e Associados"
+  },
+  {
+    "nome": "Anderson",
+    "sobrenome": "Sandoval",
+    "nascimento": "1989-12-11",
+    "cad_status": false,
+    "razao_social": "Furtado-das Dores"
+  },
+  {
+    "nome": "Mirella",
+    "sobrenome": "Pereira",
+    "nascimento": "1987-05-01",
+    "cad_status": true,
+    "razao_social": "Amaral S.A."
+  },
+  {
+    "nome": "Maximiano",
+    "sobrenome": "Madeira",
+    "nascimento": "2006-10-18",
+    "cad_status": false,
+    "razao_social": "Balestero e Queir\u00f3s e Associados"
+  },
+  {
+    "nome": "Luana",
+    "sobrenome": "Chaves",
+    "nascimento": "1996-03-16",
+    "cad_status": true,
+    "razao_social": "Leal e Associados"
+  }
+]
