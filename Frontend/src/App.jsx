@@ -59,13 +59,13 @@ function App() {
 
         if (token) {
           // Carregar Tarefas
-          const taskRes = await fetch("http://localhost:8080/api/tasks", {
+          const taskRes = await fetch("http://192.168.1.4:8080/api/tasks", {
             headers: { Authorization: `Bearer ${token}` },
           });
           if (taskRes.ok) setTasks(await taskRes.json());
 
           // Carregar Categorias
-          const catRes = await fetch("http://localhost:8080/api/categories", {
+          const catRes = await fetch("http://192.168.1.4:8080/api/categories", {
             headers: { Authorization: `Bearer ${token}` },
           });
           if (catRes.ok) {
@@ -177,7 +177,7 @@ function App() {
         return;
       }
 
-      const response = await fetch("http://localhost:8080/api/tasks", {
+      const response = await fetch("http://192.168.1.4:8080/api/tasks", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -208,7 +208,7 @@ function App() {
   const editTask = async (updatedTask) => {
     try {
       const token = localStorage.getItem("token");
-      const response = await fetch(`http://localhost:8080/api/tasks/${updatedTask.id}`, {
+      const response = await fetch(`http://192.168.1.4:8080/api/tasks/${updatedTask.id}`, {
         method: "PUT",
         headers: {
           "Content-Type": "application/json",
@@ -236,7 +236,7 @@ function App() {
   const toggleTaskCompletion = async (taskId) => {
     try {
       const token = localStorage.getItem("token");
-      const response = await fetch(`http://localhost:8080/api/tasks/${taskId}/complete`, {
+      const response = await fetch(`http://192.168.1.4:8080/api/tasks/${taskId}/complete`, {
         method: "PATCH",
         headers: {
           Authorization: `Bearer ${token}`,
@@ -259,7 +259,7 @@ function App() {
     if (window.confirm("Tem certeza que deseja excluir esta tarefa?")) {
       try {
         const token = localStorage.getItem("token");
-        const response = await fetch(`http://localhost:8080/api/tasks/${taskId}`, {
+        const response = await fetch(`http://192.168.1.4:8080/api/tasks/${taskId}`, {
           method: "DELETE",
           headers: {
             Authorization: `Bearer ${token}`,
@@ -313,7 +313,7 @@ function App() {
     };
 
     try {
-      const response = await fetch("http://localhost:8080/api/categories", {
+      const response = await fetch("http://192.168.1.4:8080/api/categories", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -346,7 +346,7 @@ function App() {
     if (!token) return;
 
     try {
-      const response = await fetch(`http://localhost:8080/api/categories/${catToUpdate.id}`, {
+      const response = await fetch(`http://192.168.1.4:8080/api/categories/${catToUpdate.id}`, {
         method: "PUT",
         headers: {
           "Content-Type": "application/json",

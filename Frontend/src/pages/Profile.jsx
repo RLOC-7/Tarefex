@@ -70,7 +70,7 @@ const Profile = ({ onNavigateToTasks, onLogout, showToast }) => {
         }
 
         // 2. Busca dados atualizados do usuário autenticado na API
-        const response = await fetch("http://localhost:8080/api/user/profile", {
+        const response = await fetch("http://192.168.1.4:8080/api/user/profile", {
           method: "GET",
           headers: {
             "Content-Type": "application/json",
@@ -98,7 +98,7 @@ const Profile = ({ onNavigateToTasks, onLogout, showToast }) => {
         }
 
         // 3. Carrega tarefas do usuário autenticado (token identifica o usuário)
-        const tasksResponse = await fetch("http://localhost:8080/api/tasks", {
+        const tasksResponse = await fetch("http://192.168.1.4:8080/api/tasks", {
           method: "GET",
           headers: {
             "Content-Type": "application/json",
@@ -146,7 +146,7 @@ const Profile = ({ onNavigateToTasks, onLogout, showToast }) => {
         return;
       }
 
-      const response = await fetch("http://localhost:8080/api/user/profile", {
+      const response = await fetch("http://192.168.1.4:8080/api/user/profile", {
         method: "PUT",
         headers: {
           "Content-Type": "application/json",
@@ -291,7 +291,7 @@ const Profile = ({ onNavigateToTasks, onLogout, showToast }) => {
         return;
       }
 
-      const response = await fetch("http://localhost:8080/api/user/password", {
+      const response = await fetch("http://192.168.1.4:8080/api/user/password", {
         method: "PUT",
         headers: {
           "Content-Type": "application/json",
