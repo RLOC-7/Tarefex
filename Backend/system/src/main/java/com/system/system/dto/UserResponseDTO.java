@@ -9,5 +9,7 @@ public record UserResponseDTO(
     String email,
     String razaoSocial,
     LocalDate createdAt,
-    String bio) {
+    String bio,
+    Long totalExp,
+    LocalDate lastCheckIn) {
 }

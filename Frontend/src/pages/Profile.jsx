@@ -13,8 +13,16 @@ const Profile = ({ onNavigateToTasks, onLogout, showToast }) => {
     language: "pt-BR",
     autoSave: true,
     timeFormat: "24h",
+    totalExp: 0,
+    lastCheckIn: null
   });
   const [joinDate, setJoinDate] = useState(null);
+  const [sessionInfo, setSessionInfo] = useState({
+    ip: "Carregando...",
+    device: "Detectando...",
+    browser: "Navegador",
+    os: ""
+  });
 
   const [isEditing, setIsEditing] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
@@ -92,6 +100,8 @@ const Profile = ({ onNavigateToTasks, onLogout, showToast }) => {
             language: data.language || "pt-BR",
             autoSave: data.autoSave ?? true,
             timeFormat: data.timeFormat || "24h",
+            totalExp: data.totalExp || 0,
+            lastCheckIn: data.lastCheckIn || null,
           });
           // createdAt vem da API como ISO string
           if (data.createdAt) setJoinDate(data.createdAt);
@@ -124,6 +134,43 @@ const Profile = ({ onNavigateToTasks, onLogout, showToast }) => {
     };
 
     loadData();
+
+    // Detecção de Sessão
+    const getSessionDetails = async () => {
+      try {
+        const ua = navigator.userAgent;
+        
+        // Browser
+        let browser = "Navegador";
+        if (ua.indexOf("Firefox") > -1) browser = "Firefox";
+        else if (ua.indexOf("Opera") > -1 || ua.indexOf("OPR") > -1) browser = "Opera";
+        else if (ua.indexOf("Edg") > -1) browser = "Edge";
+        else if (ua.indexOf("Chrome") > -1) browser = "Chrome";
+        else if (ua.indexOf("Safari") > -1) browser = "Safari";
+
+        // OS
+        let os = "";
+        if (ua.indexOf("Win") !== -1) os = "Windows";
+        else if (ua.indexOf("Mac") !== -1) os = "MacOS";
+        else if (ua.indexOf("Linux") !== -1) os = "Linux";
+        else if (ua.indexOf("Android") !== -1) os = "Android";
+        else if (ua.indexOf("like Mac") !== -1) os = "iOS";
+
+        // Device
+        let device = "Desktop";
+        if (/Mobi|Android/i.test(ua)) device = "Celular";
+        if (/Tablet|iPad/i.test(ua)) device = "Tablet";
+
+        // IP (Serviço externo leve)
+        const ipRes = await fetch("https://api.ipify.org?format=json");
+        const ipData = ipRes.ok ? await ipRes.json() : { ip: "Local/Privado" };
+
+        setSessionInfo({ ip: ipData.ip, device, browser, os });
+      } catch (error) {
+        console.error("Erro ao detectar sessão:", error);
+      }
+    };
+    getSessionDetails();
   }, []);
 
   if (isLoading) return <div>Carregando perfil...</div>;
@@ -316,6 +363,47 @@ const Profile = ({ onNavigateToTasks, onLogout, showToast }) => {
       setIsChangingPassword(false);
     }
   };
+
+  const handleCheckIn = async () => {
+    setIsLoading(true);
+    try {
+      const token = localStorage.getItem("token");
+      const response = await fetch("http://192.168.1.4:8080/api/user/checkin", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${token}`,
+        },
+      });
+
+      if (response.ok) {
+        const data = await response.json();
+        setUserData((prev) => ({
+          ...prev,
+          totalExp: data.totalExp,
+          lastCheckIn: data.lastCheckIn,
+        }));
+        showToast("Check-in realizado! +50 EXP 🚀", "success");
+      } else {
+        const errorText = await response.text();
+        showToast(errorText || "Erro ao realizar check-in.", "warning");
+      }
+    } catch (error) {
+      showToast("Erro de conexão.", "error");
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  const calculateLevel = (exp) => {
+    const level = Math.floor(exp / 100) + 1;
+    const currentLevelExp = exp % 100;
+    const progress = (currentLevelExp / 100) * 100;
+    return { level, currentLevelExp, progress };
+  };
+
+  const { level, currentLevelExp, progress } = calculateLevel(userData.totalExp);
+  const isCheckedInToday = userData.lastCheckIn === new Date().toISOString().split('T')[0];
 
   const formatJoinDate = (dateString) => {
     return new Date(dateString).toLocaleDateString("pt-BR", {
@@ -593,35 +681,88 @@ const Profile = ({ onNavigateToTasks, onLogout, showToast }) => {
                 </div>
               )}
 
-              {activeTab === "stats" && (
+               {activeTab === "stats" && (
                 <div className="space-y-6">
+                  {/* Barra de Nível Premium */}
+                  <div className="bg-gray-700/50 p-6 rounded-2xl border border-green-500/30 shadow-[0_0_20px_rgba(34,197,94,0.1)]">
+                    <div className="flex justify-between items-end mb-4">
+                      <div>
+                        <p className="text-green-400 text-sm font-bold uppercase tracking-wider">Nível Atual</p>
+                        <h3 className="text-4xl font-black text-white flex items-center gap-2">
+                          Lvl {level} <span className="text-xl font-normal text-gray-400">/ Master</span>
+                        </h3>
+                      </div>
+                      <div className="text-right">
+                        <p className="text-gray-400 text-xs mb-1">XP Total: {userData.totalExp}</p>
+                        <p className="text-white font-mono">{currentLevelExp} <span className="text-gray-500">/ 100 XP</span></p>
+                      </div>
+                    </div>
+                    <div className="w-full bg-gray-800 rounded-full h-4 p-1 border border-gray-600 shadow-inner">
+                      <div
+                        className="h-full rounded-full bg-gradient-to-r from-green-600 to-green-400 transition-all duration-1000 ease-out relative overflow-hidden"
+                        style={{ width: `${progress}%` }}
+                      >
+                        <div className="absolute inset-0 bg-white/20 animate-pulse"></div>
+                      </div>
+                    </div>
+                    <p className="text-center text-xs text-gray-500 mt-2 italic">
+                      Conclua tarefas para ganhar +5 XP cada!
+                    </p>
+                  </div>
+
+                  {/* Grid de Estatísticas */}
                   <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-                    <div className="bg-gray-700 p-4 rounded-lg text-center">
+                    <div className="bg-gray-700 p-4 rounded-xl border border-gray-600 flex flex-col items-center justify-center">
                       <div className="text-2xl font-bold text-green-400">
                         {stats.totalTasks}
                       </div>
-                      <div className="text-sm text-gray-400">
-                        Total de Tarefas
-                      </div>
+                      <div className="text-xs text-gray-400">Total</div>
                     </div>
-                    <div className="bg-gray-700 p-4 rounded-lg text-center">
+                    <div className="bg-gray-700 p-4 rounded-xl border border-gray-600 flex flex-col items-center justify-center">
                       <div className="text-2xl font-bold text-blue-400">
                         {stats.completedTasks}
                       </div>
-                      <div className="text-sm text-gray-400">Concluídas</div>
+                      <div className="text-xs text-gray-400">Concluídas</div>
                     </div>
-                    <div className="bg-gray-700 p-4 rounded-lg text-center">
+                    <div className="bg-gray-700 p-4 rounded-xl border border-gray-600 flex flex-col items-center justify-center">
                       <div className="text-2xl font-bold text-yellow-400">
                         {stats.pendingTasks}
                       </div>
-                      <div className="text-sm text-gray-400">Pendentes</div>
+                      <div className="text-xs text-gray-400">Pendentes</div>
                     </div>
-                    <div className="bg-gray-700 p-4 rounded-lg text-center">
+                    <div className="bg-gray-700 p-4 rounded-xl border border-gray-600 flex flex-col items-center justify-center">
                       <div className="text-2xl font-bold text-purple-400">
                         {stats.productivity}%
                       </div>
-                      <div className="text-sm text-gray-400">Produtividade</div>
+                      <div className="text-xs text-gray-400">Produtividade</div>
                     </div>
+                  </div>
+
+                  {/* Daily Mission / Check-in */}
+                  <div className="bg-gradient-to-r from-gray-700 to-gray-800 p-6 rounded-2xl border border-blue-500/30 flex flex-col md:flex-row items-center justify-between gap-6">
+                    <div className="flex items-center gap-4">
+                      <div className="w-16 h-16 bg-blue-500/10 rounded-2xl flex items-center justify-center text-3xl border border-blue-500/20">
+                        📅
+                      </div>
+                      <div>
+                        <h4 className="text-xl font-bold text-white">Missão Diária</h4>
+                        <p className="text-sm text-gray-400">Faça check-in diário para ganhar bônus de XP!</p>
+                      </div>
+                    </div>
+                    <button
+                      onClick={handleCheckIn}
+                      disabled={isCheckedInToday || isLoading}
+                      className={`px-8 py-3 rounded-xl font-bold transition-all transform hover:scale-105 active:scale-95 flex items-center gap-2 ${isCheckedInToday
+                        ? "bg-gray-600 text-gray-400 cursor-not-allowed"
+                        : "bg-blue-600 hover:bg-blue-500 text-white shadow-[0_0_20px_rgba(37,99,235,0.4)]"
+                        }`}
+                    >
+                      {isCheckedInToday ? (
+                        <>✅ Concluído</>
+                      ) : (
+                        <>🎁 Realizar Check-in (+50 XP)</>
+                      )}
+                    </button>
                   </div>
 
                   <div className="bg-gray-700 p-6 rounded-lg">
@@ -635,7 +776,7 @@ const Profile = ({ onNavigateToTasks, onLogout, showToast }) => {
                           {stats.completedTasks}/20
                         </span>
                       </div>
-                      <div className="w-full bg-gray-600 rounded-full h-2">
+                      <div className="w-full bg-gray-800 rounded-full h-2">
                         <div
                           className="bg-green-500 h-2 rounded-full transition-all duration-500"
                           style={{
@@ -646,20 +787,6 @@ const Profile = ({ onNavigateToTasks, onLogout, showToast }) => {
                           }}
                         ></div>
                       </div>
-                    </div>
-                  </div>
-
-                  <div className="bg-gray-700 p-6 rounded-lg">
-                    <h3 className="text-lg font-semibold mb-4">
-                      🔥 Sequência Atual
-                    </h3>
-                    <div className="text-center">
-                      <div className="text-3xl font-bold text-orange-400">
-                        {stats.streak} dias
-                      </div>
-                      <p className="text-gray-400 text-sm">
-                        Mantenha o ritmo! 🚀
-                      </p>
                     </div>
                   </div>
                 </div>
@@ -913,16 +1040,33 @@ const Profile = ({ onNavigateToTasks, onLogout, showToast }) => {
                     <h3 className="text-lg font-semibold mb-4">
                       📋 Sessões Ativas
                     </h3>
-                    <div className="space-y-2">
-                      <div className="flex justify-between items-center p-3 bg-gray-600 rounded">
-                        <div>
-                          <p className="font-medium">Este dispositivo</p>
-                          <p className="text-sm text-gray-400">
-                            Navegador • Online agora
-                          </p>
+                    <div className="space-y-4">
+                      <div className="flex justify-between items-center p-4 bg-gray-600 rounded-xl border border-gray-500">
+                        <div className="flex items-center space-x-4">
+                          <div className="text-2xl">
+                            {sessionInfo.device === "Celular" ? "📱" : sessionInfo.device === "Tablet" ? "平板" : "💻"}
+                          </div>
+                          <div>
+                            <p className="font-semibold flex items-center gap-2">
+                              {sessionInfo.os} ({sessionInfo.device})
+                              <span className="text-[10px] bg-green-500/20 text-green-400 px-2 py-0.5 rounded-full border border-green-500/30">ATUAL</span>
+                            </p>
+                            <p className="text-sm text-gray-400">
+                              {sessionInfo.browser} • {sessionInfo.ip}
+                            </p>
+                            <p className="text-[10px] text-gray-500 mt-1 uppercase tracking-wider">
+                              Conectado agora em {new Date().toLocaleDateString()}
+                            </p>
+                          </div>
                         </div>
-                        <span className="w-3 h-3 bg-green-400 rounded-full"></span>
+                        <div className="flex flex-col items-end">
+                          <span className="w-3 h-3 bg-green-400 rounded-full animate-pulse shadow-[0_0_8px_rgba(74,222,128,0.6)]"></span>
+                        </div>
                       </div>
+
+                      <p className="text-xs text-gray-500 text-center italic">
+                        Por motivos de segurança, apenas sessões verificadas são listadas.
+                      </p>
                     </div>
                   </div>
 

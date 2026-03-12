@@ -71,4 +71,10 @@ public class User {
   @Column(name = "bio", length = 500)
   private String bio;
 
+  @Column(name = "total_exp", nullable = false)
+  private Long totalExp = 0L;
+
+  @Column(name = "last_check_in")
+  private LocalDate lastCheckIn;
+
 }

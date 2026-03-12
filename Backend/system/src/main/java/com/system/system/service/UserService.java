@@ -117,7 +117,9 @@ public class UserService {
         saved.getEmail(),
         saved.getRazaoSocial(),
         saved.getCreatedAt(),
-        saved.getBio());
+        saved.getBio(),
+        saved.getTotalExp(),
+        saved.getLastCheckIn());
   }
 
   /** Altera a senha do usuário logado validando a senha atual */
@@ -161,5 +163,33 @@ public class UserService {
 
   public void deletar(Long id) {
     repository.deleteById(id);
+  }
+
+  /** Realiza o check-in diário e concede 50 EXP */
+  public UserResponseDTO realizarCheckin(String token) {
+    User user = buscarUsuarioPorToken(token);
+    if (user == null) {
+      throw new RuntimeException("Usuário não autenticado ou não encontrado");
+    }
+
+    java.time.LocalDate hoje = java.time.LocalDate.now();
+    if (user.getLastCheckIn() != null && user.getLastCheckIn().equals(hoje)) {
+      throw new RuntimeException("Você já realizou o check-in de hoje!");
+    }
+
+    user.setTotalExp(user.getTotalExp() + 50);
+    user.setLastCheckIn(hoje);
+    User saved = repository.save(user);
+
+    return new UserResponseDTO(
+        saved.getId(),
+        saved.getName(),
+        saved.getLastname(),
+        saved.getEmail(),
+        saved.getRazaoSocial(),
+        saved.getCreatedAt(),
+        saved.getBio(),
+        saved.getTotalExp(),
+        saved.getLastCheckIn());
   }
 }

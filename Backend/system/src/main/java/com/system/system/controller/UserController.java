@@ -70,8 +70,29 @@ public class UserController {
           user.getEmail(),
           user.getRazaoSocial(),
           user.getCreatedAt(),
-          user.getBio()));
+          user.getBio(),
+          user.getTotalExp(),
+          user.getLastCheckIn()));
 
+    } catch (Exception e) {
+      return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).build();
+    }
+  }
+
+  @PostMapping("/checkin")
+  public ResponseEntity<?> checkin(
+      @RequestHeader(value = "Authorization") String authorizationHeader) {
+    try {
+      if (authorizationHeader == null || !authorizationHeader.startsWith("Bearer ")) {
+        return ResponseEntity.status(HttpStatus.UNAUTHORIZED).build();
+      }
+
+      String token = authorizationHeader.substring(7);
+      UserResponseDTO updated = service.realizarCheckin(token);
+      return ResponseEntity.ok(updated);
+
+    } catch (RuntimeException e) {
+      return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(e.getMessage());
     } catch (Exception e) {
       return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).build();
     }

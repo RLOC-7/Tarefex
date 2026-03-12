@@ -73,7 +73,16 @@ public class TaskService {
     Task task = taskRepository.findById(id)
         .orElseThrow(() -> new RuntimeException("Task não encontrada"));
 
-    task.setCompleted(true);
+    if (!task.getCompleted()) {
+      task.setCompleted(true);
+      
+      // Ganha +5 EXP ao concluir tarefa
+      User user = task.getUser();
+      if (user != null) {
+        user.setTotalExp(user.getTotalExp() + 5);
+        userRepository.save(user);
+      }
+    }
 
     return taskRepository.save(task);
   }
