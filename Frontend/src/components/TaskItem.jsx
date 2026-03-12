@@ -94,11 +94,16 @@ const TaskItem = ({ task, onEdit, onToggleCompletion, onDelete, categories = [] 
             {/* Content */}
             <div className="flex-1 min-w-0">
               <h3
-                className={`font-semibold text-white mb-1 ${
-                  task.completed ? "line-through" : ""
+                className={`font-semibold text-white mb-1 flex items-center gap-2 ${
+                  task.completed ? "line-through text-gray-500" : ""
                 }`}
               >
                 {task.title}
+                {task.expRewarded && (
+                  <span className="text-[10px] bg-green-500/20 text-green-400 px-1.5 py-0.5 rounded border border-green-500/30 font-bold shrink-0">
+                    EXP+
+                  </span>
+                )}
               </h3>
 
               {task.description && (

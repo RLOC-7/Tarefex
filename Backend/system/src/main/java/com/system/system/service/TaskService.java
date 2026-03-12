@@ -76,11 +76,14 @@ public class TaskService {
     if (!task.getCompleted()) {
       task.setCompleted(true);
       
-      // Ganha +5 EXP ao concluir tarefa
-      User user = task.getUser();
-      if (user != null) {
-        user.setTotalExp(user.getTotalExp() + 5);
-        userRepository.save(user);
+      // Ganha +5 EXP ao concluir tarefa (apenas uma vez por tarefa)
+      if (task.getExpRewarded() == null || !task.getExpRewarded()) {
+        User user = task.getUser();
+        if (user != null) {
+          user.setTotalExp(user.getTotalExp() + 5);
+          userRepository.save(user);
+        }
+        task.setExpRewarded(true);
       }
     }
 

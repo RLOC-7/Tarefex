@@ -59,6 +59,9 @@ public class Task {
     this.createdAt = LocalDateTime.now();
   }
 
+  @Column(name = "exp_rewarded", nullable = false)
+  private Boolean expRewarded = false;
+
   @PreUpdate
   protected void onUpdate() {
     this.updatedAt = LocalDateTime.now();
