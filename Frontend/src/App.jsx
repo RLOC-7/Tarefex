@@ -20,6 +20,7 @@ function App() {
   const [isCategoryModalOpen, setIsCategoryModalOpen] = useState(false);
   const [editingCategory, setEditingCategory] = useState(null);
   const [tasks, setTasks] = useState([]);
+  const [userProfile, setUserProfile] = useState(null);
   const [filters, setFilters] = useState({
     status: "all",
     categories: [],
@@ -63,6 +64,12 @@ function App() {
             headers: { Authorization: `Bearer ${token}` },
           });
           if (taskRes.ok) setTasks(await taskRes.json());
+
+          // Carregar Perfil do Usuário
+          const profileRes = await fetch("http://192.168.1.4:8080/api/user/profile", {
+            headers: { Authorization: `Bearer ${token}` },
+          });
+          if (profileRes.ok) setUserProfile(await profileRes.json());
 
           // Carregar Categorias
           const catRes = await fetch("http://192.168.1.4:8080/api/categories", {
@@ -248,6 +255,18 @@ function App() {
         setTasks((prev) =>
           prev.map((task) => (task.id === taskId ? updatedTask : task))
         );
+        
+        // Se a tarefa foi concluída, atualiza o perfil (para o XP subir)
+        if (updatedTask.completed) {
+          const token = localStorage.getItem("token");
+          fetch("http://192.168.1.4:8080/api/user/profile", {
+            headers: { Authorization: `Bearer ${token}` },
+          })
+          .then(res => res.json())
+          .then(data => setUserProfile(data))
+          .catch(err => console.error("Erro ao atualizar perfil:", err));
+        }
+
         showToast(updatedTask.completed ? "Tarefa concluída! 🎉" : "Tarefa reaberta.", "info");
       }
     } catch (error) {
@@ -446,6 +465,7 @@ function App() {
         onTasks={handleTasks}
         onDashboard={handleDashboard}
         onSettings={handleSettings}
+        user={userProfile}
       />
 
       <main className="container mx-auto px-4 py-6">
