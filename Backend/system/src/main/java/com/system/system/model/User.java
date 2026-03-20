@@ -62,7 +62,8 @@ public class User {
   @Column(name = "cad_status", nullable = false)
   private Boolean cadStatus;
 
-  @Column(name = "razao_social", length = 255)
+  @NotBlank
+  @Column(name = "razao_social", nullable = false, length = 255)
   private String razaoSocial;
 
   @Column(name = "created_at", updatable = false)

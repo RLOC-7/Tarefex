@@ -21,7 +21,7 @@ public class TaskService {
   // CREATE
   public Task salvar(Task task) {
     if (task.getUser() != null && task.getUser().getId() != null) {
-
+  
       User user = userRepository.findById(task.getUser().getId())
           .orElseThrow(() -> new RuntimeException("Usuário não encontrado"));
 
@@ -75,7 +75,7 @@ public class TaskService {
 
     if (!task.getCompleted()) {
       task.setCompleted(true);
-      
+
       // Ganha +5 EXP ao concluir tarefa (apenas uma vez por tarefa)
       if (task.getExpRewarded() == null || !task.getExpRewarded()) {
         User user = task.getUser();

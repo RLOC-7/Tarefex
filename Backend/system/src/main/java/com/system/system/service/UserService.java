@@ -47,6 +47,9 @@ public class UserService {
     if (usuario.getCadStatus() == null) {
       usuario.setCadStatus(true);
     }
+    if (usuario.getRazaoSocial() == null || usuario.getRazaoSocial().isEmpty()) {
+      throw new IllegalArgumentException("Razao Social é obrigatório!");
+    }
 
     return repository.save(usuario);
   }
@@ -142,6 +145,9 @@ public class UserService {
   // ===== OPERAÇÕES DE BANCO =====
 
   public Optional<User> buscarPorId(Long id) {
+    if (id == null) {
+      throw new IllegalArgumentException("ID do usuário não pode ser nulo");
+    }
     return repository.findById(id);
   }
 
@@ -150,6 +156,9 @@ public class UserService {
   }
 
   public User atualizar(Long id, User dados) {
+    if (id == null) {
+      throw new IllegalArgumentException("ID do usuário não pode ser nulo");
+    }
     return repository.findById(id).map(reg -> {
       reg.setName(dados.getName());
       reg.setLastname(dados.getLastname());
@@ -162,6 +171,9 @@ public class UserService {
   }
 
   public void deletar(Long id) {
+    if (id == null) {
+      throw new IllegalArgumentException("ID do usuário não pode ser nulo");
+    }
     repository.deleteById(id);
   }
 

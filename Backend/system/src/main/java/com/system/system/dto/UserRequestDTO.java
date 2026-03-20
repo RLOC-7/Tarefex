@@ -7,12 +7,12 @@ import jakarta.validation.constraints.NotBlank;
 
 public record UserRequestDTO(
 
-    String name,
-    String lastname,
+    @NotBlank String name,
+    @NotBlank String lastname,
     LocalDate birth,
     @NotBlank @Email String email,
     String password,
     Boolean cadStatus,
-    String razaoSocial,
+    @NotBlank String razaoSocial,
     String bio) {
 }

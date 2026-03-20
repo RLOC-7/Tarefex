@@ -17,7 +17,7 @@ const Sidebar = ({
   const priorities = [
     { value: "high", label: "Alta", color: "text-red-400" },
     { value: "medium", label: "Média", color: "text-yellow-400" },
-    { value: "low", label: "Baixa", color: "text-blue-400" },
+    { value: "low", label: "Baixa", color: "text-green-400" },
   ];
 
   const completedTasks = tasks.filter((task) => task.completed).length;
@@ -52,10 +52,10 @@ const Sidebar = ({
     onFilterChange({ status: "all", categories: [], priorities: [] });
   };
 
-  const hasActiveFilters = 
-    searchTerm !== "" || 
-    filters.status !== "all" || 
-    filters.categories.length > 0 || 
+  const hasActiveFilters =
+    searchTerm !== "" ||
+    filters.status !== "all" ||
+    filters.categories.length > 0 ||
     filters.priorities.length > 0;
 
   return (
@@ -64,7 +64,7 @@ const Sidebar = ({
       <div className="flex items-center justify-between mb-6">
         <h2 className="text-xl font-bold text-white">Filtros</h2>
         {hasActiveFilters && (
-          <button 
+          <button
             onClick={clearAllFilters}
             className="text-xs text-green-400 hover:text-green-300 font-medium transition-colors"
           >
@@ -131,8 +131,8 @@ const Sidebar = ({
                   {status === "all"
                     ? "Todas"
                     : status === "active"
-                    ? "Pendentes"
-                    : "Concluídas"}
+                      ? "Pendentes"
+                      : "Concluídas"}
                 </span>
               </label>
             ))}
@@ -147,9 +147,8 @@ const Sidebar = ({
           >
             <span>Categorias</span>
             <svg
-              className={`w-5 h-5 transform transition-transform ${
-                isCategoriesOpen ? "rotate-180" : ""
-              }`}
+              className={`w-5 h-5 transform transition-transform ${isCategoriesOpen ? "rotate-180" : ""
+                }`}
               fill="none"
               stroke="currentColor"
               viewBox="0 0 24 24"
@@ -185,7 +184,7 @@ const Sidebar = ({
                       </span>
                     </div>
                     <div className="flex items-center space-x-2">
-                       <span className="text-[10px] text-gray-500 bg-gray-900 px-1.5 py-0.5 rounded-full flex-shrink-0">
+                      <span className="text-[10px] text-gray-500 bg-gray-900 px-1.5 py-0.5 rounded-full flex-shrink-0">
                         {getCategoryCount(cat.value)}
                       </span>
                       {/* Botão Editar (Apenas para categorias customizadas) */}
@@ -227,9 +226,8 @@ const Sidebar = ({
           >
             <span>Prioridade</span>
             <svg
-              className={`w-5 h-5 transform transition-transform ${
-                isPriorityOpen ? "rotate-180" : ""
-              }`}
+              className={`w-5 h-5 transform transition-transform ${isPriorityOpen ? "rotate-180" : ""
+                }`}
               fill="none"
               stroke="currentColor"
               viewBox="0 0 24 24"
@@ -246,7 +244,7 @@ const Sidebar = ({
             <div className="space-y-2">
               {priorities.map((p) => (
                 <label
-                  key={p.value} 
+                  key={p.value}
                   className="flex items-center space-x-3 cursor-pointer group"
                 >
                   <input

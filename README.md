@@ -26,6 +26,7 @@ Este projeto foi construído utilizando uma arquitetura desacoplada com um **Bac
 - **Spring Data JPA** (Hibernate)
 - **MySQL** (Persistência de dados)
 - **Lombok** (Melhoria de produtividade)
+- **Swagger** (Documentação da API)
 
 ### **Frontend**
 - **React.js** (Vite)
@@ -73,7 +74,8 @@ cd Tarefex
    ```bash
    npm run dev
    ```
-
+4. Consulta ao Swagger
+  [Swagger](http://localhost:8080/swagger-ui.html)
 ---
 
 ## 📐 Arquitetura do Projeto

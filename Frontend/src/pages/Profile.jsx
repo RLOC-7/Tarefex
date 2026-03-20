@@ -139,7 +139,7 @@ const Profile = ({ onNavigateToTasks, onLogout, showToast }) => {
     const getSessionDetails = async () => {
       try {
         const ua = navigator.userAgent;
-        
+
         // Browser
         let browser = "Navegador";
         if (ua.indexOf("Firefox") > -1) browser = "Firefox";
@@ -681,7 +681,7 @@ const Profile = ({ onNavigateToTasks, onLogout, showToast }) => {
                 </div>
               )}
 
-               {activeTab === "stats" && (
+              {activeTab === "stats" && (
                 <div className="space-y-6">
                   {/* Barra de Nível Premium */}
                   <div className="bg-gray-700/50 p-6 rounded-2xl border border-green-500/30 shadow-[0_0_20px_rgba(34,197,94,0.1)]">

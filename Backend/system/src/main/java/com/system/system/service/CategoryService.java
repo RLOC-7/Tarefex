@@ -19,14 +19,23 @@ public class CategoryService {
   }
 
   public Category salvar(Category category) {
+    if (category == null) {
+      throw new IllegalArgumentException("ID do usuário não pode ser nulo");
+    }
     return categoryRepository.save(category);
   }
 
   public void deletar(Long id) {
+    if (id == null) {
+      throw new IllegalArgumentException("ID do usuário não pode ser nulo");
+    }
     categoryRepository.deleteById(id);
   }
 
   public java.util.Optional<Category> buscarPorId(Long id) {
+    if (id == null) {
+      throw new IllegalArgumentException("ID do usuário não pode ser nulo");
+    }
     return categoryRepository.findById(id);
   }
 }
